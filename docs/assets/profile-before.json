@@ -1,0 +1,247 @@
+{
+  "base": "http://localhost:4173",
+  "label": "before",
+  "date": "2026-10-13T21:31:07.352Z",
+  "results": {
+    "mobile": {
+      "errors": [
+        "⚠️ React Router Future Flag Warning: React Router will begin wrapping state updates in `React.startTransition` in v7. You can use the `v7_startTransition` future flag to opt-in early. For more informa",
+        "⚠️ React Router Future Flag Warning: Relative route resolution within Splat routes is changing in v7. You can use the `v7_relativeSplatPath` future flag to opt-in early. For more information, see http",
+        "⚠️ React Router Future Flag Warning: React Router will begin wrapping state updates in `React.startTransition` in v7. You can use the `v7_startTransition` future flag to opt-in early. For more informa",
+        "⚠️ React Router Future Flag Warning: Relative route resolution within Splat routes is changing in v7. You can use the `v7_relativeSplatPath` future flag to opt-in early. For more information, see http",
+        "⚠️ React Router Future Flag Warning: React Router will begin wrapping state updates in `React.startTransition` in v7. You can use the `v7_startTransition` future flag to opt-in early. For more informa",
+        "⚠️ React Router Future Flag Warning: Relative route resolution within Splat routes is changing in v7. You can use the `v7_relativeSplatPath` future flag to opt-in early. For more information, see http"
+      ],
+      "loadMs": 1524,
+      "loadLongTasks": {
+        "count": 5,
+        "totalMs": 1191,
+        "maxMs": 546
+      },
+      "slowScroll": {
+        "frames": 734,
+        "medianMs": 16.7,
+        "p95Ms": 50,
+        "maxMs": 117,
+        "jank50": 33,
+        "droppedPct": 28.3,
+        "work": {
+          "scriptMs": 565,
+          "styleMs": 1778,
+          "layoutMs": 1404,
+          "taskMs": 10964,
+          "layouts": 762,
+          "styleRecalcs": 779
+        },
+        "longTasks": 15
+      },
+      "fastScroll": {
+        "frames": 341,
+        "medianMs": 33.3,
+        "p95Ms": 50,
+        "maxMs": 183,
+        "jank50": 19,
+        "droppedPct": 16.1,
+        "work": {
+          "scriptMs": 464,
+          "styleMs": 844,
+          "layoutMs": 554,
+          "taskMs": 7186,
+          "layouts": 358,
+          "styleRecalcs": 422
+        }
+      },
+      "slider": {
+        "frames": 289,
+        "medianMs": 16.7,
+        "p95Ms": 67,
+        "maxMs": 167,
+        "jank50": 37,
+        "droppedPct": 40.5,
+        "inputToPaintMs": [
+          187,
+          131,
+          147,
+          150,
+          132,
+          90
+        ],
+        "work": {
+          "scriptMs": 460,
+          "styleMs": 3440,
+          "layoutMs": 455,
+          "taskMs": 8208,
+          "layouts": 361,
+          "styleRecalcs": 484
+        }
+      },
+      "pasta": {
+        "frames": 121,
+        "medianMs": 16.7,
+        "p95Ms": 50,
+        "maxMs": 50,
+        "jank50": 2,
+        "droppedPct": 26.4,
+        "work": {
+          "scriptMs": 68,
+          "styleMs": 207,
+          "layoutMs": 152,
+          "taskMs": 2015,
+          "layouts": 123,
+          "styleRecalcs": 127
+        }
+      },
+      "cls": 0.054,
+      "catalog": {
+        "filterInputToPaintMs": 435,
+        "searchSettledMs": 448,
+        "scroll": {
+          "frames": 161,
+          "medianMs": 16.7,
+          "p95Ms": 33,
+          "maxMs": 50,
+          "jank50": 1,
+          "droppedPct": 5.6,
+          "work": {
+            "scriptMs": 218,
+            "styleMs": 57,
+            "layoutMs": 72,
+            "taskMs": 1209,
+            "layouts": 16,
+            "styleRecalcs": 42
+          }
+        }
+      },
+      "navigation": {
+        "clientNavMs": {
+          "median": 144,
+          "max": 950
+        },
+        "heapStartMB": 3.7,
+        "heapEndMB": 4.2,
+        "domNodes": 3600,
+        "listeners": 328
+      }
+    },
+    "laptop": {
+      "errors": [
+        "⚠️ React Router Future Flag Warning: React Router will begin wrapping state updates in `React.startTransition` in v7. You can use the `v7_startTransition` future flag to opt-in early. For more informa",
+        "⚠️ React Router Future Flag Warning: Relative route resolution within Splat routes is changing in v7. You can use the `v7_relativeSplatPath` future flag to opt-in early. For more information, see http",
+        "⚠️ React Router Future Flag Warning: React Router will begin wrapping state updates in `React.startTransition` in v7. You can use the `v7_startTransition` future flag to opt-in early. For more informa",
+        "⚠️ React Router Future Flag Warning: Relative route resolution within Splat routes is changing in v7. You can use the `v7_relativeSplatPath` future flag to opt-in early. For more information, see http",
+        "⚠️ React Router Future Flag Warning: React Router will begin wrapping state updates in `React.startTransition` in v7. You can use the `v7_startTransition` future flag to opt-in early. For more informa",
+        "⚠️ React Router Future Flag Warning: Relative route resolution within Splat routes is changing in v7. You can use the `v7_relativeSplatPath` future flag to opt-in early. For more information, see http"
+      ],
+      "loadMs": 896,
+      "loadLongTasks": {
+        "count": 10,
+        "totalMs": 1192,
+        "maxMs": 254
+      },
+      "slowScroll": {
+        "frames": 869,
+        "medianMs": 16.7,
+        "p95Ms": 33,
+        "maxMs": 100,
+        "jank50": 15,
+        "droppedPct": 21.9,
+        "work": {
+          "scriptMs": 541,
+          "styleMs": 1654,
+          "layoutMs": 1015,
+          "taskMs": 9644,
+          "layouts": 918,
+          "styleRecalcs": 984
+        },
+        "longTasks": 5
+      },
+      "fastScroll": {
+        "frames": 381,
+        "medianMs": 16.8,
+        "p95Ms": 50,
+        "maxMs": 100,
+        "jank50": 16,
+        "droppedPct": 49.9,
+        "work": {
+          "scriptMs": 534,
+          "styleMs": 983,
+          "layoutMs": 493,
+          "taskMs": 6849,
+          "layouts": 434,
+          "styleRecalcs": 547
+        }
+      },
+      "slider": {
+        "frames": 272,
+        "medianMs": 16.8,
+        "p95Ms": 67,
+        "maxMs": 283,
+        "jank50": 26,
+        "droppedPct": 47.8,
+        "inputToPaintMs": [
+          103,
+          90,
+          89,
+          68,
+          160,
+          59
+        ],
+        "work": {
+          "scriptMs": 502,
+          "styleMs": 3722,
+          "layoutMs": 374,
+          "taskMs": 7903,
+          "layouts": 357,
+          "styleRecalcs": 475
+        }
+      },
+      "pasta": {
+        "frames": 102,
+        "medianMs": 33.3,
+        "p95Ms": 50,
+        "maxMs": 50,
+        "jank50": 0,
+        "droppedPct": 5.9,
+        "work": {
+          "scriptMs": 156,
+          "styleMs": 279,
+          "layoutMs": 155,
+          "taskMs": 1842,
+          "layouts": 124,
+          "styleRecalcs": 185
+        }
+      },
+      "cls": 10.661,
+      "catalog": {
+        "filterInputToPaintMs": 205,
+        "searchSettledMs": 329,
+        "scroll": {
+          "frames": 162,
+          "medianMs": 16.7,
+          "p95Ms": 17,
+          "maxMs": 33,
+          "jank50": 0,
+          "droppedPct": 3.1,
+          "work": {
+            "scriptMs": 144,
+            "styleMs": 36,
+            "layoutMs": 49,
+            "taskMs": 800,
+            "layouts": 22,
+            "styleRecalcs": 33
+          }
+        }
+      },
+      "navigation": {
+        "clientNavMs": {
+          "median": 65,
+          "max": 675
+        },
+        "heapStartMB": 4.3,
+        "heapEndMB": 5.5,
+        "domNodes": 10703,
+        "listeners": 1320
+      }
+    }
+  }
+}

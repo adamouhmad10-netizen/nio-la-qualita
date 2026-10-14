@@ -1,0 +1,29 @@
+# dependencies and build output
+node_modules/
+dist/
+dist-ssr/
+*.tsbuildinfo
+.DS_Store
+*.log
+.vite/
+
+# third-party reference material used only for art direction (not ours to publish)
+source/motion-ref-*.mp4
+source/reference-design.png
+
+# raw measurement dumps (summaries are in docs/*.md)
+docs/assets/lighthouse/
+docs/assets/lighthouse-before/
+
+# QA captures: only the curated set is versioned
+docs/screenshots/**/*.png
+docs/screenshots/**/*.webp
+docs/screenshots/**/*.jpg
+!docs/screenshots/**/compare-*.png
+!docs/screenshots/**/FULLPAGE-*
+!docs/screenshots/**/transparency-check.png
+!docs/screenshots/*--desktop.png
+!docs/screenshots/*--desktop.part*.png
+!docs/screenshots/*--mobile.png
+!docs/screenshots/*--mobile.part*.png
+!docs/screenshots/**/*-viewport-*.png

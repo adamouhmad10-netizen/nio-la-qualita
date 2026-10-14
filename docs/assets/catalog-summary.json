@@ -1,0 +1,120 @@
+{
+  "summary": {
+    "families": 206,
+    "codes": 276,
+    "uniqueCodes": 275,
+    "byCategory": {
+      "pasta": {
+        "families": 45,
+        "codes": 45
+      },
+      "riso": {
+        "families": 9,
+        "codes": 11
+      },
+      "salumi": {
+        "families": 14,
+        "codes": 18
+      },
+      "formaggi": {
+        "families": 43,
+        "codes": 45
+      },
+      "miele": {
+        "families": 6,
+        "codes": 11
+      },
+      "conserve": {
+        "families": 16,
+        "codes": 37
+      },
+      "tonno": {
+        "families": 5,
+        "codes": 9
+      },
+      "tartufi": {
+        "families": 6,
+        "codes": 14
+      },
+      "doppio-senso": {
+        "families": 1,
+        "codes": 6
+      },
+      "alcolici": {
+        "families": 61,
+        "codes": 80
+      }
+    },
+    "byStatus": {
+      "verified": 130,
+      "partial": 73,
+      "ambiguous": 3
+    },
+    "withoutImage": 61
+  },
+  "warnings": [
+    "nqm002: no catalogue image (GRAPPA TOSCANA)",
+    "nqm006: no catalogue image (GRAPPA TOSCANA INVECCHIATA)",
+    "nqm011: no catalogue image (GRAPPA 40% BIANCA)",
+    "nqm016: no catalogue image (GRAPPA 98 INVECCHIATA)",
+    "nqm020: no catalogue image (GRAPPA DI MOSCATO)",
+    "nqm021: no catalogue image (GRAPPA MOSCATO RISERVA)",
+    "nqm047: no catalogue image (GRAPPA DI MOSCATO RISERVA)",
+    "nqm138: no catalogue image (DECANTER GRAPPA MOSCATO RISERVA)",
+    "nqm024: no catalogue image (GRAPPA CHIANTI)",
+    "nqm026: no catalogue image (GRAPPA CHIANTI RISERVA)",
+    "nqm139: no catalogue image (GRAPPA DI CHIANTI RISERVA)",
+    "nqm031: no catalogue image (GRAPPA DI BRUNELLO)",
+    "nqm056: no catalogue image (GRAPPA DI BRUNELLO RISERVA)",
+    "nqm046: no catalogue image (GRAPPA DI MORELLINO)",
+    "nqm033: no catalogue image (GRAPPA MIELE)",
+    "nqm034: no catalogue image (GRAPPA 50 E 50 RISERVA)",
+    "nqm035: no catalogue image (GRAPPA STRAVECCHIA)",
+    "nqm038: no catalogue image (GRAPPA CRU 98)",
+    "nqm041: no catalogue image (GRAPPA CENTENARIO VS)",
+    "nqm057: no catalogue image (AMARO ALL’ARANCIA)",
+    "nqm059: no catalogue image (AMARETTO DELLA TORRE)",
+    "nqm062: no catalogue image (AMARO ETRUSCO)",
+    "nqm064: no catalogue image (AMARO V ERA)",
+    "nqm068: no catalogue image (ARANCINO)",
+    "nqm072: no catalogue image (LIMONCINO)",
+    "nqm075: no catalogue image (LIQUORE RABARBARO)",
+    "nqm092: no catalogue image (LIQUORE PINOLO)",
+    "nqm093: no catalogue image (LIQUORE PISTACCHIO)",
+    "nqm142: no catalogue image (LIQUORE MELONCINO)",
+    "nqm091: no catalogue image (LIQUORE RHUM E MIELE 25%)",
+    "nqm122: no catalogue image (SAMBUCA)",
+    "nqm125: no catalogue image (SAMBUCA AL CAFFE)",
+    "nqm079: no catalogue image (SPIRITO DI CAFFE)",
+    "nqm080: no catalogue image (SPIRITO DI MIRTILLO)",
+    "nqm081: no catalogue image (SPIRITO DI LIQUIRIZIA)",
+    "nqm082: no catalogue image (SPIRITO DI FRAGOLA)",
+    "nqm083: no catalogue image (SPIRITO DI CILIEGIA)",
+    "nqm084: no catalogue image (SPIRITO DI CACAO)",
+    "nqm085: no catalogue image (SPIRITO DI NOCE)",
+    "nqm089: no catalogue image (RHUM INVECCHIATO 40%)",
+    "nqm090: no catalogue image (RHUM AL PONCE ALLA TOSCANA 40%)",
+    "nqm094: no catalogue image (GIN BOTANICO)",
+    "nqm143: no catalogue image (GIN BOTANICO TIMO E CAMOMILLA)",
+    "nqm095: no catalogue image (GIN FONDATORE)",
+    "nqm097: no catalogue image (GIN ZAFFERANO)",
+    "nqm099: no catalogue image (CREME VARIO GENERE ARANCINO)",
+    "nqm102: no catalogue image (CREME VARIO GENERE IRIS)",
+    "nqm105: no catalogue image (CREME VARIO GENERE CAFFE)",
+    "nqm107: no catalogue image (CREME VARIO GENERE FRAGOLA)",
+    "nqm110: no catalogue image (CREME VARIO GENERE FIOR DI LATTE)",
+    "nqm113: no catalogue image (CREME VARIO GENERE GIANDUIA)",
+    "nqm116: no catalogue image (CREME VARIO GENERE CARAIBI)",
+    "nqm120: no catalogue image (CREME VARIO GENERE PISTACCHIO)",
+    "nqm144: no catalogue image (CREME VARIO GENERE CIOCCOLATO)",
+    "nqm145: no catalogue image (CREME VARIO GENERE MELONCELLO)",
+    "nqm147: no catalogue image (CREME VARIO GENERE BANANA)",
+    "nqm148: no catalogue image (CREME VARIO GENERE MENTA)",
+    "nqm127: no catalogue image (BITTER)",
+    "nqm129: no catalogue image (APERITIVO DI TOSCANA)",
+    "nqm131: no catalogue image (APRICOT)",
+    "nqm133: no catalogue image (TRIPLESEC)",
+    "code NQS421 used by: LONZARDO | PROSCIUTTO SCELTO PER GOLOSA QUALITÀ"
+  ],
+  "errors": []
+}

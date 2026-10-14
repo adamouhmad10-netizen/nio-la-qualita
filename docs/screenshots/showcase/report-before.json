@@ -1,0 +1,933 @@
+[
+  {
+    "vp": "320x640",
+    "slide": 1,
+    "word": "Pasta",
+    "issues": [],
+    "gapImgToName": 183,
+    "sectionH": 935,
+    "overflow": 0
+  },
+  {
+    "vp": "320x640",
+    "slide": 2,
+    "word": "Formaggi",
+    "issues": [
+      ".showcase__name∩word 6677px²",
+      ".showcase__cat∩word 1066px²",
+      "floater0∩image 1714px²",
+      "floater1∩image 745px²",
+      "section label under sticky chrome by 516px"
+    ],
+    "gapImgToName": 139,
+    "sectionH": 935,
+    "overflow": 0
+  },
+  {
+    "vp": "320x640",
+    "slide": 3,
+    "word": "Salumi",
+    "issues": [
+      ".showcase__name∩word 17818px²",
+      "section label under sticky chrome by 362px"
+    ],
+    "gapImgToName": 38,
+    "sectionH": 935,
+    "overflow": 0
+  },
+  {
+    "vp": "320x640",
+    "slide": 4,
+    "word": "Riso",
+    "issues": [
+      "floater0∩image 1714px²",
+      "floater1∩image 745px²",
+      "section label under sticky chrome by 362px"
+    ],
+    "gapImgToName": 211,
+    "sectionH": 935,
+    "overflow": 0
+  },
+  {
+    "vp": "320x640",
+    "slide": 5,
+    "word": "Miele",
+    "issues": [
+      "floater0∩image 1714px²",
+      "floater1∩image 745px²",
+      "section label under sticky chrome by 362px"
+    ],
+    "gapImgToName": 166,
+    "sectionH": 935,
+    "overflow": 0
+  },
+  {
+    "vp": "320x640",
+    "slide": 6,
+    "word": "Conserve",
+    "issues": [
+      ".showcase__name∩word 5766px²",
+      ".showcase__cat∩word 2649px²",
+      "section label under sticky chrome by 362px"
+    ],
+    "gapImgToName": 142,
+    "sectionH": 935,
+    "overflow": 0
+  },
+  {
+    "vp": "320x640",
+    "slide": 7,
+    "word": "Mare",
+    "issues": [
+      ".showcase__name∩word 2176px²",
+      ".showcase__cat∩word 2588px²",
+      "floater0∩image 1087px²",
+      "section label under sticky chrome by 362px"
+    ],
+    "gapImgToName": 139,
+    "sectionH": 935,
+    "overflow": 0
+  },
+  {
+    "vp": "320x640",
+    "slide": 8,
+    "word": "Tartufi",
+    "issues": [
+      ".showcase__name∩word 15591px²",
+      ".showcase__cat∩word 152px²",
+      "section label under sticky chrome by 362px"
+    ],
+    "gapImgToName": 80,
+    "sectionH": 935,
+    "overflow": 0
+  },
+  {
+    "vp": "360x740",
+    "slide": 1,
+    "word": "Pasta",
+    "issues": [],
+    "gapImgToName": 169,
+    "sectionH": 935,
+    "overflow": 0
+  },
+  {
+    "vp": "360x740",
+    "slide": 2,
+    "word": "Formaggi",
+    "issues": [
+      ".showcase__name∩word 517px²",
+      ".showcase__cat∩word 764px²",
+      "floater0∩image 1552px²",
+      "floater1∩image 827px²",
+      "section label under sticky chrome by 465px"
+    ],
+    "gapImgToName": 123,
+    "sectionH": 935,
+    "overflow": 0
+  },
+  {
+    "vp": "360x740",
+    "slide": 3,
+    "word": "Salumi",
+    "issues": [
+      ".showcase__name∩word 13205px²",
+      "section label under sticky chrome by 262px"
+    ],
+    "gapImgToName": 55,
+    "sectionH": 935,
+    "overflow": 0
+  },
+  {
+    "vp": "360x740",
+    "slide": 4,
+    "word": "Riso",
+    "issues": [
+      "floater0∩image 1552px²",
+      "floater1∩image 827px²",
+      "section label under sticky chrome by 262px"
+    ],
+    "gapImgToName": 169,
+    "sectionH": 935,
+    "overflow": 0
+  },
+  {
+    "vp": "360x740",
+    "slide": 5,
+    "word": "Miele",
+    "issues": [
+      "floater0∩image 1552px²",
+      "floater1∩image 827px²",
+      "section label under sticky chrome by 262px"
+    ],
+    "gapImgToName": 151,
+    "sectionH": 935,
+    "overflow": 0
+  },
+  {
+    "vp": "360x740",
+    "slide": 6,
+    "word": "Conserve",
+    "issues": [
+      ".showcase__cat∩word 2345px²",
+      "section label under sticky chrome by 262px"
+    ],
+    "gapImgToName": 133,
+    "sectionH": 935,
+    "overflow": 0
+  },
+  {
+    "vp": "360x740",
+    "slide": 7,
+    "word": "Mare",
+    "issues": [
+      ".showcase__name∩word 1877px²",
+      ".showcase__cat∩word 2567px²",
+      "floater0∩image 1030px²",
+      "floater1∩image 459px²",
+      "section label under sticky chrome by 262px"
+    ],
+    "gapImgToName": 96,
+    "sectionH": 935,
+    "overflow": 0
+  },
+  {
+    "vp": "360x740",
+    "slide": 8,
+    "word": "Tartufi",
+    "issues": [
+      ".showcase__name∩word 16584px²",
+      ".showcase__cat∩word 151px²",
+      "section label under sticky chrome by 262px"
+    ],
+    "gapImgToName": 36,
+    "sectionH": 935,
+    "overflow": 0
+  },
+  {
+    "vp": "375x812",
+    "slide": 1,
+    "word": "Pasta",
+    "issues": [],
+    "gapImgToName": 170,
+    "sectionH": 969,
+    "overflow": 0
+  },
+  {
+    "vp": "375x812",
+    "slide": 2,
+    "word": "Formaggi",
+    "issues": [
+      ".showcase__cat∩word 557px²",
+      "floater0∩image 1491px²",
+      "floater1∩image 857px²",
+      "section label under sticky chrome by 464px"
+    ],
+    "gapImgToName": 124,
+    "sectionH": 969,
+    "overflow": 0
+  },
+  {
+    "vp": "375x812",
+    "slide": 3,
+    "word": "Salumi",
+    "issues": [
+      ".showcase__name∩word 10639px²",
+      "section label under sticky chrome by 225px"
+    ],
+    "gapImgToName": 56,
+    "sectionH": 969,
+    "overflow": 0
+  },
+  {
+    "vp": "375x812",
+    "slide": 4,
+    "word": "Riso",
+    "issues": [
+      "floater0∩image 1491px²",
+      "floater1∩image 857px²",
+      "section label under sticky chrome by 225px"
+    ],
+    "gapImgToName": 170,
+    "sectionH": 969,
+    "overflow": 0
+  },
+  {
+    "vp": "375x812",
+    "slide": 5,
+    "word": "Miele",
+    "issues": [
+      "floater0∩image 1491px²",
+      "floater1∩image 857px²",
+      "section label under sticky chrome by 225px"
+    ],
+    "gapImgToName": 152,
+    "sectionH": 969,
+    "overflow": 0
+  },
+  {
+    "vp": "375x812",
+    "slide": 6,
+    "word": "Conserve",
+    "issues": [
+      ".showcase__cat∩word 680px²",
+      "section label under sticky chrome by 225px"
+    ],
+    "gapImgToName": 134,
+    "sectionH": 969,
+    "overflow": 0
+  },
+  {
+    "vp": "375x812",
+    "slide": 7,
+    "word": "Mare",
+    "issues": [
+      ".showcase__name∩word 819px²",
+      ".showcase__cat∩word 2464px²",
+      "floater0∩image 1324px²",
+      "floater1∩image 739px²",
+      "section label under sticky chrome by 225px"
+    ],
+    "gapImgToName": 97,
+    "sectionH": 969,
+    "overflow": 0
+  },
+  {
+    "vp": "375x812",
+    "slide": 8,
+    "word": "Tartufi",
+    "issues": [
+      ".showcase__name∩word 14149px²",
+      ".showcase__cat∩word 1898px²",
+      "section label under sticky chrome by 225px"
+    ],
+    "gapImgToName": 37,
+    "sectionH": 969,
+    "overflow": 0
+  },
+  {
+    "vp": "390x844",
+    "slide": 1,
+    "word": "Pasta",
+    "issues": [],
+    "gapImgToName": 152,
+    "sectionH": 966,
+    "overflow": 0
+  },
+  {
+    "vp": "390x844",
+    "slide": 2,
+    "word": "Formaggi",
+    "issues": [
+      ".showcase__cat∩word 611px²",
+      "floater0∩image 1430px²",
+      "floater1∩image 888px²",
+      "section label under sticky chrome by 86px"
+    ],
+    "gapImgToName": 106,
+    "sectionH": 966,
+    "overflow": 0
+  },
+  {
+    "vp": "390x844",
+    "slide": 3,
+    "word": "Salumi",
+    "issues": [
+      ".showcase__name∩word 11869px²",
+      "section label under sticky chrome by 86px"
+    ],
+    "gapImgToName": 37,
+    "sectionH": 966,
+    "overflow": 0
+  },
+  {
+    "vp": "390x844",
+    "slide": 4,
+    "word": "Riso",
+    "issues": [
+      "floater0∩image 1430px²",
+      "floater1∩image 888px²",
+      "section label under sticky chrome by 86px"
+    ],
+    "gapImgToName": 152,
+    "sectionH": 966,
+    "overflow": 0
+  },
+  {
+    "vp": "390x844",
+    "slide": 5,
+    "word": "Miele",
+    "issues": [
+      "floater0∩image 1430px²",
+      "floater1∩image 888px²",
+      "section label under sticky chrome by 86px"
+    ],
+    "gapImgToName": 134,
+    "sectionH": 966,
+    "overflow": 0
+  },
+  {
+    "vp": "390x844",
+    "slide": 6,
+    "word": "Conserve",
+    "issues": [
+      ".showcase__cat∩word 1128px²",
+      "section label under sticky chrome by 86px"
+    ],
+    "gapImgToName": 116,
+    "sectionH": 966,
+    "overflow": 0
+  },
+  {
+    "vp": "390x844",
+    "slide": 7,
+    "word": "Mare",
+    "issues": [
+      ".showcase__cat∩word 2284px²",
+      "floater0∩image 1251px²",
+      "floater1∩image 762px²",
+      "section label under sticky chrome by 86px"
+    ],
+    "gapImgToName": 107,
+    "sectionH": 966,
+    "overflow": 0
+  },
+  {
+    "vp": "390x844",
+    "slide": 8,
+    "word": "Tartufi",
+    "issues": [
+      ".showcase__name∩word 8607px²",
+      ".showcase__cat∩word 1893px²",
+      "section label under sticky chrome by 86px"
+    ],
+    "gapImgToName": 53,
+    "sectionH": 966,
+    "overflow": 0
+  },
+  {
+    "vp": "430x932",
+    "slide": 1,
+    "word": "Pasta",
+    "issues": [],
+    "gapImgToName": 155,
+    "sectionH": 1010,
+    "overflow": 0
+  },
+  {
+    "vp": "430x932",
+    "slide": 2,
+    "word": "Formaggi",
+    "issues": [
+      ".showcase__cat∩word 65px²",
+      "floater0∩image 1268px²",
+      "floater1∩image 969px²",
+      "section label under sticky chrome by 46px"
+    ],
+    "gapImgToName": 108,
+    "sectionH": 1010,
+    "overflow": 0
+  },
+  {
+    "vp": "430x932",
+    "slide": 3,
+    "word": "Salumi",
+    "issues": [
+      ".showcase__name∩word 9248px²",
+      "section label under sticky chrome by 46px"
+    ],
+    "gapImgToName": 38,
+    "sectionH": 1010,
+    "overflow": 0
+  },
+  {
+    "vp": "430x932",
+    "slide": 4,
+    "word": "Riso",
+    "issues": [
+      "floater0∩image 1268px²",
+      "floater1∩image 969px²",
+      "section label under sticky chrome by 46px"
+    ],
+    "gapImgToName": 182,
+    "sectionH": 1010,
+    "overflow": 0
+  },
+  {
+    "vp": "430x932",
+    "slide": 5,
+    "word": "Miele",
+    "issues": [
+      "floater0∩image 1268px²",
+      "floater1∩image 969px²",
+      "section label under sticky chrome by 46px"
+    ],
+    "gapImgToName": 137,
+    "sectionH": 1010,
+    "overflow": 0
+  },
+  {
+    "vp": "430x932",
+    "slide": 6,
+    "word": "Conserve",
+    "issues": [
+      "section label under sticky chrome by 46px"
+    ],
+    "gapImgToName": 155,
+    "sectionH": 1010,
+    "overflow": 0
+  },
+  {
+    "vp": "430x932",
+    "slide": 7,
+    "word": "Mare",
+    "issues": [
+      ".showcase__cat∩word 68px²",
+      "floater0∩image 1084px²",
+      "floater1∩image 840px²",
+      "section label under sticky chrome by 46px"
+    ],
+    "gapImgToName": 110,
+    "sectionH": 1010,
+    "overflow": 0
+  },
+  {
+    "vp": "430x932",
+    "slide": 8,
+    "word": "Tartufi",
+    "issues": [
+      ".showcase__name∩word 5625px²",
+      ".showcase__cat∩word 1649px²",
+      "section label under sticky chrome by 46px"
+    ],
+    "gapImgToName": 55,
+    "sectionH": 1010,
+    "overflow": 0
+  },
+  {
+    "vp": "768x1024",
+    "slide": 1,
+    "word": "Pasta",
+    "issues": [],
+    "gapImgToName": 94,
+    "sectionH": 1020,
+    "overflow": 0
+  },
+  {
+    "vp": "768x1024",
+    "slide": 2,
+    "word": "Formaggi",
+    "issues": [
+      "floater1∩image 2751px²"
+    ],
+    "gapImgToName": 89,
+    "sectionH": 1020,
+    "overflow": 0
+  },
+  {
+    "vp": "768x1024",
+    "slide": 3,
+    "word": "Salumi",
+    "issues": [
+      ".showcase__name∩word 8371px²"
+    ],
+    "gapImgToName": 39,
+    "sectionH": 1020,
+    "overflow": 0
+  },
+  {
+    "vp": "768x1024",
+    "slide": 4,
+    "word": "Riso",
+    "issues": [
+      "floater1∩image 1502px²"
+    ],
+    "gapImgToName": 122,
+    "sectionH": 1020,
+    "overflow": 0
+  },
+  {
+    "vp": "768x1024",
+    "slide": 5,
+    "word": "Miele",
+    "issues": [
+      "floater1∩image 2751px²"
+    ],
+    "gapImgToName": 105,
+    "sectionH": 1020,
+    "overflow": 0
+  },
+  {
+    "vp": "768x1024",
+    "slide": 6,
+    "word": "Conserve",
+    "issues": [],
+    "gapImgToName": 122,
+    "sectionH": 1020,
+    "overflow": 0
+  },
+  {
+    "vp": "768x1024",
+    "slide": 7,
+    "word": "Mare",
+    "issues": [],
+    "gapImgToName": 83,
+    "sectionH": 1020,
+    "overflow": 0
+  },
+  {
+    "vp": "768x1024",
+    "slide": 8,
+    "word": "Tartufi",
+    "issues": [
+      ".showcase__name∩word 4724px²"
+    ],
+    "gapImgToName": 50,
+    "sectionH": 1020,
+    "overflow": 0
+  },
+  {
+    "vp": "1024x768",
+    "slide": 1,
+    "word": "Pasta",
+    "issues": [],
+    "gapImgToName": 148,
+    "sectionH": 913,
+    "overflow": 0
+  },
+  {
+    "vp": "1024x768",
+    "slide": 2,
+    "word": "Formaggi",
+    "issues": [
+      ".showcase__name∩word 16154px²",
+      "section label under sticky chrome by 394px"
+    ],
+    "gapImgToName": 92,
+    "sectionH": 913,
+    "overflow": 0
+  },
+  {
+    "vp": "1024x768",
+    "slide": 3,
+    "word": "Salumi",
+    "issues": [
+      ".showcase__name∩word 28961px²",
+      "section label under sticky chrome by 210px"
+    ],
+    "gapImgToName": 36,
+    "sectionH": 913,
+    "overflow": 0
+  },
+  {
+    "vp": "1024x768",
+    "slide": 4,
+    "word": "Riso",
+    "issues": [
+      "section label under sticky chrome by 210px"
+    ],
+    "gapImgToName": 176,
+    "sectionH": 913,
+    "overflow": 0
+  },
+  {
+    "vp": "1024x768",
+    "slide": 5,
+    "word": "Miele",
+    "issues": [
+      "section label under sticky chrome by 210px"
+    ],
+    "gapImgToName": 158,
+    "sectionH": 913,
+    "overflow": 0
+  },
+  {
+    "vp": "1024x768",
+    "slide": 6,
+    "word": "Conserve",
+    "issues": [
+      "section label under sticky chrome by 210px"
+    ],
+    "gapImgToName": 176,
+    "sectionH": 913,
+    "overflow": 0
+  },
+  {
+    "vp": "1024x768",
+    "slide": 7,
+    "word": "Mare",
+    "issues": [
+      "section label under sticky chrome by 210px"
+    ],
+    "gapImgToName": 137,
+    "sectionH": 913,
+    "overflow": 0
+  },
+  {
+    "vp": "1024x768",
+    "slide": 8,
+    "word": "Tartufi",
+    "issues": [
+      ".showcase__name∩word 11546px²",
+      "section label under sticky chrome by 210px"
+    ],
+    "gapImgToName": 98,
+    "sectionH": 913,
+    "overflow": 0
+  },
+  {
+    "vp": "1280x800",
+    "slide": 1,
+    "word": "Pasta",
+    "issues": [],
+    "gapImgToName": 160,
+    "sectionH": 964,
+    "overflow": 0
+  },
+  {
+    "vp": "1280x800",
+    "slide": 2,
+    "word": "Formaggi",
+    "issues": [
+      ".showcase__name∩word 17713px²",
+      "section label under sticky chrome by 409px"
+    ],
+    "gapImgToName": 98,
+    "sectionH": 964,
+    "overflow": 0
+  },
+  {
+    "vp": "1280x800",
+    "slide": 3,
+    "word": "Salumi",
+    "issues": [
+      ".showcase__name∩word 25313px²",
+      "section label under sticky chrome by 221px"
+    ],
+    "gapImgToName": 37,
+    "sectionH": 964,
+    "overflow": 0
+  },
+  {
+    "vp": "1280x800",
+    "slide": 4,
+    "word": "Riso",
+    "issues": [
+      "section label under sticky chrome by 221px"
+    ],
+    "gapImgToName": 188,
+    "sectionH": 964,
+    "overflow": 0
+  },
+  {
+    "vp": "1280x800",
+    "slide": 5,
+    "word": "Miele",
+    "issues": [
+      "section label under sticky chrome by 221px"
+    ],
+    "gapImgToName": 170,
+    "sectionH": 964,
+    "overflow": 0
+  },
+  {
+    "vp": "1280x800",
+    "slide": 6,
+    "word": "Conserve",
+    "issues": [
+      "section label under sticky chrome by 221px"
+    ],
+    "gapImgToName": 188,
+    "sectionH": 964,
+    "overflow": 0
+  },
+  {
+    "vp": "1280x800",
+    "slide": 7,
+    "word": "Mare",
+    "issues": [
+      "section label under sticky chrome by 221px"
+    ],
+    "gapImgToName": 149,
+    "sectionH": 964,
+    "overflow": 0
+  },
+  {
+    "vp": "1280x800",
+    "slide": 8,
+    "word": "Tartufi",
+    "issues": [
+      ".showcase__name∩word 11584px²",
+      "section label under sticky chrome by 221px"
+    ],
+    "gapImgToName": 104,
+    "sectionH": 964,
+    "overflow": 0
+  },
+  {
+    "vp": "1440x900",
+    "slide": 1,
+    "word": "Pasta",
+    "issues": [],
+    "gapImgToName": 161,
+    "sectionH": 1013,
+    "overflow": 0
+  },
+  {
+    "vp": "1440x900",
+    "slide": 2,
+    "word": "Formaggi",
+    "issues": [
+      ".showcase__name∩word 12408px²",
+      "section label under sticky chrome by 26px"
+    ],
+    "gapImgToName": 99,
+    "sectionH": 1013,
+    "overflow": 0
+  },
+  {
+    "vp": "1440x900",
+    "slide": 3,
+    "word": "Salumi",
+    "issues": [
+      ".showcase__name∩word 17302px²",
+      "section label under sticky chrome by 26px"
+    ],
+    "gapImgToName": 38,
+    "sectionH": 1013,
+    "overflow": 0
+  },
+  {
+    "vp": "1440x900",
+    "slide": 4,
+    "word": "Riso",
+    "issues": [
+      "section label under sticky chrome by 26px"
+    ],
+    "gapImgToName": 189,
+    "sectionH": 1013,
+    "overflow": 0
+  },
+  {
+    "vp": "1440x900",
+    "slide": 5,
+    "word": "Miele",
+    "issues": [
+      "section label under sticky chrome by 26px"
+    ],
+    "gapImgToName": 171,
+    "sectionH": 1013,
+    "overflow": 0
+  },
+  {
+    "vp": "1440x900",
+    "slide": 6,
+    "word": "Conserve",
+    "issues": [
+      "section label under sticky chrome by 26px"
+    ],
+    "gapImgToName": 189,
+    "sectionH": 1013,
+    "overflow": 0
+  },
+  {
+    "vp": "1440x900",
+    "slide": 7,
+    "word": "Mare",
+    "issues": [
+      "section label under sticky chrome by 26px"
+    ],
+    "gapImgToName": 150,
+    "sectionH": 1013,
+    "overflow": 0
+  },
+  {
+    "vp": "1440x900",
+    "slide": 8,
+    "word": "Tartufi",
+    "issues": [
+      ".showcase__name∩word 6985px²",
+      "section label under sticky chrome by 26px"
+    ],
+    "gapImgToName": 105,
+    "sectionH": 1013,
+    "overflow": 0
+  },
+  {
+    "vp": "1920x1080",
+    "slide": 1,
+    "word": "Pasta",
+    "issues": [],
+    "gapImgToName": 163,
+    "sectionH": 1096,
+    "overflow": 0
+  },
+  {
+    "vp": "1920x1080",
+    "slide": 2,
+    "word": "Formaggi",
+    "issues": [
+      ".showcase__name∩word 9955px²"
+    ],
+    "gapImgToName": 101,
+    "sectionH": 1096,
+    "overflow": 0
+  },
+  {
+    "vp": "1920x1080",
+    "slide": 3,
+    "word": "Salumi",
+    "issues": [
+      ".showcase__name∩word 19061px²"
+    ],
+    "gapImgToName": 40,
+    "sectionH": 1096,
+    "overflow": 0
+  },
+  {
+    "vp": "1920x1080",
+    "slide": 4,
+    "word": "Riso",
+    "issues": [],
+    "gapImgToName": 191,
+    "sectionH": 1096,
+    "overflow": 0
+  },
+  {
+    "vp": "1920x1080",
+    "slide": 5,
+    "word": "Miele",
+    "issues": [],
+    "gapImgToName": 173,
+    "sectionH": 1096,
+    "overflow": 0
+  },
+  {
+    "vp": "1920x1080",
+    "slide": 6,
+    "word": "Conserve",
+    "issues": [],
+    "gapImgToName": 191,
+    "sectionH": 1096,
+    "overflow": 0
+  },
+  {
+    "vp": "1920x1080",
+    "slide": 7,
+    "word": "Mare",
+    "issues": [],
+    "gapImgToName": 152,
+    "sectionH": 1096,
+    "overflow": 0
+  },
+  {
+    "vp": "1920x1080",
+    "slide": 8,
+    "word": "Tartufi",
+    "issues": [
+      ".showcase__name∩word 5478px²"
+    ],
+    "gapImgToName": 107,
+    "sectionH": 1096,
+    "overflow": 0
+  }
+]

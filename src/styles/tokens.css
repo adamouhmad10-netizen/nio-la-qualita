@@ -1,0 +1,148 @@
+/* ==========================================================================
+   Design tokens — Noi, la qualità
+   Brand colours sampled from the vector logo in the client PDF (p. 2):
+     navy #25416d · teal #66c6b5 · gold #fdb732 · sphere blue gradient
+     catalogue red #a42629 · Golosaqualità red #be1e2d · green #00a650
+   ========================================================================== */
+
+@font-face {
+  font-family: 'Cormorant Garamond';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('@fontsource/cormorant-garamond/files/cormorant-garamond-latin-500-normal.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Cormorant Garamond';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url('@fontsource/cormorant-garamond/files/cormorant-garamond-latin-500-italic.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Cormorant Garamond';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('@fontsource/cormorant-garamond/files/cormorant-garamond-latin-600-normal.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Manrope Variable';
+  font-style: normal;
+  font-weight: 200 800;
+  font-display: swap;
+  src: url('@fontsource-variable/manrope/files/manrope-latin-wght-normal.woff2') format('woff2-variations');
+}
+
+/* Metric-matched local fallbacks: while the web fonts load, text is set in Georgia /
+   Arial scaled to the same width and line metrics, so the swap does not shift layout. */
+@font-face {
+  font-family: 'Cormorant Fallback';
+  src: local('Georgia'), local('Times New Roman');
+  size-adjust: 80.1%;
+  ascent-override: 115.4%;
+  descent-override: 35.8%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: 'Manrope Fallback';
+  src: local('Arial'), local('Helvetica Neue'), local('Helvetica');
+  size-adjust: 91.6%;
+  ascent-override: 116.4%;
+  descent-override: 32.8%;
+  line-gap-override: 0%;
+}
+
+:root {
+  /* Brand */
+  --c-navy: #25416d;
+  --c-navy-deep: #13233f;
+  --c-navy-ink: #0d1a30;
+  --c-sphere: #3b7dc4;
+  --c-sphere-light: #7fc6ee;
+  --c-teal: #66c6b5;
+  --c-gold: #fdb732;
+  /* Deeper ochre from the gold family for small text on light backgrounds (≥ 4.9:1). */
+  --c-gold-text: #8f6200;
+  --c-red: #a42629;
+  --c-golosa: #be1e2d;
+  --c-green: #00a650;
+
+  /* Neutrals */
+  --c-ivory: #f8f5ee;
+  --c-paper: #fbf9f4;
+  --c-white: #ffffff;
+  --c-stone: #ede7dc;
+  --c-stone-2: #e2d9ca;
+  --c-sand: #cbbfa9;
+  --c-ink: #1b2233;
+  --c-ink-soft: #4a5265;
+  --c-ink-mute: #596070;
+  --c-line: rgba(27, 34, 51, 0.12);
+  --c-line-strong: rgba(27, 34, 51, 0.22);
+  --c-olive: #65764b;
+
+  /* Semantic */
+  --bg: var(--c-ivory);
+  --fg: var(--c-ink);
+  --focus: #1f6fd1;
+
+  /* Type */
+  --font-display: 'Cormorant Garamond', 'Cormorant Fallback', Georgia, serif;
+  --font-sans: 'Manrope Variable', 'Manrope Fallback', Arial, sans-serif;
+
+  --fs-xs: 0.75rem;
+  --fs-sm: 0.875rem;
+  --fs-base: 1rem;
+  --fs-md: 1.125rem;
+  --fs-lg: clamp(1.25rem, 1.1rem + 0.6vw, 1.5rem);
+  --fs-xl: clamp(1.6rem, 1.3rem + 1.2vw, 2.25rem);
+  --fs-2xl: clamp(2.1rem, 1.6rem + 2.4vw, 3.5rem);
+  --fs-3xl: clamp(2.6rem, 1.8rem + 3.8vw, 5rem);
+  --fs-hero: clamp(3rem, 1.6rem + 6.2vw, 7.4rem);
+  --fs-giant: clamp(5rem, 2rem + 14vw, 17rem);
+
+  --tracking-label: 0.18em;
+
+  /* Space */
+  --gutter: clamp(1rem, 0.5rem + 2.4vw, 3rem);
+  --section-y: clamp(4.5rem, 3rem + 6vw, 9.5rem);
+  --maxw: 1440px;
+  --maxw-text: 64ch;
+
+  /* Shape */
+  --radius-s: 4px;
+  --radius-m: 10px;
+  --radius-l: 18px;
+
+  /* Motion */
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --ease-soft: cubic-bezier(0.25, 0.8, 0.3, 1);
+  --t-micro: 200ms;
+  --t-ui: 320ms;
+  --t-enter: 700ms;
+  --t-major: 1000ms;
+
+  /* Depth */
+  --shadow-s: 0 1px 2px rgba(19, 35, 63, 0.06), 0 2px 8px rgba(19, 35, 63, 0.05);
+  --shadow-m: 0 10px 30px -12px rgba(19, 35, 63, 0.28);
+  --shadow-l: 0 40px 80px -30px rgba(19, 35, 63, 0.45);
+
+  --header-h: 76px;
+}
+
+@media (max-width: 900px) {
+  :root {
+    --header-h: 64px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --t-micro: 0ms;
+    --t-ui: 0ms;
+    --t-enter: 0ms;
+    --t-major: 0ms;
+  }
+}

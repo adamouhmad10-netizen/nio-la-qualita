@@ -1,0 +1,233 @@
+{
+  "base": "http://localhost:4173",
+  "label": "after",
+  "date": "2026-10-13T22:00:51.456Z",
+  "results": {
+    "mobile": {
+      "errors": [],
+      "loadMs": 1669,
+      "loadLongTasks": {
+        "count": 3,
+        "totalMs": 1049,
+        "maxMs": 497
+      },
+      "slowScroll": {
+        "frames": 776,
+        "medianMs": 16.7,
+        "p95Ms": 50,
+        "maxMs": 167,
+        "jank50": 22,
+        "droppedPct": 15.5,
+        "work": {
+          "scriptMs": 383,
+          "styleMs": 621,
+          "layoutMs": 468,
+          "taskMs": 6563,
+          "layouts": 83,
+          "styleRecalcs": 404
+        },
+        "longTasks": 8
+      },
+      "fastScroll": {
+        "frames": 361,
+        "medianMs": 16.7,
+        "p95Ms": 50,
+        "maxMs": 100,
+        "jank50": 23,
+        "droppedPct": 47.1,
+        "work": {
+          "scriptMs": 482,
+          "styleMs": 701,
+          "layoutMs": 183,
+          "taskMs": 6955,
+          "layouts": 135,
+          "styleRecalcs": 386
+        }
+      },
+      "slider": {
+        "frames": 439,
+        "medianMs": 16.7,
+        "p95Ms": 33,
+        "maxMs": 150,
+        "jank50": 9,
+        "droppedPct": 11.6,
+        "inputToPaintMs": [
+          96,
+          73,
+          82,
+          141,
+          142,
+          157
+        ],
+        "work": {
+          "scriptMs": 268,
+          "styleMs": 1237,
+          "layoutMs": 68,
+          "taskMs": 5480,
+          "layouts": 12,
+          "styleRecalcs": 430
+        }
+      },
+      "pasta": {
+        "frames": 118,
+        "medianMs": 16.7,
+        "p95Ms": 33,
+        "maxMs": 67,
+        "jank50": 1,
+        "droppedPct": 12.7,
+        "work": {
+          "scriptMs": 52,
+          "styleMs": 62,
+          "layoutMs": 2,
+          "taskMs": 1070,
+          "layouts": 3,
+          "styleRecalcs": 68
+        }
+      },
+      "cls": 0.036,
+      "catalog": {
+        "filterInputToPaintMs": 18,
+        "searchSettledMs": 669,
+        "scroll": {
+          "frames": 166,
+          "medianMs": 16.7,
+          "p95Ms": 33,
+          "maxMs": 67,
+          "jank50": 1,
+          "droppedPct": 6,
+          "work": {
+            "scriptMs": 279,
+            "styleMs": 77,
+            "layoutMs": 110,
+            "taskMs": 1394,
+            "layouts": 15,
+            "styleRecalcs": 48
+          }
+        }
+      },
+      "navigation": {
+        "clientNavMs": {
+          "median": 26,
+          "max": 350
+        },
+        "heapStartMB": 3.7,
+        "heapEndMB": 4,
+        "domNodes": 2999,
+        "listeners": 240
+      }
+    },
+    "laptop": {
+      "errors": [],
+      "loadMs": 1027,
+      "loadLongTasks": {
+        "count": 3,
+        "totalMs": 662,
+        "maxMs": 366
+      },
+      "slowScroll": {
+        "frames": 887,
+        "medianMs": 16.7,
+        "p95Ms": 33,
+        "maxMs": 150,
+        "jank50": 9,
+        "droppedPct": 11.6,
+        "work": {
+          "scriptMs": 315,
+          "styleMs": 600,
+          "layoutMs": 325,
+          "taskMs": 5190,
+          "layouts": 122,
+          "styleRecalcs": 664
+        },
+        "longTasks": 5
+      },
+      "fastScroll": {
+        "frames": 397,
+        "medianMs": 16.7,
+        "p95Ms": 50,
+        "maxMs": 83,
+        "jank50": 12,
+        "droppedPct": 36,
+        "work": {
+          "scriptMs": 361,
+          "styleMs": 540,
+          "layoutMs": 148,
+          "taskMs": 4741,
+          "layouts": 182,
+          "styleRecalcs": 482
+        }
+      },
+      "slider": {
+        "frames": 475,
+        "medianMs": 16.7,
+        "p95Ms": 17,
+        "maxMs": 83,
+        "jank50": 5,
+        "droppedPct": 2.9,
+        "inputToPaintMs": [
+          74,
+          136,
+          63,
+          108,
+          62,
+          77
+        ],
+        "work": {
+          "scriptMs": 216,
+          "styleMs": 1019,
+          "layoutMs": 49,
+          "taskMs": 3918,
+          "layouts": 14,
+          "styleRecalcs": 479
+        }
+      },
+      "pasta": {
+        "frames": 114,
+        "medianMs": 16.7,
+        "p95Ms": 33,
+        "maxMs": 50,
+        "jank50": 1,
+        "droppedPct": 32.5,
+        "work": {
+          "scriptMs": 118,
+          "styleMs": 138,
+          "layoutMs": 31,
+          "taskMs": 1268,
+          "layouts": 21,
+          "styleRecalcs": 166
+        }
+      },
+      "cls": 0.114,
+      "catalog": {
+        "filterInputToPaintMs": 25,
+        "searchSettledMs": 326,
+        "scroll": {
+          "frames": 160,
+          "medianMs": 16.7,
+          "p95Ms": 17,
+          "maxMs": 50,
+          "jank50": 0,
+          "droppedPct": 3.8,
+          "work": {
+            "scriptMs": 114,
+            "styleMs": 43,
+            "layoutMs": 75,
+            "taskMs": 937,
+            "layouts": 25,
+            "styleRecalcs": 39
+          }
+        }
+      },
+      "navigation": {
+        "clientNavMs": {
+          "median": 28,
+          "max": 275
+        },
+        "heapStartMB": 3.7,
+        "heapEndMB": 4.2,
+        "domNodes": 3596,
+        "listeners": 322
+      }
+    }
+  }
+}

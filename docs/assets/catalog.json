@@ -1,0 +1,7042 @@
+{
+ "categories": [
+  {
+   "slug": "pasta",
+   "name": "Pasta",
+   "heading": "VARIETÀ DI PASTA",
+   "pages": [
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "slug": "riso",
+   "name": "Riso",
+   "heading": "VARIETÀ DI RISO",
+   "pages": [
+    8
+   ]
+  },
+  {
+   "slug": "salumi",
+   "name": "Salumi",
+   "heading": "VARIETÀ DI SALUMI",
+   "pages": [
+    9,
+    10,
+    11,
+    12
+   ]
+  },
+  {
+   "slug": "formaggi",
+   "name": "Formaggi",
+   "heading": "VARIETÀ DI FORMAGGI",
+   "pages": [
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ]
+  },
+  {
+   "slug": "miele",
+   "name": "Miele",
+   "heading": "MIELE",
+   "pages": [
+    23
+   ]
+  },
+  {
+   "slug": "conserve",
+   "name": "Sottoli e conserve",
+   "heading": "SOTTOLI",
+   "pages": [
+    24,
+    25
+   ]
+  },
+  {
+   "slug": "tonno",
+   "name": "Tonno e specialità di mare",
+   "heading": "TONNO",
+   "pages": [
+    26
+   ]
+  },
+  {
+   "slug": "tartufi",
+   "name": "Tartufi e condimenti",
+   "heading": "TARTUFI",
+   "pages": [
+    27
+   ]
+  },
+  {
+   "slug": "doppio-senso",
+   "name": "Doppio Senso",
+   "heading": "DOPPIO SENSO",
+   "pages": [
+    28
+   ]
+  },
+  {
+   "slug": "alcolici",
+   "name": "Alcolici",
+   "heading": "ALCOLICI",
+   "pages": [
+    30,
+    31
+   ]
+  }
+ ],
+ "products": [
+  {
+   "sourceName": "SPAGHETTONI",
+   "category": "pasta",
+   "subcategory": "Formati classici",
+   "variants": [
+    {
+     "code": "NQE217",
+     "size": "500 g",
+     "sourcePage": 3
+    }
+   ],
+   "images": [
+    {
+     "key": "p3-nqe217",
+     "page": 3,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione spaghettoni 500 g"
+     }
+    }
+   ],
+   "id": "nqe217",
+   "slug": "spaghettoni",
+   "catalogOrder": 1,
+   "sourcePages": [
+    3
+   ],
+   "verification": "verified",
+   "displayName": "Spaghettoni"
+  },
+  {
+   "sourceName": "MEZZO PACCHERO",
+   "category": "pasta",
+   "subcategory": "Formati classici",
+   "variants": [
+    {
+     "code": "NQE204",
+     "size": "500 g",
+     "sourcePage": 3
+    }
+   ],
+   "images": [
+    {
+     "key": "p3-nqe204",
+     "page": 3,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione mezzo pacchero 500 g"
+     }
+    }
+   ],
+   "notes": [
+    "La confezione fotografata riporta \"Mezzi Paccheri\"; nome dal testo del catalogo."
+   ],
+   "verification": "partial",
+   "id": "nqe204",
+   "slug": "mezzo-pacchero",
+   "catalogOrder": 2,
+   "sourcePages": [
+    3
+   ],
+   "displayName": "Mezzo pacchero"
+  },
+  {
+   "sourceName": "LUMACONI",
+   "category": "pasta",
+   "subcategory": "Formati classici",
+   "variants": [
+    {
+     "code": "NQE202",
+     "size": "500 g",
+     "sourcePage": 3
+    }
+   ],
+   "images": [
+    {
+     "key": "p3-nqe202",
+     "page": 3,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione lumaconi 500 g"
+     }
+    }
+   ],
+   "id": "nqe202",
+   "slug": "lumaconi",
+   "catalogOrder": 3,
+   "sourcePages": [
+    3
+   ],
+   "verification": "verified",
+   "displayName": "Lumaconi"
+  },
+  {
+   "sourceName": "MEZZE MANICHE",
+   "category": "pasta",
+   "subcategory": "Formati classici",
+   "variants": [
+    {
+     "code": "NQE203",
+     "size": "500 g",
+     "sourcePage": 3
+    }
+   ],
+   "images": [
+    {
+     "key": "p3-nqe203",
+     "page": 3,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione mezze maniche 500 g"
+     }
+    }
+   ],
+   "id": "nqe203",
+   "slug": "mezze-maniche",
+   "catalogOrder": 4,
+   "sourcePages": [
+    3
+   ],
+   "verification": "verified",
+   "displayName": "Mezze maniche"
+  },
+  {
+   "sourceName": "PENNE LISCE O RIGATE",
+   "category": "pasta",
+   "subcategory": "Formati classici",
+   "variants": [
+    {
+     "code": "NQE205",
+     "size": "500 g",
+     "sourcePage": 3
+    }
+   ],
+   "images": [
+    {
+     "key": "p3-nqe205",
+     "page": 3,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione penne lisce o rigate 500 g"
+     }
+    }
+   ],
+   "notes": [
+    "La confezione fotografata riporta solo \"Penne Lisce\"."
+   ],
+   "verification": "partial",
+   "id": "nqe205",
+   "slug": "penne-lisce-o-rigate",
+   "catalogOrder": 5,
+   "sourcePages": [
+    3
+   ],
+   "displayName": "Penne lisce o rigate"
+  },
+  {
+   "sourceName": "TUBETTONI LISCI O RIGATI",
+   "category": "pasta",
+   "subcategory": "Formati classici",
+   "variants": [
+    {
+     "code": "NQE206",
+     "size": "500 g",
+     "sourcePage": 3
+    }
+   ],
+   "images": [
+    {
+     "key": "p3-nqe206",
+     "page": 3,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione tubettoni lisci o rigati 500 g"
+     }
+    }
+   ],
+   "notes": [
+    "La confezione fotografata riporta solo \"Tubettoni\"."
+   ],
+   "verification": "partial",
+   "id": "nqe206",
+   "slug": "tubettoni-lisci-o-rigati",
+   "catalogOrder": 6,
+   "sourcePages": [
+    3
+   ],
+   "displayName": "Tubettoni lisci o rigati"
+  },
+  {
+   "sourceName": "RIGATONI",
+   "category": "pasta",
+   "subcategory": "Formati classici",
+   "variants": [
+    {
+     "code": "NQE208",
+     "size": "500 g",
+     "sourcePage": 3
+    }
+   ],
+   "images": [
+    {
+     "key": "p3-nqe208",
+     "page": 3,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione rigatoni 500 g"
+     }
+    }
+   ],
+   "id": "nqe208",
+   "slug": "rigatoni",
+   "catalogOrder": 7,
+   "sourcePages": [
+    3
+   ],
+   "verification": "verified",
+   "displayName": "Rigatoni"
+  },
+  {
+   "sourceName": "FUSILLONE",
+   "category": "pasta",
+   "subcategory": "Formati classici",
+   "variants": [
+    {
+     "code": "NQE209",
+     "size": "500 g",
+     "sourcePage": 3
+    }
+   ],
+   "images": [
+    {
+     "key": "p3-nqe209",
+     "page": 3,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione fusillone 500 g"
+     }
+    }
+   ],
+   "notes": [
+    "La confezione fotografata riporta \"Fusilloni\"."
+   ],
+   "verification": "partial",
+   "id": "nqe209",
+   "slug": "fusillone",
+   "catalogOrder": 8,
+   "sourcePages": [
+    3
+   ],
+   "displayName": "Fusillone"
+  },
+  {
+   "sourceName": "FETTUCCINE",
+   "category": "pasta",
+   "subcategory": "Formati classici",
+   "variants": [
+    {
+     "code": "NQE207",
+     "size": "500 g",
+     "sourcePage": 4
+    }
+   ],
+   "images": [
+    {
+     "key": "p4-nqe207",
+     "page": 4,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione fettuccine 500 g"
+     }
+    }
+   ],
+   "id": "nqe207",
+   "slug": "fettuccine",
+   "catalogOrder": 9,
+   "sourcePages": [
+    4
+   ],
+   "verification": "verified",
+   "displayName": "Fettuccine"
+  },
+  {
+   "sourceName": "MAFALDE",
+   "category": "pasta",
+   "subcategory": "Formati classici",
+   "variants": [
+    {
+     "code": "NQE216",
+     "size": "500 g",
+     "sourcePage": 4
+    }
+   ],
+   "images": [
+    {
+     "key": "p4-nqe216",
+     "page": 4,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione mafalde 500 g"
+     }
+    }
+   ],
+   "id": "nqe216",
+   "slug": "mafalde",
+   "catalogOrder": 10,
+   "sourcePages": [
+    4
+   ],
+   "verification": "verified",
+   "displayName": "Mafalde"
+  },
+  {
+   "sourceName": "LINGUINE",
+   "category": "pasta",
+   "subcategory": "Formati classici",
+   "variants": [
+    {
+     "code": "NQE210",
+     "size": "500 g",
+     "sourcePage": 4
+    }
+   ],
+   "images": [
+    {
+     "key": "p4-nqe210",
+     "page": 4,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione linguine 500 g"
+     }
+    }
+   ],
+   "id": "nqe210",
+   "slug": "linguine",
+   "catalogOrder": 11,
+   "sourcePages": [
+    4
+   ],
+   "verification": "verified",
+   "displayName": "Linguine"
+  },
+  {
+   "sourceName": "PACCHERI",
+   "category": "pasta",
+   "subcategory": "Formati classici",
+   "variants": [
+    {
+     "code": "NQE213",
+     "size": "500 g",
+     "sourcePage": 4
+    }
+   ],
+   "images": [
+    {
+     "key": "p4-nqe213",
+     "page": 4,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione paccheri 500 g"
+     }
+    }
+   ],
+   "id": "nqe213",
+   "slug": "paccheri",
+   "catalogOrder": 12,
+   "sourcePages": [
+    4
+   ],
+   "verification": "verified",
+   "displayName": "Paccheri"
+  },
+  {
+   "sourceName": "TACCOLE",
+   "category": "pasta",
+   "subcategory": "Formati classici",
+   "variants": [
+    {
+     "code": "NQE212",
+     "size": "500 g",
+     "sourcePage": 4
+    }
+   ],
+   "images": [
+    {
+     "key": "p4-nqe212",
+     "page": 4,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione taccole 500 g"
+     }
+    }
+   ],
+   "id": "nqe212",
+   "slug": "taccole",
+   "catalogOrder": 13,
+   "sourcePages": [
+    4
+   ],
+   "verification": "verified",
+   "displayName": "Taccole"
+  },
+  {
+   "sourceName": "ZITI TAGLIATI",
+   "category": "pasta",
+   "subcategory": "Formati classici",
+   "variants": [
+    {
+     "code": "NQE215",
+     "size": "500 g",
+     "sourcePage": 4
+    }
+   ],
+   "images": [
+    {
+     "key": "p4-nqe215",
+     "page": 4,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione ziti tagliati 500 g"
+     }
+    }
+   ],
+   "id": "nqe215",
+   "slug": "ziti-tagliati",
+   "catalogOrder": 14,
+   "sourcePages": [
+    4
+   ],
+   "verification": "verified",
+   "displayName": "Ziti tagliati"
+  },
+  {
+   "sourceName": "PASTA MISTA",
+   "category": "pasta",
+   "subcategory": "Formati classici",
+   "variants": [
+    {
+     "code": "NQE211",
+     "size": "500 g",
+     "sourcePage": 4
+    }
+   ],
+   "images": [
+    {
+     "key": "p4-nqe211",
+     "page": 4,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione pasta mista 500 g"
+     }
+    }
+   ],
+   "id": "nqe211",
+   "slug": "pasta-mista",
+   "catalogOrder": 15,
+   "sourcePages": [
+    4
+   ],
+   "verification": "verified",
+   "displayName": "Pasta mista"
+  },
+  {
+   "sourceName": "TUBETTINI",
+   "category": "pasta",
+   "subcategory": "Formati classici",
+   "variants": [
+    {
+     "code": "NQE214",
+     "size": "500 g",
+     "sourcePage": 4
+    }
+   ],
+   "images": [
+    {
+     "key": "p4-nqe214",
+     "page": 4,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione tubettini 500 g"
+     }
+    }
+   ],
+   "id": "nqe214",
+   "slug": "tubettini",
+   "catalogOrder": 16,
+   "sourcePages": [
+    4
+   ],
+   "verification": "verified",
+   "displayName": "Tubettini"
+  },
+  {
+   "sourceName": "TONNARELLI DI CAMPOFILONE",
+   "category": "pasta",
+   "subcategory": "Pasta di Campofilone",
+   "variants": [
+    {
+     "code": "NQBM1201",
+     "size": "250 g",
+     "sourcePage": 5
+    }
+   ],
+   "images": [
+    {
+     "key": "p5-nqbm1201",
+     "page": 5,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione tonnarelli di campofilone 250 g"
+     }
+    }
+   ],
+   "id": "nqbm1201",
+   "slug": "tonnarelli-di-campofilone",
+   "catalogOrder": 17,
+   "sourcePages": [
+    5
+   ],
+   "verification": "verified",
+   "displayName": "Tonnarelli di Campofilone"
+  },
+  {
+   "sourceName": "TAGLIATELLE DI CAMPOFILONE",
+   "category": "pasta",
+   "subcategory": "Pasta di Campofilone",
+   "variants": [
+    {
+     "code": "NQBM1202",
+     "size": "250 g",
+     "sourcePage": 5
+    }
+   ],
+   "images": [
+    {
+     "key": "p5-nqbm1202",
+     "page": 5,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione tagliatelle di campofilone 250 g"
+     }
+    }
+   ],
+   "id": "nqbm1202",
+   "slug": "tagliatelle-di-campofilone",
+   "catalogOrder": 18,
+   "sourcePages": [
+    5
+   ],
+   "verification": "verified",
+   "displayName": "Tagliatelle di Campofilone"
+  },
+  {
+   "sourceName": "PAPPARDELLE DI CAMPOFILONE",
+   "category": "pasta",
+   "subcategory": "Pasta di Campofilone",
+   "variants": [
+    {
+     "code": "NQBM1203",
+     "size": "250 g",
+     "sourcePage": 5
+    }
+   ],
+   "images": [
+    {
+     "key": "p5-nqbm1203",
+     "page": 5,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione pappardelle di campofilone 250 g"
+     }
+    }
+   ],
+   "id": "nqbm1203",
+   "slug": "pappardelle-di-campofilone",
+   "catalogOrder": 19,
+   "sourcePages": [
+    5
+   ],
+   "verification": "verified",
+   "displayName": "Pappardelle di Campofilone"
+  },
+  {
+   "sourceName": "FETTUCCINE DI CAMPOFILONE",
+   "category": "pasta",
+   "subcategory": "Pasta di Campofilone",
+   "variants": [
+    {
+     "code": "NQBM1204",
+     "size": "250 g",
+     "sourcePage": 5
+    }
+   ],
+   "images": [
+    {
+     "key": "p5-nqbm1204",
+     "page": 5,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione fettuccine di campofilone 250 g"
+     }
+    }
+   ],
+   "id": "nqbm1204",
+   "slug": "fettuccine-di-campofilone",
+   "catalogOrder": 20,
+   "sourcePages": [
+    5
+   ],
+   "verification": "verified",
+   "displayName": "Fettuccine di Campofilone"
+  },
+  {
+   "sourceName": "SFOGLIA PER LASAGNA DI CAMPOFILONE",
+   "category": "pasta",
+   "subcategory": "Pasta di Campofilone",
+   "variants": [
+    {
+     "code": "NQBM1205",
+     "size": "250 g",
+     "sourcePage": 5
+    }
+   ],
+   "images": [
+    {
+     "key": "p5-nqbm1205",
+     "page": 5,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione sfoglia per lasagna di campofilone 250 g"
+     }
+    }
+   ],
+   "id": "nqbm1205",
+   "slug": "sfoglia-per-lasagna-di-campofilone",
+   "catalogOrder": 21,
+   "sourcePages": [
+    5
+   ],
+   "verification": "verified",
+   "displayName": "Sfoglia per lasagna di Campofilone"
+  },
+  {
+   "sourceName": "MACCHERONCINI DI CAMPOFILONE",
+   "category": "pasta",
+   "subcategory": "Pasta di Campofilone",
+   "variants": [
+    {
+     "code": "NQBM1206",
+     "size": "250 g",
+     "sourcePage": 5
+    }
+   ],
+   "images": [
+    {
+     "key": "p5-nqbm1206",
+     "page": 5,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione maccheroncini di campofilone 250 g"
+     }
+    }
+   ],
+   "id": "nqbm1206",
+   "slug": "maccheroncini-di-campofilone",
+   "catalogOrder": 22,
+   "sourcePages": [
+    5
+   ],
+   "verification": "verified",
+   "displayName": "Maccheroncini di Campofilone"
+  },
+  {
+   "sourceName": "LINGUINE DI CAMPOFILONE",
+   "category": "pasta",
+   "subcategory": "Pasta di Campofilone",
+   "variants": [
+    {
+     "code": "NQBM1207",
+     "size": "250 g",
+     "sourcePage": 5
+    }
+   ],
+   "images": [
+    {
+     "key": "p5-nqbm1207",
+     "page": 5,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione linguine di campofilone 250 g"
+     }
+    }
+   ],
+   "id": "nqbm1207",
+   "slug": "linguine-di-campofilone",
+   "catalogOrder": 23,
+   "sourcePages": [
+    5
+   ],
+   "verification": "verified",
+   "displayName": "Linguine di Campofilone"
+  },
+  {
+   "sourceName": "FETTUCCINE DI CAMPOFILONE TARTUFO",
+   "category": "pasta",
+   "subcategory": "Pasta di Campofilone",
+   "variants": [
+    {
+     "code": "NQBM1208",
+     "size": "250 g",
+     "sourcePage": 5
+    }
+   ],
+   "images": [
+    {
+     "key": "p5-nqbm1208",
+     "page": 5,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione fettuccine di campofilone tartufo 250 g"
+     }
+    }
+   ],
+   "id": "nqbm1208",
+   "slug": "fettuccine-di-campofilone-tartufo",
+   "catalogOrder": 24,
+   "sourcePages": [
+    5
+   ],
+   "verification": "verified",
+   "displayName": "Fettuccine di Campofilone tartufo"
+  },
+  {
+   "sourceName": "FETTUCCINE DI CAMPOFILONE FUNGHI",
+   "category": "pasta",
+   "subcategory": "Pasta di Campofilone",
+   "variants": [
+    {
+     "code": "NQBM1209",
+     "size": "250 g",
+     "sourcePage": 5
+    }
+   ],
+   "images": [
+    {
+     "key": "p5-nqbm1209",
+     "page": 5,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione fettuccine di campofilone funghi 250 g"
+     }
+    }
+   ],
+   "id": "nqbm1209",
+   "slug": "fettuccine-di-campofilone-funghi",
+   "catalogOrder": 25,
+   "sourcePages": [
+    5
+   ],
+   "verification": "verified",
+   "displayName": "Fettuccine di Campofilone funghi"
+  },
+  {
+   "sourceName": "FETTUCCINE DI CAMPOFILONE PEPERONCINO",
+   "category": "pasta",
+   "subcategory": "Pasta di Campofilone",
+   "variants": [
+    {
+     "code": "NQBM1210",
+     "size": "250 g",
+     "sourcePage": 5
+    }
+   ],
+   "images": [
+    {
+     "key": "p5-nqbm1210",
+     "page": 5,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione fettuccine di campofilone peperoncino 250 g"
+     }
+    }
+   ],
+   "id": "nqbm1210",
+   "slug": "fettuccine-di-campofilone-peperoncino",
+   "catalogOrder": 26,
+   "sourcePages": [
+    5
+   ],
+   "verification": "verified",
+   "displayName": "Fettuccine di Campofilone peperoncino"
+  },
+  {
+   "sourceName": "FETTUCCINE DI CAMPOFILONE ZAFFERANO",
+   "category": "pasta",
+   "subcategory": "Pasta di Campofilone",
+   "variants": [
+    {
+     "code": "NQBM1211",
+     "size": "250 g",
+     "sourcePage": 5
+    }
+   ],
+   "images": [
+    {
+     "key": "p5-nqbm1211",
+     "page": 5,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione fettuccine di campofilone zafferano 250 g"
+     }
+    }
+   ],
+   "id": "nqbm1211",
+   "slug": "fettuccine-di-campofilone-zafferano",
+   "catalogOrder": 27,
+   "sourcePages": [
+    5
+   ],
+   "verification": "verified",
+   "displayName": "Fettuccine di Campofilone zafferano"
+  },
+  {
+   "sourceName": "PICI SEMOLA INTEGRALE",
+   "category": "pasta",
+   "subcategory": "Integrale e farro monococco",
+   "variants": [
+    {
+     "code": "NQMVD2101",
+     "size": "500 g",
+     "sourcePage": 6
+    }
+   ],
+   "images": [
+    {
+     "key": "p6-nqmvd2101",
+     "page": 6,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione pici semola integrale 500 g"
+     }
+    }
+   ],
+   "id": "nqmvd2101",
+   "slug": "pici-semola-integrale",
+   "catalogOrder": 28,
+   "sourcePages": [
+    6
+   ],
+   "verification": "verified",
+   "displayName": "Pici semola integrale"
+  },
+  {
+   "sourceName": "PAPPARDELLE SEMOLA INTEGRALE",
+   "category": "pasta",
+   "subcategory": "Integrale e farro monococco",
+   "variants": [
+    {
+     "code": "NQMVD2102",
+     "size": "500 g",
+     "sourcePage": 6
+    }
+   ],
+   "images": [
+    {
+     "key": "p6-nqmvd2102",
+     "page": 6,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione pappardelle semola integrale 500 g"
+     }
+    }
+   ],
+   "id": "nqmvd2102",
+   "slug": "pappardelle-semola-integrale",
+   "catalogOrder": 29,
+   "sourcePages": [
+    6
+   ],
+   "verification": "verified",
+   "displayName": "Pappardelle semola integrale"
+  },
+  {
+   "sourceName": "TAGLIATELLE SEMOLA INTEGRALE",
+   "category": "pasta",
+   "subcategory": "Integrale e farro monococco",
+   "variants": [
+    {
+     "code": "NQMVD2103",
+     "size": "500 g",
+     "sourcePage": 6
+    }
+   ],
+   "images": [
+    {
+     "key": "p6-nqmvd2103",
+     "page": 6,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione tagliatelle semola integrale 500 g"
+     }
+    }
+   ],
+   "id": "nqmvd2103",
+   "slug": "tagliatelle-semola-integrale",
+   "catalogOrder": 30,
+   "sourcePages": [
+    6
+   ],
+   "verification": "verified",
+   "displayName": "Tagliatelle semola integrale"
+  },
+  {
+   "sourceName": "SPAGHETTONI CON CURVA SEMOLA INTEGRALE",
+   "category": "pasta",
+   "subcategory": "Integrale e farro monococco",
+   "variants": [
+    {
+     "code": "NQMVD2105",
+     "size": "400 g",
+     "sourcePage": 6
+    }
+   ],
+   "images": [
+    {
+     "key": "p6-nqmvd2105",
+     "page": 6,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione spaghettoni con curva semola integrale 400 g"
+     }
+    }
+   ],
+   "id": "nqmvd2105",
+   "slug": "spaghettoni-con-curva-semola-integrale",
+   "catalogOrder": 31,
+   "sourcePages": [
+    6
+   ],
+   "verification": "verified",
+   "displayName": "Spaghettoni con curva semola integrale"
+  },
+  {
+   "sourceName": "LINGUINE CON CURVA SEMOLA INTEGRALE",
+   "category": "pasta",
+   "subcategory": "Integrale e farro monococco",
+   "variants": [
+    {
+     "code": "NQMVD2106",
+     "size": "400 g",
+     "sourcePage": 6
+    }
+   ],
+   "images": [
+    {
+     "key": "p6-nqmvd2106",
+     "page": 6,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione linguine con curva semola integrale 400 g"
+     }
+    }
+   ],
+   "id": "nqmvd2106",
+   "slug": "linguine-con-curva-semola-integrale",
+   "catalogOrder": 32,
+   "sourcePages": [
+    6
+   ],
+   "verification": "verified",
+   "displayName": "Linguine con curva semola integrale"
+  },
+  {
+   "sourceName": "TAGLIOLINI SEMOLA INTEGRALE",
+   "category": "pasta",
+   "subcategory": "Integrale e farro monococco",
+   "variants": [
+    {
+     "code": "NQMVD2104",
+     "size": "400 g",
+     "sourcePage": 6
+    }
+   ],
+   "images": [
+    {
+     "key": "p6-nqmvd2104",
+     "page": 6,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione tagliolini semola integrale 400 g"
+     }
+    }
+   ],
+   "id": "nqmvd2104",
+   "slug": "tagliolini-semola-integrale",
+   "catalogOrder": 33,
+   "sourcePages": [
+    6
+   ],
+   "verification": "verified",
+   "displayName": "Tagliolini semola integrale"
+  },
+  {
+   "sourceName": "PACCHERI SEMOLA INTEGRALE",
+   "category": "pasta",
+   "subcategory": "Integrale e farro monococco",
+   "variants": [
+    {
+     "code": "NQMVD2107",
+     "size": "500 g",
+     "sourcePage": 6
+    }
+   ],
+   "images": [
+    {
+     "key": "p6-nqmvd2107",
+     "page": 6,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione paccheri semola integrale 500 g"
+     }
+    }
+   ],
+   "id": "nqmvd2107",
+   "slug": "paccheri-semola-integrale",
+   "catalogOrder": 34,
+   "sourcePages": [
+    6
+   ],
+   "verification": "verified",
+   "displayName": "Paccheri semola integrale"
+  },
+  {
+   "sourceName": "MEZZI PACCHERI SEMOLA INTEGRALE",
+   "category": "pasta",
+   "subcategory": "Integrale e farro monococco",
+   "variants": [
+    {
+     "code": "NQMVD2108",
+     "size": "500 g",
+     "sourcePage": 6
+    }
+   ],
+   "images": [
+    {
+     "key": "p6-nqmvd2108",
+     "page": 6,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione mezzi paccheri semola integrale 500 g"
+     }
+    }
+   ],
+   "id": "nqmvd2108",
+   "slug": "mezzi-paccheri-semola-integrale",
+   "catalogOrder": 35,
+   "sourcePages": [
+    6
+   ],
+   "verification": "verified",
+   "displayName": "Mezzi paccheri semola integrale"
+  },
+  {
+   "sourceName": "PENNE SEMOLA INTEGRALE",
+   "category": "pasta",
+   "subcategory": "Integrale e farro monococco",
+   "variants": [
+    {
+     "code": "NQMVD2109",
+     "size": "500 g",
+     "sourcePage": 6
+    }
+   ],
+   "images": [
+    {
+     "key": "p6-nqmvd2109",
+     "page": 6,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione penne semola integrale 500 g"
+     }
+    }
+   ],
+   "id": "nqmvd2109",
+   "slug": "penne-semola-integrale",
+   "catalogOrder": 36,
+   "sourcePages": [
+    6
+   ],
+   "verification": "verified",
+   "displayName": "Penne semola integrale"
+  },
+  {
+   "sourceName": "FUSILLONI RIGATI SEMOLA INTEGRALE",
+   "category": "pasta",
+   "subcategory": "Integrale e farro monococco",
+   "variants": [
+    {
+     "code": "NQMVD2110",
+     "size": "500 g",
+     "sourcePage": 7
+    }
+   ],
+   "images": [
+    {
+     "key": "p7-nqmvd2110",
+     "page": 7,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione fusilloni rigati semola integrale 500 g"
+     }
+    }
+   ],
+   "id": "nqmvd2110",
+   "slug": "fusilloni-rigati-semola-integrale",
+   "catalogOrder": 37,
+   "sourcePages": [
+    7
+   ],
+   "verification": "verified",
+   "displayName": "Fusilloni rigati semola integrale"
+  },
+  {
+   "sourceName": "RIGATONI SEMOLA INTEGRALE",
+   "category": "pasta",
+   "subcategory": "Integrale e farro monococco",
+   "variants": [
+    {
+     "code": "NQMVD2111",
+     "size": "500 g",
+     "sourcePage": 7
+    }
+   ],
+   "images": [
+    {
+     "key": "p7-nqmvd2111",
+     "page": 7,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione rigatoni semola integrale 500 g"
+     }
+    }
+   ],
+   "id": "nqmvd2111",
+   "slug": "rigatoni-semola-integrale",
+   "catalogOrder": 38,
+   "sourcePages": [
+    7
+   ],
+   "verification": "verified",
+   "displayName": "Rigatoni semola integrale"
+  },
+  {
+   "sourceName": "CASARECCE SEMOLA INTEGRALE",
+   "category": "pasta",
+   "subcategory": "Integrale e farro monococco",
+   "variants": [
+    {
+     "code": "NQMVD2112",
+     "size": "500 g",
+     "sourcePage": 7
+    }
+   ],
+   "images": [
+    {
+     "key": "p7-nqmvd2112",
+     "page": 7,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione casarecce semola integrale 500 g"
+     }
+    }
+   ],
+   "id": "nqmvd2112",
+   "slug": "casarecce-semola-integrale",
+   "catalogOrder": 39,
+   "sourcePages": [
+    7
+   ],
+   "verification": "verified",
+   "displayName": "Casarecce semola integrale"
+  },
+  {
+   "sourceName": "TUBETTI RIGATI SEMOLA INTEGRALE",
+   "category": "pasta",
+   "subcategory": "Integrale e farro monococco",
+   "variants": [
+    {
+     "code": "NQMVD2113",
+     "size": "500 g",
+     "sourcePage": 7
+    }
+   ],
+   "images": [
+    {
+     "key": "p7-nqmvd2113",
+     "page": 7,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione tubetti rigati semola integrale 500 g"
+     }
+    }
+   ],
+   "id": "nqmvd2113",
+   "slug": "tubetti-rigati-semola-integrale",
+   "catalogOrder": 40,
+   "sourcePages": [
+    7
+   ],
+   "verification": "verified",
+   "displayName": "Tubetti rigati semola integrale"
+  },
+  {
+   "sourceName": "TEMPESTINE SEMOLA INTEGRALE",
+   "category": "pasta",
+   "subcategory": "Integrale e farro monococco",
+   "variants": [
+    {
+     "code": "NQMVD2114",
+     "size": "500 g",
+     "sourcePage": 7
+    }
+   ],
+   "images": [
+    {
+     "key": "p7-nqmvd2114",
+     "page": 7,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione tempestine semola integrale 500 g"
+     }
+    }
+   ],
+   "id": "nqmvd2114",
+   "slug": "tempestine-semola-integrale",
+   "catalogOrder": 41,
+   "sourcePages": [
+    7
+   ],
+   "verification": "verified",
+   "displayName": "Tempestine semola integrale"
+  },
+  {
+   "sourceName": "CONCHIGLIE RIGATE",
+   "category": "pasta",
+   "subcategory": "Integrale e farro monococco",
+   "variants": [
+    {
+     "code": "NQMVD2171",
+     "size": "160 g",
+     "sourcePage": 7
+    }
+   ],
+   "images": [
+    {
+     "key": "p7-nqmvd2171",
+     "page": 7,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione conchiglie rigate 160 g"
+     }
+    }
+   ],
+   "notes": [
+    "Il catalogo non indica la tipologia di sfarinato per questo formato."
+   ],
+   "id": "nqmvd2171",
+   "slug": "conchiglie-rigate",
+   "catalogOrder": 42,
+   "sourcePages": [
+    7
+   ],
+   "verification": "verified",
+   "displayName": "Conchiglie rigate"
+  },
+  {
+   "sourceName": "FUSILLI FARRO MONOCOCCO",
+   "category": "pasta",
+   "subcategory": "Integrale e farro monococco",
+   "variants": [
+    {
+     "code": "NQMVD2138",
+     "size": "500 g",
+     "sourcePage": 7
+    }
+   ],
+   "images": [
+    {
+     "key": "p7-nqmvd2138",
+     "page": 7,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione fusilli farro monococco 500 g"
+     }
+    }
+   ],
+   "id": "nqmvd2138",
+   "slug": "fusilli-farro-monococco",
+   "catalogOrder": 43,
+   "sourcePages": [
+    7
+   ],
+   "verification": "verified",
+   "displayName": "Fusilli farro monococco"
+  },
+  {
+   "sourceName": "PENNETTE FARRO MONOCOCCO",
+   "category": "pasta",
+   "subcategory": "Integrale e farro monococco",
+   "variants": [
+    {
+     "code": "NQMVD2139",
+     "size": "500 g",
+     "sourcePage": 7
+    }
+   ],
+   "images": [
+    {
+     "key": "p7-nqmvd2139",
+     "page": 7,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione pennette farro monococco 500 g"
+     }
+    }
+   ],
+   "id": "nqmvd2139",
+   "slug": "pennette-farro-monococco",
+   "catalogOrder": 44,
+   "sourcePages": [
+    7
+   ],
+   "verification": "verified",
+   "displayName": "Pennette farro monococco"
+  },
+  {
+   "sourceName": "TAGLIATELLE FARRO MONOCOCCO",
+   "category": "pasta",
+   "subcategory": "Integrale e farro monococco",
+   "variants": [
+    {
+     "code": "NQMVD2140",
+     "size": "500 g",
+     "sourcePage": 7
+    }
+   ],
+   "images": [
+    {
+     "key": "p7-nqmvd2140",
+     "page": 7,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione tagliatelle farro monococco 500 g"
+     }
+    }
+   ],
+   "id": "nqmvd2140",
+   "slug": "tagliatelle-farro-monococco",
+   "catalogOrder": 45,
+   "sourcePages": [
+    7
+   ],
+   "verification": "verified",
+   "displayName": "Tagliatelle farro monococco"
+  },
+  {
+   "sourceName": "RISO CARNAROLI",
+   "category": "riso",
+   "variants": [
+    {
+     "code": "NQRA1101",
+     "size": "1 kg",
+     "sourcePage": 8
+    },
+    {
+     "code": "NQRA1105",
+     "size": "500 g",
+     "sourcePage": 8
+    }
+   ],
+   "images": [
+    {
+     "key": "p8-nqra1101",
+     "page": 8,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione riso Carnaroli 1 kg"
+     }
+    },
+    {
+     "key": "p8-nqra1105",
+     "page": 8,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione riso Carnaroli 500 g"
+     }
+    }
+   ],
+   "id": "nqra1101",
+   "slug": "riso-carnaroli",
+   "catalogOrder": 46,
+   "sourcePages": [
+    8
+   ],
+   "verification": "verified",
+   "displayName": "Riso Carnaroli"
+  },
+  {
+   "sourceName": "RISO ARBORIO",
+   "category": "riso",
+   "variants": [
+    {
+     "code": "NQRA1102",
+     "size": "1 kg",
+     "sourcePage": 8
+    },
+    {
+     "code": "NQRA1106",
+     "size": "500 g",
+     "sourcePage": 8
+    }
+   ],
+   "images": [
+    {
+     "key": "p8-nqra1102",
+     "page": 8,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione riso Arborio 1 kg"
+     }
+    },
+    {
+     "key": "p8-nqra1106",
+     "page": 8,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione riso Arborio 500 g"
+     }
+    }
+   ],
+   "id": "nqra1102",
+   "slug": "riso-arborio",
+   "catalogOrder": 47,
+   "sourcePages": [
+    8
+   ],
+   "verification": "verified",
+   "displayName": "Riso Arborio"
+  },
+  {
+   "sourceName": "RISO BALDO",
+   "category": "riso",
+   "variants": [
+    {
+     "code": "NQRA1103",
+     "size": "1 kg",
+     "sourcePage": 8
+    }
+   ],
+   "images": [
+    {
+     "key": "p8-nqra1103",
+     "page": 8,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione riso baldo 1 kg"
+     }
+    }
+   ],
+   "id": "nqra1103",
+   "slug": "riso-baldo",
+   "catalogOrder": 48,
+   "sourcePages": [
+    8
+   ],
+   "verification": "verified",
+   "displayName": "Riso Baldo"
+  },
+  {
+   "sourceName": "RISO ROMA",
+   "category": "riso",
+   "variants": [
+    {
+     "code": "NQRA1104",
+     "size": "1 kg",
+     "sourcePage": 8
+    }
+   ],
+   "images": [
+    {
+     "key": "p8-nqra1104",
+     "page": 8,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione riso roma 1 kg"
+     }
+    }
+   ],
+   "id": "nqra1104",
+   "slug": "riso-roma",
+   "catalogOrder": 49,
+   "sourcePages": [
+    8
+   ],
+   "verification": "verified",
+   "displayName": "Riso Roma"
+  },
+  {
+   "sourceName": "RISO NERO INTEGRALE MEDIO",
+   "category": "riso",
+   "variants": [
+    {
+     "code": "NQRA1107",
+     "size": "500 g",
+     "sourcePage": 8
+    }
+   ],
+   "images": [
+    {
+     "key": "p8-nqra1107",
+     "page": 8,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione riso nero integrale medio 500 g"
+     }
+    }
+   ],
+   "id": "nqra1107",
+   "slug": "riso-nero-integrale-medio",
+   "catalogOrder": 50,
+   "sourcePages": [
+    8
+   ],
+   "verification": "verified",
+   "displayName": "Riso nero integrale medio"
+  },
+  {
+   "sourceName": "RISO ROSSO INTEGRALE LUNGO",
+   "category": "riso",
+   "variants": [
+    {
+     "code": "NQRA1108",
+     "size": "500 g",
+     "sourcePage": 8
+    }
+   ],
+   "images": [
+    {
+     "key": "p8-nqra1108",
+     "page": 8,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione riso rosso integrale lungo 500 g"
+     }
+    }
+   ],
+   "id": "nqra1108",
+   "slug": "riso-rosso-integrale-lungo",
+   "catalogOrder": 51,
+   "sourcePages": [
+    8
+   ],
+   "verification": "verified",
+   "displayName": "Riso rosso integrale lungo"
+  },
+  {
+   "sourceName": "RISO GRANCAVOUR",
+   "category": "riso",
+   "variants": [
+    {
+     "code": "NQRA1109",
+     "size": "500 g",
+     "sourcePage": 8
+    }
+   ],
+   "images": [
+    {
+     "key": "p8-nqra1109",
+     "page": 8,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione riso grancavour 500 g"
+     }
+    }
+   ],
+   "id": "nqra1109",
+   "slug": "riso-grancavour",
+   "catalogOrder": 52,
+   "sourcePages": [
+    8
+   ],
+   "verification": "verified",
+   "displayName": "Riso Grancavour"
+  },
+  {
+   "sourceName": "RISO RUBINUM",
+   "category": "riso",
+   "variants": [
+    {
+     "code": "NQRA1110",
+     "size": "500 g",
+     "sourcePage": 8
+    }
+   ],
+   "images": [
+    {
+     "key": "p8-nqra1110",
+     "page": 8,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione riso rubinum 500 g"
+     }
+    }
+   ],
+   "id": "nqra1110",
+   "slug": "riso-rubinum",
+   "catalogOrder": 53,
+   "sourcePages": [
+    8
+   ],
+   "verification": "verified",
+   "displayName": "Riso Rubinum"
+  },
+  {
+   "sourceName": "RISO EBANO",
+   "category": "riso",
+   "variants": [
+    {
+     "code": "NQRA1111",
+     "size": "500 g",
+     "sourcePage": 8
+    }
+   ],
+   "images": [
+    {
+     "key": "p8-nqra1111",
+     "page": 8,
+     "scope": "exact",
+     "alt": {
+      "it": "Confezione riso ebano 500 g"
+     }
+    }
+   ],
+   "id": "nqra1111",
+   "slug": "riso-ebano",
+   "catalogOrder": 54,
+   "sourcePages": [
+    8
+   ],
+   "verification": "verified",
+   "displayName": "Riso Ebano"
+  },
+  {
+   "sourceName": "SALAME STROLGHINO",
+   "category": "salumi",
+   "subcategory": "Salumi",
+   "variants": [
+    {
+     "code": "NQS401",
+     "size": "peso variabile da 0,2 a 0,3 kg",
+     "sourcePage": 9
+    }
+   ],
+   "description": {
+    "it": "Le rifilature di Culatello unite con una speciale concia di vino, pepe ed aglio vengono insaccate nella budellina di maiale, successivamente messe a stagionare. Forma cilindrica di circa 20 cm. Gusto fresco e dolce, ma di carattere. Senza glutine e allergeni."
+   },
+   "images": [
+    {
+     "key": "p9-g0",
+     "page": 9,
+     "scope": "exact",
+     "alt": {
+      "it": "Salame Strolghino affettato su tagliere"
+     }
+    }
+   ],
+   "id": "nqs401",
+   "slug": "salame-strolghino",
+   "catalogOrder": 55,
+   "sourcePages": [
+    9
+   ],
+   "verification": "verified",
+   "displayName": "Salame Strolghino"
+  },
+  {
+   "sourceName": "SALAME MARIOLA",
+   "category": "salumi",
+   "subcategory": "Salumi",
+   "variants": [
+    {
+     "code": "NQS402",
+     "size": "peso variabile da 0,6 kg",
+     "sourcePage": 9
+    }
+   ],
+   "description": {
+    "it": "La carne macinata unita con una speciale concia di vino, pepe ed aglio viene insaccata nell’intestino del maiale (mulette) e posto a stagionare. Forma tondeggiante lunga 10-12 cm. Gusto deciso ma consistenza morbida. Senza glutine e allergeni."
+   },
+   "images": [
+    {
+     "key": "p9-g1",
+     "page": 9,
+     "scope": "exact",
+     "alt": {
+      "it": "Salame Mariola affettato"
+     }
+    }
+   ],
+   "id": "nqs402",
+   "slug": "salame-mariola",
+   "catalogOrder": 56,
+   "sourcePages": [
+    9
+   ],
+   "verification": "verified",
+   "displayName": "Salame Mariola"
+  },
+  {
+   "sourceName": "SPALLA COTTO",
+   "category": "salumi",
+   "subcategory": "Salumi",
+   "variants": [
+    {
+     "code": "NQS404",
+     "size": "peso variabile da 7,5 a 8,0 kg",
+     "sourcePage": 9
+    }
+   ],
+   "description": {
+    "it": "La carne viene toelettata, salata e lasciata riposare per 4 giorni in cella a temperatura compresa tra 0-4°C. Trascorso questo tempo si procede alla disossatura, insaccatura, legatura e cottura in salamoia a fuoco lento per più di 12 ore. Sapore dolce e delicato. Consistenza tenera Senza glutine e allergeni."
+   },
+   "images": [
+    {
+     "key": "p9-g2",
+     "page": 9,
+     "scope": "exact",
+     "alt": {
+      "it": "Spalla cotta affettata su tagliere"
+     }
+    }
+   ],
+   "id": "nqs404",
+   "slug": "spalla-cotto",
+   "catalogOrder": 57,
+   "sourcePages": [
+    9
+   ],
+   "verification": "verified",
+   "displayName": "Spalla cotto"
+  },
+  {
+   "sourceName": "CUOR DI PROSCIUTTO",
+   "category": "salumi",
+   "subcategory": "Salumi",
+   "variants": [
+    {
+     "code": "NQS405",
+     "size": "peso variabile da 5,0 kg",
+     "sourcePage": 9
+    }
+   ],
+   "description": {
+    "it": "Dopo il taglio e la rifilatura la carne viene sgrassata e insaporita con sale marino e aromi naturali, legata a mano con corda naturale e successivamente arrostita con frutta e spezie. Sapore delicato ma deciso, con note di spezie e frutta matura. Senza glutine e allergeni"
+   },
+   "images": [
+    {
+     "key": "p9-g3",
+     "page": 9,
+     "scope": "exact",
+     "alt": {
+      "it": "Cuor di prosciutto affettato"
+     }
+    }
+   ],
+   "id": "nqs405",
+   "slug": "cuor-di-prosciutto",
+   "catalogOrder": 58,
+   "sourcePages": [
+    9
+   ],
+   "verification": "verified",
+   "displayName": "Cuor di prosciutto"
+  },
+  {
+   "sourceName": "GOLA GUANCIALE",
+   "category": "salumi",
+   "subcategory": "Salumi",
+   "variants": [
+    {
+     "code": "NQS406",
+     "size": "peso variabile da 1,0 a 1,5 kg",
+     "sourcePage": 10
+    }
+   ],
+   "description": {
+    "it": "Ottenuto dalla lavorazione della gola del maiale. Dopo il taglio e la rifilatura della carne al coltello, viene insaporito con sale marino, pepe e aromi e messo a stagionare. Gusto dolce, leggermente pepato e affumicato. Senza glutine e allergeni"
+   },
+   "images": [
+    {
+     "key": "p10-g0",
+     "page": 10,
+     "scope": "exact",
+     "alt": {
+      "it": "Guanciale affettato su tagliere"
+     }
+    }
+   ],
+   "id": "nqs406",
+   "slug": "gola-guanciale",
+   "catalogOrder": 59,
+   "sourcePages": [
+    10
+   ],
+   "verification": "verified",
+   "displayName": "Gola guanciale"
+  },
+  {
+   "sourceName": "PROSCIUTTO PARMA",
+   "category": "salumi",
+   "subcategory": "Prosciutti",
+   "variants": [
+    {
+     "code": "NQS407",
+     "size": "peso variabile da 7,0 a 8,5 kg",
+     "sourcePage": 10,
+     "label": "24 mesi con osso"
+    },
+    {
+     "code": "NQS408",
+     "size": "peso variabile da 7,0 a 8,5 kg",
+     "sourcePage": 10,
+     "label": "24 mesi senza osso"
+    },
+    {
+     "code": "NQS409",
+     "size": "peso variabile da 7,0 a 8,5 kg",
+     "sourcePage": 10,
+     "label": "30 mesi con osso"
+    },
+    {
+     "code": "NQS410",
+     "size": "peso variabile da 7,0 a 8,5 kg",
+     "sourcePage": 10,
+     "label": "30 mesi senza osso"
+    }
+   ],
+   "description": {
+    "it": "Le cosce sottoposte a salagione e a pre-stagionatura, vengono fatte asciugare per 6-7 mesi. Una volta sugnati i prosciutti vengono poi trasferiti in cantina per la stagionatura. Naturalmente senza glutine e allergeni."
+   },
+   "images": [
+    {
+     "key": "p10-g1",
+     "page": 10,
+     "scope": "family",
+     "alt": {
+      "it": "Prosciutto di Parma affettato"
+     }
+    }
+   ],
+   "notes": [
+    "Il catalogo elenca quattro codici sotto un’unica descrizione e un unico peso: il peso indicato è riportato per tutte le varianti."
+   ],
+   "verification": "partial",
+   "id": "nqs407",
+   "slug": "prosciutto-parma",
+   "catalogOrder": 60,
+   "sourcePages": [
+    10
+   ],
+   "displayName": "Prosciutto Parma"
+  },
+  {
+   "sourceName": "MORTADELLA NOSTRANA CON PISTACCHI",
+   "category": "salumi",
+   "subcategory": "Salumi",
+   "variants": [
+    {
+     "code": "NQS403",
+     "size": "peso variabile da 6,0 kg",
+     "sourcePage": 10
+    }
+   ],
+   "description": {
+    "it": "Mortadella artigianale preparata con carni selezionate e una lavorazione lenta che esalta gusto e profumo. Arricchita con pistacchi interi, dona un perfetto equilibrio tra dolcezza e sapidità."
+   },
+   "images": [
+    {
+     "key": "p10-g2",
+     "page": 10,
+     "scope": "exact",
+     "alt": {
+      "it": "Mortadella con pistacchi affettata"
+     }
+    }
+   ],
+   "id": "nqs403",
+   "slug": "mortadella-nostrana-con-pistacchi",
+   "catalogOrder": 61,
+   "sourcePages": [
+    10
+   ],
+   "verification": "verified",
+   "displayName": "Mortadella nostrana con pistacchi"
+  },
+  {
+   "sourceName": "LONZARDO",
+   "category": "salumi",
+   "subcategory": "Salumi",
+   "variants": [
+    {
+     "code": "NQS421",
+     "size": "peso variabile da 1,5 a 3,0 kg",
+     "sourcePage": 11
+    }
+   ],
+   "description": {
+    "it": "PRODOTTO ESCLUSIVO, NON IL SOLITO LARDO. Dopo il taglio e la rifilatura della carne al coltello, viene insaporito con sale marino, pepe e piante aromatiche e messo a stagionare. Il Gusto sapido della lonza si unisce alla morbidezza e dolcezza del lardo. Senza glutine e allergeni"
+   },
+   "images": [
+    {
+     "key": "p11-g0",
+     "page": 11,
+     "scope": "exact",
+     "alt": {
+      "it": "Lonzardo affettato su tagliere"
+     }
+    }
+   ],
+   "notes": [
+    "Codice duplicato: NQS421 è stampato sia per LONZARDO sia per PROSCIUTTO SCELTO PER GOLOSA QUALITÀ CON OSSO (p. 11). Valore conservato come da fonte, da confermare con il cliente."
+   ],
+   "verification": "ambiguous",
+   "id": "nqs421",
+   "slug": "lonzardo",
+   "catalogOrder": 62,
+   "sourcePages": [
+    11
+   ],
+   "displayName": "Lonzardo"
+  },
+  {
+   "sourceName": "LARDO NOSTRANO",
+   "category": "salumi",
+   "subcategory": "Salumi",
+   "variants": [
+    {
+     "code": "NQR100",
+     "size": "peso variabile da 0,4 a 3,0 kg",
+     "sourcePage": 11
+    }
+   ],
+   "description": {
+    "it": "Il Lardo è un taglio di carne del maiale, ricavato dal grasso sottocutaneo del collo, del dorso e dei fianchi dell’animale. Viene aromatizzato e posto in apposite vasche, dopo un periodo di salagione e assorbimento delle spezie viene confezionato in sottovuoto. Il lardo e adatto su pane caldo e bruschette. È senza glutine e senza lattosio."
+   },
+   "images": [
+    {
+     "key": "p11-g1",
+     "page": 11,
+     "scope": "exact",
+     "alt": {
+      "it": "Trancio di lardo nostrano"
+     }
+    }
+   ],
+   "id": "nqr100",
+   "slug": "lardo-nostrano",
+   "catalogOrder": 63,
+   "sourcePages": [
+    11
+   ],
+   "verification": "verified",
+   "displayName": "Lardo nostrano"
+  },
+  {
+   "sourceName": "PROSCIUTTO SCELTO PER GOLOSA QUALITÀ",
+   "category": "salumi",
+   "subcategory": "Prosciutti",
+   "variants": [
+    {
+     "code": "NQS421",
+     "size": "peso variabile da 6,0 a 9,0 kg",
+     "sourcePage": 11,
+     "label": "con osso"
+    },
+    {
+     "code": "NQS422",
+     "size": "peso variabile da 6,0 a 9,0 kg",
+     "sourcePage": 11,
+     "label": "senza osso"
+    }
+   ],
+   "description": {
+    "it": "Ottenuto dalla coscia del suino, sottoposta a salagione e a un lungo periodo di stagionatura naturale. Si caratterizza per il sapore delicato e aromatico, la consistenza morbida e il colore rosato della carne con la tipica parte di grasso bianco."
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Stagionatura"
+     },
+     "value": {
+      "it": "16-18 mesi"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p11-g2",
+     "page": 11,
+     "scope": "family",
+     "alt": {
+      "it": "Prosciutto intero su base in ardesia"
+     }
+    }
+   ],
+   "notes": [
+    "Codice duplicato: NQS421 è stampato anche per LONZARDO (p. 11). Da confermare con il cliente."
+   ],
+   "verification": "ambiguous",
+   "id": "nqs421-prosciutto",
+   "slug": "prosciutto-scelto-per-golosa-qualita",
+   "catalogOrder": 64,
+   "sourcePages": [
+    11
+   ],
+   "displayName": "Prosciutto scelto per Golosa Qualità"
+  },
+  {
+   "sourceName": "PROSCIUTTO SAN DANIELE CON OSSO",
+   "category": "salumi",
+   "subcategory": "Prosciutti",
+   "variants": [
+    {
+     "code": "NQP501",
+     "size": "peso variabile da 6,0 a 9,0 kg",
+     "sourcePage": 12
+    }
+   ],
+   "description": {
+    "it": "Il Prosciutto con osso è una scelta da intenditore. Gusta la sua raffinatezza tagliandolo a mano ed assapora il suo gusto pieno. Se è la prima volta che lo acquisti segui i nostri consigli per il taglio."
+   },
+   "images": [
+    {
+     "key": "p12-nqp501",
+     "page": 12,
+     "scope": "exact",
+     "alt": {
+      "it": "Prosciutto San Daniele con osso"
+     }
+    }
+   ],
+   "id": "nqp501",
+   "slug": "prosciutto-san-daniele-con-osso",
+   "catalogOrder": 65,
+   "sourcePages": [
+    12
+   ],
+   "verification": "verified",
+   "displayName": "Prosciutto San Daniele con osso"
+  },
+  {
+   "sourceName": "PROSCIUTTO SAN DANIELE DISOSSATO NON PRESSATO",
+   "category": "salumi",
+   "subcategory": "Prosciutti",
+   "variants": [
+    {
+     "code": "NQP502",
+     "size": "peso variabile da 6,0 a 9,0 kg",
+     "sourcePage": 12
+    }
+   ],
+   "description": {
+    "it": "Se hai l’affettatrice e cerchi praticità, il prosciutto intero disossato è la scelta perfetta per te: gusta il tuo Prosciutto Prolongo a fettine sottili! Utilizza l’affettatrice o, se non ce l’hai, puoi anche tagliarlo a mano. In entrambi i casi, dovrai pulirlo man mano dalla cotenna."
+   },
+   "producer": "Prolongo",
+   "images": [
+    {
+     "key": "p12-nqp502",
+     "page": 12,
+     "scope": "exact",
+     "alt": {
+      "it": "Prosciutto San Daniele disossato non pressato"
+     }
+    }
+   ],
+   "id": "nqp502",
+   "slug": "prosciutto-san-daniele-disossato-non-pressato",
+   "catalogOrder": 66,
+   "sourcePages": [
+    12
+   ],
+   "verification": "verified",
+   "displayName": "Prosciutto San Daniele disossato non pressato"
+  },
+  {
+   "sourceName": "PROSCIUTTO SAN DANIELE DISOSSATO RISERVATO LEGATO A MANO",
+   "category": "salumi",
+   "subcategory": "Prosciutti",
+   "variants": [
+    {
+     "code": "NQP503",
+     "size": "peso variabile da 6,0 a 9,0 kg",
+     "sourcePage": 12
+    }
+   ],
+   "description": {
+    "it": "Il Prosciutto San Daniele Prolongo disossato e confezionato si conserva in frigorifero fino a 6 mesi. Una volta aperto, riponilo in frigorifero (da +4° a +7°), con un panno umido o pellicola sottile sul taglio e consumalo entro un mese."
+   },
+   "producer": "Prolongo",
+   "images": [
+    {
+     "key": "p12-nqp503",
+     "page": 12,
+     "scope": "exact",
+     "alt": {
+      "it": "Prosciutto San Daniele disossato legato a mano"
+     }
+    }
+   ],
+   "id": "nqp503",
+   "slug": "prosciutto-san-daniele-disossato-riservato-legato-a-mano",
+   "catalogOrder": 67,
+   "sourcePages": [
+    12
+   ],
+   "verification": "verified",
+   "displayName": "Prosciutto San Daniele disossato riservato legato a mano"
+  },
+  {
+   "sourceName": "PROSCIUTTO SAN DANIELE PRONTO FETTA",
+   "category": "salumi",
+   "subcategory": "Prosciutti",
+   "variants": [
+    {
+     "code": "NQP504",
+     "size": "peso variabile da 4,0 a 5,0 kg",
+     "sourcePage": 12
+    }
+   ],
+   "description": {
+    "it": "Un trancio grande che contiene il “cuore” del Prosciutto, in un formato pronto per essere affettato. È ottenuto da un disossato intero a cui vengono tagliate le parti iniziali del fiocco e della punta, lasciando intatto il centro del Prosciutto e mantenendo la cotenna per una migliore conservazione."
+   },
+   "images": [
+    {
+     "key": "p12-nqp504",
+     "page": 12,
+     "scope": "exact",
+     "alt": {
+      "it": "Prosciutto San Daniele pronto fetta"
+     }
+    }
+   ],
+   "id": "nqp504",
+   "slug": "prosciutto-san-daniele-pronto-fetta",
+   "catalogOrder": 68,
+   "sourcePages": [
+    12
+   ],
+   "verification": "verified",
+   "displayName": "Prosciutto San Daniele pronto fetta"
+  },
+  {
+   "sourceName": "CACIOCAVALLO AFFINATO IN GROTTA",
+   "category": "formaggi",
+   "subcategory": "Caciocavallo",
+   "variants": [
+    {
+     "code": "NQF903",
+     "size": "1,6 kg",
+     "sourcePage": 13
+    },
+    {
+     "code": "NQF910",
+     "size": "5 kg",
+     "sourcePage": 13
+    }
+   ],
+   "description": {
+    "it": "Latte crudo, siero innesto, sale, enzima coagulante. Struttura compatta e friabile di colore giallo-pagliarino, ambrato; presenza di occhiatura di dimensioni medie e distribuzione omogenea; sottile unghia. Elementi di discontinuità (piccoli strappi) poco diffusi. Deformabilità e adesività bassa. Struttura tipo grana"
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Stagionatura"
+     },
+     "value": {
+      "it": "90-120 gg (indicata per il formato 1,6 kg)"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p13-g0",
+     "page": 13,
+     "scope": "family",
+     "alt": {
+      "it": "Caciocavallo affinato in grotta"
+     }
+    }
+   ],
+   "notes": [
+    "La stagionatura 90-120 gg è stampata accanto al solo codice NQF903 (1,6 kg)."
+   ],
+   "verification": "partial",
+   "id": "nqf903",
+   "slug": "caciocavallo-affinato-in-grotta",
+   "catalogOrder": 69,
+   "sourcePages": [
+    13
+   ],
+   "displayName": "Caciocavallo affinato in grotta"
+  },
+  {
+   "sourceName": "CACIOCAVALLO AFFINATO IN VINACCIA",
+   "category": "formaggi",
+   "subcategory": "Caciocavallo",
+   "variants": [
+    {
+     "code": "NQF905",
+     "size": "1,6 kg",
+     "sourcePage": 13
+    }
+   ],
+   "description": {
+    "it": "Latte, siero innesto, sale, caglio. Affinato in vinacce d’uva nera. Forma a pera con testa. Aderenze residue di vinaccia di uve biologiche in superficie. Crosta non edibile. Struttura compatta, elastica e morbida di colore giallo-paglierino, ambrato. Elementi di discontinuità (piccoli strappi) poco diffusi. Gusto intenso, sapore leggermente piccante."
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Stagionatura"
+     },
+     "value": {
+      "it": "90-120 gg"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p13-g1",
+     "page": 13,
+     "scope": "exact",
+     "alt": {
+      "it": "Caciocavallo affinato in vinaccia"
+     }
+    }
+   ],
+   "id": "nqf905",
+   "slug": "caciocavallo-affinato-in-vinaccia",
+   "catalogOrder": 70,
+   "sourcePages": [
+    13
+   ],
+   "verification": "verified",
+   "displayName": "Caciocavallo affinato in vinaccia"
+  },
+  {
+   "sourceName": "CACIOCAVALLO AFFUMICATO",
+   "category": "formaggi",
+   "subcategory": "Caciocavallo",
+   "variants": [
+    {
+     "code": "NQF908",
+     "size": "1,4 kg",
+     "sourcePage": 13
+    }
+   ],
+   "description": {
+    "it": "Latte, siero innesto, sale, caglio, affumicato con fumi di legno di faggio. Forma a pera con testa. Crosta esterna liscia, omogenea, regolare, pulita di colore giallo paglierino. Struttura compatta, elastica e morbida. Presenza di occhiatura di dimensioni medie. Intenso sapore affumicato, leggero retrogusto di “tostato”"
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Stagionatura"
+     },
+     "value": {
+      "it": "30 gg"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p13-g2",
+     "page": 13,
+     "scope": "exact",
+     "alt": {
+      "it": "Caciocavallo affumicato"
+     }
+    }
+   ],
+   "id": "nqf908",
+   "slug": "caciocavallo-affumicato",
+   "catalogOrder": 71,
+   "sourcePages": [
+    13
+   ],
+   "verification": "verified",
+   "displayName": "Caciocavallo affumicato"
+  },
+  {
+   "sourceName": "CACIOCAVALLO AL PEPERONCINO",
+   "category": "formaggi",
+   "subcategory": "Caciocavallo",
+   "variants": [
+    {
+     "code": "NQF907",
+     "size": "1,4 kg",
+     "sourcePage": 13
+    }
+   ],
+   "description": {
+    "it": "Latte, siero innesto, peperoncino (2%), sale, caglio. Forma sferica senza testa. Crosta esterna liscia, con frammenti di peperoncino. Struttura compatta, elastica e morbida. Aroma: Intenso odore lattico-cotto, sapore piccante e retrogusto di “tostato”"
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Stagionatura"
+     },
+     "value": {
+      "it": "30 gg"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p13-g3",
+     "page": 13,
+     "scope": "exact",
+     "alt": {
+      "it": "Caciocavallo al peperoncino"
+     }
+    }
+   ],
+   "id": "nqf907",
+   "slug": "caciocavallo-al-peperoncino",
+   "catalogOrder": 72,
+   "sourcePages": [
+    13
+   ],
+   "verification": "verified",
+   "displayName": "Caciocavallo al peperoncino"
+  },
+  {
+   "sourceName": "CACIOCAVALLO STRAVECCHIO",
+   "category": "formaggi",
+   "subcategory": "Caciocavallo",
+   "variants": [
+    {
+     "code": "NQF904",
+     "size": "1,5 kg",
+     "sourcePage": 14
+    }
+   ],
+   "description": {
+    "it": "Latte crudo, siero innesto, sale, enzima coagulante. Struttura compatta e friabile di colore giallo-paglierino, ambrato; presenza di occhiatura di dimensioni medie e distribuzione omogenea; sottile unghia. Elementi di discontinuità (piccoli strappi) poco diffusi. Deformabilità e adesività bassa. Struttura tipo grana"
+   },
+   "images": [
+    {
+     "key": "p14-g0",
+     "page": 14,
+     "scope": "exact",
+     "alt": {
+      "it": "Caciocavallo stravecchio"
+     }
+    }
+   ],
+   "id": "nqf904",
+   "slug": "caciocavallo-stravecchio",
+   "catalogOrder": 73,
+   "sourcePages": [
+    14
+   ],
+   "verification": "verified",
+   "displayName": "Caciocavallo stravecchio"
+  },
+  {
+   "sourceName": "CACIOCAVALLO AL TARTUFO",
+   "category": "formaggi",
+   "subcategory": "Caciocavallo",
+   "variants": [
+    {
+     "code": "NQF906",
+     "size": "1,3 kg",
+     "sourcePage": 14
+    }
+   ],
+   "description": {
+    "it": "Latte vaccino pastorizzato, siero innesto, tartufo (Tuber Aestivum) (tartufo, olio extravergine di oliva, aromi) 3%, sale, caglio Forma a pera con testa. Crosta esterna liscia, omogenea, regolare, pulita di colore giallo paglierino. Presenza di occhiatura di dimensioni medie. Aroma: intenso odore lattico-cotto, tartufo."
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Stagionatura"
+     },
+     "value": {
+      "it": "60 gg"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p14-g1",
+     "page": 14,
+     "scope": "exact",
+     "alt": {
+      "it": "Caciocavallo al tartufo"
+     }
+    }
+   ],
+   "id": "nqf906",
+   "slug": "caciocavallo-al-tartufo",
+   "catalogOrder": 74,
+   "sourcePages": [
+    14
+   ],
+   "verification": "verified",
+   "displayName": "Caciocavallo al tartufo"
+  },
+  {
+   "sourceName": "CACIOCAVALLO FRESCO",
+   "category": "formaggi",
+   "subcategory": "Caciocavallo",
+   "variants": [
+    {
+     "code": "NQF902",
+     "size": "1,1 kg",
+     "sourcePage": 14
+    }
+   ],
+   "description": {
+    "it": "Latte, siero innesto, sale, caglio. Forma a pera con testa. Crosta esterna liscia, omogenea, regolare, pulita di colore giallo paglierino. Struttura compatta, elastica e morbida. Presenza di occhiatura di dimensioni medie. Aroma: intenso odore lattico-cotto."
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Stagionatura"
+     },
+     "value": {
+      "it": "30-45 gg"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p14-g2",
+     "page": 14,
+     "scope": "exact",
+     "alt": {
+      "it": "Caciocavallo fresco"
+     }
+    }
+   ],
+   "id": "nqf902",
+   "slug": "caciocavallo-fresco",
+   "catalogOrder": 75,
+   "sourcePages": [
+    14
+   ],
+   "verification": "verified",
+   "displayName": "Caciocavallo fresco"
+  },
+  {
+   "sourceName": "CACIOCAVALLO OCCHIO DOLCE",
+   "category": "formaggi",
+   "subcategory": "Caciocavallo",
+   "variants": [
+    {
+     "code": "NQF911",
+     "size": "5 kg",
+     "sourcePage": 14
+    },
+    {
+     "code": "NQF912",
+     "size": "10 kg",
+     "sourcePage": 14
+    }
+   ],
+   "description": {
+    "it": "Latte crudo, fermenti lattici selezionati, sale, caglio. Affinato in grotta, crosta leggermente ambrata, con macchie di colore bianco/grigio/nero. Struttura compatta, elastica e morbida, pasta di colore giallo paglierino-ambrato con sottile unghia; presenza di occhiatura propionica di dimensioni medie-grandi con distribuzione omogenea."
+   },
+   "images": [
+    {
+     "key": "p14-g3",
+     "page": 14,
+     "scope": "family",
+     "alt": {
+      "it": "Caciocavallo occhio dolce in rete"
+     }
+    }
+   ],
+   "id": "nqf911",
+   "slug": "caciocavallo-occhio-dolce",
+   "catalogOrder": 76,
+   "sourcePages": [
+    14
+   ],
+   "verification": "verified",
+   "displayName": "Caciocavallo occhio dolce"
+  },
+  {
+   "sourceName": "CACIOCAVA AFFINATO IN GROTTA",
+   "category": "formaggi",
+   "subcategory": "Caciocavallo",
+   "variants": [
+    {
+     "code": "NQF922",
+     "size": "5 kg",
+     "sourcePage": 14
+    }
+   ],
+   "description": {
+    "it": "Latte crudo, siero innesto, sale e caglio. Prodotto stagionato in ambiente con pareti in roccia carsica. Stagionatura 150 gg. Aspetto: Forma tronco conica. Crosta esterna scura, non edibile, color nero-grigio. Struttura compatta, elastica e morbida. Presenza di occhiatura di dimensioni medie e distribuzione omogenea. Sapore piccante."
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Stagionatura"
+     },
+     "value": {
+      "it": "150 gg"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p14-g4",
+     "page": 14,
+     "scope": "exact",
+     "alt": {
+      "it": "Forma affinata in grotta con spicchio"
+     }
+    }
+   ],
+   "notes": [
+    "Nome stampato \"CACIOCAVA\": possibile refuso per \"CACIOCAVALLO\", conservato come da fonte."
+   ],
+   "verification": "partial",
+   "id": "nqf922",
+   "slug": "caciocava-affinato-in-grotta",
+   "catalogOrder": 77,
+   "sourcePages": [
+    14
+   ],
+   "displayName": "Caciocava affinato in grotta"
+  },
+  {
+   "sourceName": "CACIOTTA GIOVANE DI CAPRA “BERTU”",
+   "displayName": "Caciotta giovane di capra “Bertu”",
+   "category": "formaggi",
+   "subcategory": "Latte di capra",
+   "variants": [
+    {
+     "code": "NQF919",
+     "size": "1,8 kg",
+     "sourcePage": 15
+    }
+   ],
+   "description": {
+    "it": "formaggio di capra fresco e leggero, maturato per 30 giorni, dalla pasta bianca e morbida, si presta all’alimentazione di tutti. Dal sapore dolce e delicato puo essere usato negli antipasti in abbinamento ai salumi, nella creazione di sandwich o semplicemente come formaggio da tavola; ottimo l’abbinamento con i vini bianchi fruttati."
+   },
+   "images": [
+    {
+     "key": "p15-g0",
+     "page": 15,
+     "scope": "exact",
+     "alt": {
+      "it": "Forma di caciotta di capra Bertu"
+     }
+    }
+   ],
+   "id": "nqf919",
+   "slug": "caciotta-giovane-di-capra-bertu",
+   "catalogOrder": 78,
+   "sourcePages": [
+    15
+   ],
+   "verification": "verified"
+  },
+  {
+   "sourceName": "CACIOTTA GIOVANE DI PECORA BIASU",
+   "displayName": "Caciotta giovane di pecora Biasu",
+   "category": "formaggi",
+   "subcategory": "Latte di pecora",
+   "variants": [
+    {
+     "code": "NQF916",
+     "size": "3 kg",
+     "sourcePage": 15
+    }
+   ],
+   "description": {
+    "it": "Latte ovino pastorizzato, sale, caglio, fermenti lattici. Formaggio a pasta molle, crosta di colore paglierino. Pasta morbida, compatta, gialla tendente all’intenso con la maturazione. Crosta giallo chiaro, liscia, con conservanti E203–E235. Crosta non edibile. Sapore: dolce, delicato, gradevole"
+   },
+   "images": [
+    {
+     "key": "p15-g1",
+     "page": 15,
+     "scope": "exact",
+     "alt": {
+      "it": "Forma di caciotta di pecora Biasu"
+     }
+    }
+   ],
+   "id": "nqf916",
+   "slug": "caciotta-giovane-di-pecora-biasu",
+   "catalogOrder": 79,
+   "sourcePages": [
+    15
+   ],
+   "verification": "verified"
+  },
+  {
+   "sourceName": "PECORINO BUSTIANU",
+   "displayName": "Pecorino Bustianu",
+   "category": "formaggi",
+   "subcategory": "Latte di pecora",
+   "variants": [
+    {
+     "code": "NQF917",
+     "size": "3,5 kg",
+     "sourcePage": 15
+    }
+   ],
+   "description": {
+    "it": "Latte ovino pastorizzato, sale, caglio, fermenti lattici. Crosta liscia, dorata/marrone, trattato con E202-E235, E150d-E160b. Crosta non edibile. Tipo di pasta: gialla, compatta. Sapore: gradevole, leggermente piccante"
+   },
+   "images": [
+    {
+     "key": "p15-g2",
+     "page": 15,
+     "scope": "exact",
+     "alt": {
+      "it": "Forma di pecorino Bustianu"
+     }
+    }
+   ],
+   "id": "nqf917",
+   "slug": "pecorino-bustianu",
+   "catalogOrder": 80,
+   "sourcePages": [
+    15
+   ],
+   "verification": "verified"
+  },
+  {
+   "sourceName": "PECORINO MATURO BOBORE",
+   "displayName": "Pecorino maturo Bobore",
+   "category": "formaggi",
+   "subcategory": "Latte di pecora",
+   "variants": [
+    {
+     "code": "NQF918",
+     "size": "5,2 kg",
+     "sourcePage": 15
+    }
+   ],
+   "description": {
+    "it": "Latte ovino pastorizzato, sale, caglio, fermenti lattici Formaggio pecorino della tradizione sarda. Crosta color marrone, rigata, trattata con conservanti E202-E235, coloranti E150d-E160b. Crosta non edibile Tipo di pasta: gialla chiara, compatta. Sapore: deciso, leggermente piccante, fortemente aromatico"
+   },
+   "origin": {
+    "it": "Tradizione sarda (come indicato nel catalogo)"
+   },
+   "images": [
+    {
+     "key": "p15-g3",
+     "page": 15,
+     "scope": "exact",
+     "alt": {
+      "it": "Forma di pecorino maturo Bobore"
+     }
+    }
+   ],
+   "id": "nqf918",
+   "slug": "pecorino-maturo-bobore",
+   "catalogOrder": 81,
+   "sourcePages": [
+    15
+   ],
+   "verification": "verified"
+  },
+  {
+   "sourceName": "“CILENTANO” FORMAGGIO PECORINO SEMISTAGIONATO",
+   "displayName": "“Cilentano” formaggio pecorino semistagionato",
+   "category": "formaggi",
+   "subcategory": "Latte di pecora",
+   "variants": [
+    {
+     "code": "NQF923",
+     "size": "2,5 kg",
+     "sourcePage": 15
+    }
+   ],
+   "description": {
+    "it": "Pecorino della tradizione campana, stagionato per circa 45 giorni secondo metodi artigianali. Si distingue per la caratteristica forma a giunco e per la pasta compatta dal colore giallo paglierino. Al palato offre un gusto delicato ed equilibrato, con aromi genuini che richiamano i sapori autentici del territorio cilentano."
+   },
+   "origin": {
+    "it": "Tradizione campana, territorio cilentano (come indicato nel catalogo)"
+   },
+   "images": [
+    {
+     "key": "p15-g4",
+     "page": 15,
+     "scope": "exact",
+     "alt": {
+      "it": "Pecorino Cilentano con spicchio"
+     }
+    }
+   ],
+   "id": "nqf923",
+   "slug": "cilentano-formaggio-pecorino-semistagionato",
+   "catalogOrder": 82,
+   "sourcePages": [
+    15
+   ],
+   "verification": "verified"
+  },
+  {
+   "sourceName": "“IN GROTTA”",
+   "displayName": "“In grotta”",
+   "category": "formaggi",
+   "subcategory": "Latte di capra",
+   "variants": [
+    {
+     "code": "NQF924",
+     "size": "3,0 kg",
+     "sourcePage": 15
+    }
+   ],
+   "description": {
+    "it": "Formaggio a latte 100% di capra, stagionato per circa quattro mesi in grotte naturali, dove matura lentamente sviluppando un carattere intenso e aromatico. Presenta una struttura compatta e piacevolmente friabile, con un gusto deciso e persistente. Ideale da gustare da solo, nei taglieri o per arricchire i piatti della tradizione."
+   },
+   "images": [
+    {
+     "key": "p15-g5",
+     "page": 15,
+     "scope": "exact",
+     "alt": {
+      "it": "Formaggio di capra stagionato in grotta"
+     }
+    }
+   ],
+   "id": "nqf924",
+   "slug": "in-grotta",
+   "catalogOrder": 83,
+   "sourcePages": [
+    15
+   ],
+   "verification": "verified"
+  },
+  {
+   "sourceName": "LA REGINA BIANCA",
+   "category": "formaggi",
+   "subcategory": "Latte di pecora",
+   "variants": [
+    {
+     "code": "NQTR1704",
+     "size": "1,5–2,0 kg",
+     "sourcePage": 16
+    }
+   ],
+   "description": {
+    "it": "Formaggio fresco di pecora a pasta morbida compatta, fragrante al palato, con sapidità del latte, dal tipico sapore di primo sale."
+   },
+   "ingredients": {
+    "it": "LATTE fresco di pecora, sale, caglio naturale."
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Denominazione"
+     },
+     "value": {
+      "it": "primo sale da latte ovino"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p16-g0",
+     "page": 16,
+     "scope": "exact",
+     "alt": {
+      "it": "Formaggio la regina bianca"
+     }
+    }
+   ],
+   "id": "nqtr1704",
+   "slug": "la-regina-bianca",
+   "catalogOrder": 84,
+   "sourcePages": [
+    16
+   ],
+   "verification": "verified",
+   "displayName": "La Regina Bianca"
+  },
+  {
+   "sourceName": "L’AMBASCIATRICE",
+   "category": "formaggi",
+   "subcategory": "Latte di pecora",
+   "variants": [
+    {
+     "code": "NQTR1707",
+     "size": "1,5–2,0 kg",
+     "sourcePage": 16
+    }
+   ],
+   "description": {
+    "it": "Formaggio fresco di pecora, tipo caciotta, a pasta morbida e compatta di colore bianco e gusto gradevolmente dolce."
+   },
+   "ingredients": {
+    "it": "LATTE fresco di pecora, sale, caglio naturale."
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Denominazione"
+     },
+     "value": {
+      "it": "caciotta da latte ovino"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p16-g1",
+     "page": 16,
+     "scope": "exact",
+     "alt": {
+      "it": "Formaggio l’ambasciatrice"
+     }
+    }
+   ],
+   "id": "nqtr1707",
+   "slug": "l-ambasciatrice",
+   "catalogOrder": 85,
+   "sourcePages": [
+    16
+   ],
+   "verification": "verified",
+   "displayName": "L’Ambasciatrice"
+  },
+  {
+   "sourceName": "IL CRETO GUSTOSO AL PEPE NERO",
+   "category": "formaggi",
+   "subcategory": "Latte di pecora",
+   "variants": [
+    {
+     "code": "NQTR1709",
+     "size": "1,5–2,8 kg",
+     "sourcePage": 16
+    }
+   ],
+   "description": {
+    "it": "Formaggio semistagionato, a pasta compatta tenera, di colore paglierino senza occhiature, aromatizzato con grani di pepe nero, al palato morbido e delicato."
+   },
+   "ingredients": {
+    "it": "LATTE fresco di pecora, sale, caglio naturale, pepe nero in grani."
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Denominazione"
+     },
+     "value": {
+      "it": "caciotta al pepe nero da latte ovino"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p16-g2",
+     "page": 16,
+     "scope": "exact",
+     "alt": {
+      "it": "Formaggio il creto gustoso al pepe nero"
+     }
+    }
+   ],
+   "id": "nqtr1709",
+   "slug": "il-creto-gustoso-al-pepe-nero",
+   "catalogOrder": 86,
+   "sourcePages": [
+    16
+   ],
+   "verification": "verified",
+   "displayName": "Il Creto Gustoso al pepe nero"
+  },
+  {
+   "sourceName": "IL CRETO GUSTOSO AL PEPE ROSA",
+   "category": "formaggi",
+   "subcategory": "Latte di pecora",
+   "variants": [
+    {
+     "code": "NQTR1710",
+     "size": "1,1–2,5 kg",
+     "sourcePage": 16
+    }
+   ],
+   "description": {
+    "it": "Formaggio di pecora, tipo caciotta, aromatizzato al peperoncino con pasta morbida e compatta."
+   },
+   "ingredients": {
+    "it": "LATTE fresco di pecora, sale, caglio naturale, peperoncino frantumato."
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Denominazione"
+     },
+     "value": {
+      "it": "caciotta al peperoncino da latte ovino"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p16-g3",
+     "page": 16,
+     "scope": "exact",
+     "alt": {
+      "it": "Formaggio il creto gustoso al pepe rosa"
+     }
+    }
+   ],
+   "notes": [
+    "Il nome indica \"pepe rosa\" ma denominazione e ingredienti riportano il peperoncino; il testo è identico a quello di NQTR1708. Da confermare con il cliente."
+   ],
+   "verification": "ambiguous",
+   "id": "nqtr1710",
+   "slug": "il-creto-gustoso-al-pepe-rosa",
+   "catalogOrder": 87,
+   "sourcePages": [
+    16
+   ],
+   "displayName": "Il Creto Gustoso al pepe rosa"
+  },
+  {
+   "sourceName": "IL DON CARMELO",
+   "category": "formaggi",
+   "subcategory": "Latte di pecora",
+   "variants": [
+    {
+     "code": "NQTR1712",
+     "size": "0,5–1,0 kg",
+     "sourcePage": 17
+    }
+   ],
+   "description": {
+    "it": "Formaggio di pecora a pasta morbida e compatta di colore bianco ambrato."
+   },
+   "ingredients": {
+    "it": "LATTE fresco di pecora, sale, caglio naturale."
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Denominazione"
+     },
+     "value": {
+      "it": "semistagionato da latte ovino"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p17-g0",
+     "page": 17,
+     "scope": "exact",
+     "alt": {
+      "it": "Formaggio il don carmelo"
+     }
+    }
+   ],
+   "id": "nqtr1712",
+   "slug": "il-don-carmelo",
+   "catalogOrder": 88,
+   "sourcePages": [
+    17
+   ],
+   "verification": "verified",
+   "displayName": "Il Don Carmelo"
+  },
+  {
+   "sourceName": "GRANDUCATO DI CASTRO RISERVA",
+   "category": "formaggi",
+   "subcategory": "Latte di pecora",
+   "variants": [
+    {
+     "code": "NQTR1719",
+     "size": "4,0–5,0 kg",
+     "sourcePage": 17
+    }
+   ],
+   "description": {
+    "it": "Formaggio di pecora tipo Pecorino Romano a pasta dura e cotta."
+   },
+   "ingredients": {
+    "it": "LATTE fresco di pecora, sale, caglio naturale."
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Denominazione"
+     },
+     "value": {
+      "it": "stagionato da latte ovino"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p17-g1",
+     "page": 17,
+     "scope": "exact",
+     "alt": {
+      "it": "Formaggio granducato di castro riserva"
+     }
+    }
+   ],
+   "id": "nqtr1719",
+   "slug": "granducato-di-castro-riserva",
+   "catalogOrder": 89,
+   "sourcePages": [
+    17
+   ],
+   "verification": "verified",
+   "displayName": "Granducato di Castro Riserva"
+  },
+  {
+   "sourceName": "IL RISERVA DUCATO DI CASTRO",
+   "category": "formaggi",
+   "subcategory": "Latte di pecora",
+   "variants": [
+    {
+     "code": "NQTR1717",
+     "size": "3,0 kg",
+     "sourcePage": 17
+    }
+   ],
+   "description": {
+    "it": "Pecorino dal sapore dolce e acidulo che con la maturazione acquisisce un sapore più deciso e leggermente piccante. La sua pasta di colore paglierino e leggermente occhiata è tenera ed elastica da giovane e granulosa e solubile nel prodotto maturo."
+   },
+   "ingredients": {
+    "it": "LATTE fresco di pecora, sale, caglio naturale."
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Denominazione"
+     },
+     "value": {
+      "it": "stagionato da latte ovino"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p17-g2",
+     "page": 17,
+     "scope": "exact",
+     "alt": {
+      "it": "Formaggio il riserva ducato di castro"
+     }
+    }
+   ],
+   "id": "nqtr1717",
+   "slug": "il-riserva-ducato-di-castro",
+   "catalogOrder": 90,
+   "sourcePages": [
+    17
+   ],
+   "verification": "verified",
+   "displayName": "Il Riserva Ducato di Castro"
+  },
+  {
+   "sourceName": "L’INNOMINATO DUCATO DI CASTRO",
+   "category": "formaggi",
+   "subcategory": "Latte di pecora",
+   "variants": [
+    {
+     "code": "NQTR1718",
+     "size": "1,1–2,5 kg",
+     "sourcePage": 17
+    }
+   ],
+   "description": {
+    "it": "Pecorino dal profumo intenso e un sapore dolce acidulo. Dopo la stagionatura diventa piccante e gradevole."
+   },
+   "ingredients": {
+    "it": "LATTE fresco di pecora, sale, caglio naturale."
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Denominazione"
+     },
+     "value": {
+      "it": "stagionato da latte ovino"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p17-g3",
+     "page": 17,
+     "scope": "exact",
+     "alt": {
+      "it": "Formaggio l’innominato ducato di castro"
+     }
+    }
+   ],
+   "id": "nqtr1718",
+   "slug": "l-innominato-ducato-di-castro",
+   "catalogOrder": 91,
+   "sourcePages": [
+    17
+   ],
+   "verification": "verified",
+   "displayName": "L’Innominato Ducato di Castro"
+  },
+  {
+   "sourceName": "IL QUALITOSO",
+   "category": "formaggi",
+   "subcategory": "Latte di pecora",
+   "variants": [
+    {
+     "code": "NQTR1711",
+     "size": "1,5–2,8 kg",
+     "sourcePage": 18
+    }
+   ],
+   "description": {
+    "it": "Formaggio semistagionato dal sapore deciso di pecorino, a pasta semidura e compatta di colore paglierino con occhiatura fine e regolare."
+   },
+   "ingredients": {
+    "it": "LATTE fresco di pecora, sale, caglio naturale."
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Denominazione"
+     },
+     "value": {
+      "it": "semistagionato da latte ovino"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p18-g0",
+     "page": 18,
+     "scope": "exact",
+     "alt": {
+      "it": "Formaggio il qualitoso"
+     }
+    }
+   ],
+   "id": "nqtr1711",
+   "slug": "il-qualitoso",
+   "catalogOrder": 92,
+   "sourcePages": [
+    18
+   ],
+   "verification": "verified",
+   "displayName": "Il Qualitoso"
+  },
+  {
+   "sourceName": "IL FIORE DI GIGLIO DI CASTRO",
+   "category": "formaggi",
+   "subcategory": "Latte di pecora",
+   "variants": [
+    {
+     "code": "NQTR1708",
+     "size": "1,1–2,5 kg",
+     "sourcePage": 18
+    }
+   ],
+   "description": {
+    "it": "Formaggio di pecora, tipo caciotta, aromatizzato al peperoncino con pasta morbida e compatta."
+   },
+   "ingredients": {
+    "it": "LATTE fresco di pecora, sale, caglio naturale, peperoncino frantumato."
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Denominazione"
+     },
+     "value": {
+      "it": "caciotta al peperoncino da latte ovino"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p18-g1",
+     "page": 18,
+     "scope": "exact",
+     "alt": {
+      "it": "Formaggio il fiore di giglio di castro"
+     }
+    }
+   ],
+   "id": "nqtr1708",
+   "slug": "il-fiore-di-giglio-di-castro",
+   "catalogOrder": 93,
+   "sourcePages": [
+    18
+   ],
+   "verification": "verified",
+   "displayName": "Il Fiore di Giglio di Castro"
+  },
+  {
+   "sourceName": "POGGIO CONTE",
+   "category": "formaggi",
+   "subcategory": "Latte di capra",
+   "variants": [
+    {
+     "code": "NQTR1725",
+     "size": "0,4–3,0 kg",
+     "sourcePage": 18
+    }
+   ],
+   "description": {
+    "it": "Formaggio di capra semistagionato a pasta cremosa tipo stracchino, con retrogusto di erborinato."
+   },
+   "ingredients": {
+    "it": "LATTE fresco di capra, sale, caglio naturale. (Opzioni: affinato CON FRUTTA / affinato CON SPEZIE)"
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Denominazione"
+     },
+     "value": {
+      "it": "formaggio da latte caprino"
+     }
+    },
+    {
+     "label": {
+      "it": "Opzioni"
+     },
+     "value": {
+      "it": "affinato con frutta / affinato con spezie"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p18-g2",
+     "page": 18,
+     "scope": "exact",
+     "alt": {
+      "it": "Formaggio poggio conte"
+     }
+    }
+   ],
+   "notes": [
+    "Le opzioni di affinamento non hanno codici separati nel catalogo."
+   ],
+   "id": "nqtr1725",
+   "slug": "poggio-conte",
+   "catalogOrder": 94,
+   "sourcePages": [
+    18
+   ],
+   "verification": "verified",
+   "displayName": "Poggio Conte"
+  },
+  {
+   "sourceName": "DI CONTE",
+   "category": "formaggi",
+   "subcategory": "Latte di capra",
+   "variants": [
+    {
+     "code": "NQTR1729",
+     "size": "0,5–1,0 kg",
+     "sourcePage": 18
+    }
+   ],
+   "description": {
+    "it": "Formaggio di capra semistagionato a pasta molle e dal sapore leggermente pungente. Con la stagionatura sviluppa un gusto audace e complesso."
+   },
+   "ingredients": {
+    "it": "LATTE fresco di capra, sale, caglio naturale."
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Denominazione"
+     },
+     "value": {
+      "it": "formaggio da latte caprino"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p18-g3",
+     "page": 18,
+     "scope": "exact",
+     "alt": {
+      "it": "Formaggio di conte"
+     }
+    }
+   ],
+   "id": "nqtr1729",
+   "slug": "di-conte",
+   "catalogOrder": 95,
+   "sourcePages": [
+    18
+   ],
+   "verification": "verified",
+   "displayName": "Di Conte"
+  },
+  {
+   "sourceName": "LA GRAN GIULIA",
+   "category": "formaggi",
+   "subcategory": "Latte vaccino",
+   "variants": [
+    {
+     "code": "NQTR1735",
+     "size": "4,0–5,0 kg",
+     "sourcePage": 19
+    }
+   ],
+   "description": {
+    "it": "Formaggio di mucca a latte crudo"
+   },
+   "ingredients": {
+    "it": "LATTE fresco di mucca, sale, caglio naturale."
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Denominazione"
+     },
+     "value": {
+      "it": "formaggio da latte vaccino"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p19-g0",
+     "page": 19,
+     "scope": "exact",
+     "alt": {
+      "it": "Formaggio la gran giulia"
+     }
+    }
+   ],
+   "id": "nqtr1735",
+   "slug": "la-gran-giulia",
+   "catalogOrder": 96,
+   "sourcePages": [
+    19
+   ],
+   "verification": "verified",
+   "displayName": "La Gran Giulia"
+  },
+  {
+   "sourceName": "LA ROSETTA DI MUCCA",
+   "category": "formaggi",
+   "subcategory": "Latte vaccino",
+   "variants": [
+    {
+     "code": "NQTR1748",
+     "size": "1,1–2,5 kg",
+     "sourcePage": 19
+    }
+   ],
+   "description": {
+    "it": "Caratteristico formaggio di latte vaccino con pasta cremosa e fondente in bocca dal sapore di latte e dal gusto raffinato."
+   },
+   "ingredients": {
+    "it": "LATTE fresco di mucca, sale, caglio naturale."
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Denominazione"
+     },
+     "value": {
+      "it": "Toma da latte vaccino"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p19-g1",
+     "page": 19,
+     "scope": "exact",
+     "alt": {
+      "it": "Formaggio la rosetta di mucca"
+     }
+    }
+   ],
+   "id": "nqtr1748",
+   "slug": "la-rosetta-di-mucca",
+   "catalogOrder": 97,
+   "sourcePages": [
+    19
+   ],
+   "verification": "verified",
+   "displayName": "La Rosetta di mucca"
+  },
+  {
+   "sourceName": "PIRADORO",
+   "category": "formaggi",
+   "subcategory": "Latte vaccino",
+   "variants": [
+    {
+     "code": "NQTR1751",
+     "size": "3,5–4,5 kg",
+     "sourcePage": 19
+    }
+   ],
+   "description": {
+    "it": "Formaggio erborinato di mucca a pasta cruda e tenera."
+   },
+   "ingredients": {
+    "it": "LATTE fresco di mucca pastorizzato, sale, caglio naturale. (Variante: PIRADORO affinato con FRUTTA PASSA)"
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Denominazione"
+     },
+     "value": {
+      "it": "erborinato da latte vaccino"
+     }
+    },
+    {
+     "label": {
+      "it": "Variante"
+     },
+     "value": {
+      "it": "PIRADORO affinato con FRUTTA PASSA"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p19-g2",
+     "page": 19,
+     "scope": "exact",
+     "alt": {
+      "it": "Formaggio piradoro"
+     }
+    }
+   ],
+   "notes": [
+    "La variante affinata con frutta passa non ha un codice separato nel catalogo."
+   ],
+   "id": "nqtr1751",
+   "slug": "piradoro",
+   "catalogOrder": 98,
+   "sourcePages": [
+    19
+   ],
+   "verification": "verified",
+   "displayName": "Piradoro"
+  },
+  {
+   "sourceName": "IL PIRA GUSTOSO",
+   "category": "formaggi",
+   "subcategory": "Latte di pecora",
+   "variants": [
+    {
+     "code": "NQTR1749",
+     "size": "0,5–1,0 kg",
+     "sourcePage": 19
+    }
+   ],
+   "description": {
+    "it": "Formaggio di pecora dal sapore dolce e delicato ma leggermente piccante."
+   },
+   "ingredients": {
+    "it": "LATTE fresco di pecora, sale, caglio naturale."
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Denominazione"
+     },
+     "value": {
+      "it": "stagionato da cagliata lattica ovina"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p19-g3",
+     "page": 19,
+     "scope": "exact",
+     "alt": {
+      "it": "Formaggio il pira gustoso"
+     }
+    }
+   ],
+   "id": "nqtr1749",
+   "slug": "il-pira-gustoso",
+   "catalogOrder": 99,
+   "sourcePages": [
+    19
+   ],
+   "verification": "verified",
+   "displayName": "Il Pira Gustoso"
+  },
+  {
+   "sourceName": "IL SUPER TOMATO REALE",
+   "category": "formaggi",
+   "subcategory": "Latte di pecora",
+   "variants": [
+    {
+     "code": "NQTR1715",
+     "size": "2,8–4,0 kg",
+     "sourcePage": 20
+    }
+   ],
+   "description": {
+    "it": "Formaggio semistagionato di pecora a pasta morbida e areata di colore bianco. Vincitrice del 1º PREMIO ALMA CASEUS 2016 come “Miglior Formaggio di Fattoria”"
+   },
+   "ingredients": {
+    "it": "LATTE fresco di pecora, sale, caglio naturale."
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Denominazione"
+     },
+     "value": {
+      "it": "semistagionato da latte ovino"
+     }
+    },
+    {
+     "label": {
+      "it": "Riconoscimento indicato nel catalogo"
+     },
+     "value": {
+      "it": "1º Premio Alma Caseus 2016 — “Miglior Formaggio di Fattoria”"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p20-g0",
+     "page": 20,
+     "scope": "exact",
+     "alt": {
+      "it": "Formaggio il super tomato reale"
+     }
+    }
+   ],
+   "id": "nqtr1715",
+   "slug": "il-super-tomato-reale",
+   "catalogOrder": 100,
+   "sourcePages": [
+    20
+   ],
+   "verification": "verified",
+   "displayName": "Il Super Tomato Reale"
+  },
+  {
+   "sourceName": "BLU DOLCE ERBORINATO",
+   "category": "formaggi",
+   "subcategory": "Latte di capra",
+   "variants": [
+    {
+     "code": "NQTR1731",
+     "size": "2,8–3,5 kg",
+     "sourcePage": 20
+    }
+   ],
+   "description": {
+    "it": "Formaggio a pasta compatta, asciutta e morbida ma non troppo cremosa di colore bianco con le venature verdi-azzurre. Gusto sapido ma non piccante."
+   },
+   "ingredients": {
+    "it": "LATTE fresco di capra pastorizzato, sale, caglio naturale e penicillium roqueforti."
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Denominazione"
+     },
+     "value": {
+      "it": "erborinato da latte caprino"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p20-g1",
+     "page": 20,
+     "scope": "exact",
+     "alt": {
+      "it": "Formaggio blu dolce erborinato"
+     }
+    }
+   ],
+   "id": "nqtr1731",
+   "slug": "blu-dolce-erborinato",
+   "catalogOrder": 101,
+   "sourcePages": [
+    20
+   ],
+   "verification": "verified",
+   "displayName": "Blu Dolce erborinato"
+  },
+  {
+   "sourceName": "L’OVALE",
+   "category": "formaggi",
+   "subcategory": "Latte di pecora",
+   "variants": [
+    {
+     "code": "NQTR1706",
+     "size": "1,5–2,0 kg",
+     "sourcePage": 20
+    }
+   ],
+   "description": {
+    "it": "Formaggio fresco di pecora a pasta morbida compatta, fragrante al palato, con aggiunta di olive e peperoncino, con sapidità del latte, dal tipico sapore di primo sale."
+   },
+   "ingredients": {
+    "it": "LATTE fresco di pecora, sale, caglio naturale, olive e peperoncino. (Variante Olive)"
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Denominazione"
+     },
+     "value": {
+      "it": "primo sale da latte ovino con olive e peperoncino"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p20-g2",
+     "page": 20,
+     "scope": "exact",
+     "alt": {
+      "it": "Formaggio l’ovale"
+     }
+    }
+   ],
+   "id": "nqtr1706",
+   "slug": "l-ovale",
+   "catalogOrder": 102,
+   "sourcePages": [
+    20
+   ],
+   "verification": "verified",
+   "displayName": "L’Ovale"
+  },
+  {
+   "sourceName": "BIANCA VERDE",
+   "category": "formaggi",
+   "subcategory": "Latte di pecora",
+   "variants": [
+    {
+     "code": "NQTR1705",
+     "size": "1,5–2,0 kg",
+     "sourcePage": 20
+    }
+   ],
+   "description": {
+    "it": "Formaggio fresco di pecora a pasta morbida compatta, fragrante al palato."
+   },
+   "ingredients": {
+    "it": "LATTE fresco di pecora, sale, caglio naturale, rucola e pepe rosa."
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Denominazione"
+     },
+     "value": {
+      "it": "primo sale da latte ovino"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p20-g3",
+     "page": 20,
+     "scope": "exact",
+     "alt": {
+      "it": "Formaggio bianca verde"
+     }
+    }
+   ],
+   "id": "nqtr1705",
+   "slug": "bianca-verde",
+   "catalogOrder": 103,
+   "sourcePages": [
+    20
+   ],
+   "verification": "verified",
+   "displayName": "Bianca Verde"
+  },
+  {
+   "sourceName": "L’AROMATICO ROSMARINO",
+   "category": "formaggi",
+   "subcategory": "Latte di pecora",
+   "variants": [
+    {
+     "code": "NQTR1720",
+     "size": "1,2–3,0 kg",
+     "sourcePage": 21
+    }
+   ],
+   "ingredients": {
+    "it": "Latte fresco di pecora, sale, caglio naturale, rosmarino"
+   },
+   "details": [],
+   "images": [
+    {
+     "key": "p21-g0",
+     "page": 21,
+     "scope": "exact",
+     "alt": {
+      "it": "Formaggio l’aromatico rosmarino"
+     }
+    }
+   ],
+   "id": "nqtr1720",
+   "slug": "l-aromatico-rosmarino",
+   "catalogOrder": 104,
+   "sourcePages": [
+    21
+   ],
+   "verification": "verified",
+   "displayName": "L’Aromatico rosmarino"
+  },
+  {
+   "sourceName": "IL FIENILE GUSTOSO",
+   "category": "formaggi",
+   "subcategory": "Latte di pecora",
+   "variants": [
+    {
+     "code": "NQTR1720F",
+     "size": "1,2–3,0 kg",
+     "sourcePage": 21
+    }
+   ],
+   "ingredients": {
+    "it": "Latte fresco di pecora, sale, caglio naturale, fieno biologico"
+   },
+   "details": [],
+   "images": [
+    {
+     "key": "p21-g1",
+     "page": 21,
+     "scope": "exact",
+     "alt": {
+      "it": "Formaggio il fienile gustoso"
+     }
+    }
+   ],
+   "id": "nqtr1720f",
+   "slug": "il-fienile-gustoso",
+   "catalogOrder": 105,
+   "sourcePages": [
+    21
+   ],
+   "verification": "verified",
+   "displayName": "Il Fienile Gustoso"
+  },
+  {
+   "sourceName": "MIELE FARRO",
+   "category": "formaggi",
+   "subcategory": "Latte di pecora",
+   "variants": [
+    {
+     "code": "NQTR1720FM",
+     "size": "1,2–3,0 kg",
+     "sourcePage": 21
+    }
+   ],
+   "ingredients": {
+    "it": "Latte fresco di pecora, sale, caglio naturale, farro e miele."
+   },
+   "details": [],
+   "images": [
+    {
+     "key": "p21-g2",
+     "page": 21,
+     "scope": "exact",
+     "alt": {
+      "it": "Formaggio miele farro"
+     }
+    }
+   ],
+   "id": "nqtr1720fm",
+   "slug": "miele-farro",
+   "catalogOrder": 106,
+   "sourcePages": [
+    21
+   ],
+   "verification": "verified",
+   "displayName": "Miele Farro"
+  },
+  {
+   "sourceName": "IL NOCINO IN FOGLIE",
+   "category": "formaggi",
+   "subcategory": "Latte di pecora",
+   "variants": [
+    {
+     "code": "NQTR1720FN",
+     "size": "1,2–3,0 kg",
+     "sourcePage": 22
+    }
+   ],
+   "ingredients": {
+    "it": "Latte fresco di pecora, sale, caglio naturale, foglie di noce."
+   },
+   "details": [],
+   "images": [
+    {
+     "key": "p22-g0",
+     "page": 22,
+     "scope": "exact",
+     "alt": {
+      "it": "Formaggio il nocino in foglie"
+     }
+    }
+   ],
+   "id": "nqtr1720fn",
+   "slug": "il-nocino-in-foglie",
+   "catalogOrder": 107,
+   "sourcePages": [
+    22
+   ],
+   "verification": "verified",
+   "displayName": "Il Nocino in foglie"
+  },
+  {
+   "sourceName": "AL CERIATOSO",
+   "category": "formaggi",
+   "subcategory": "Latte di pecora",
+   "variants": [
+    {
+     "code": "NQTR1720CE",
+     "size": "1,2–3,0 kg",
+     "sourcePage": 22
+    }
+   ],
+   "ingredients": {
+    "it": "Latte fresco di pecora, sale, caglio naturale, cereali."
+   },
+   "details": [],
+   "images": [
+    {
+     "key": "p22-g1",
+     "page": 22,
+     "scope": "exact",
+     "alt": {
+      "it": "Formaggio al ceriatoso"
+     }
+    }
+   ],
+   "id": "nqtr1720ce",
+   "slug": "al-ceriatoso",
+   "catalogOrder": 108,
+   "sourcePages": [
+    22
+   ],
+   "verification": "verified",
+   "displayName": "Al Ceriatoso"
+  },
+  {
+   "sourceName": "IL FRUTTATO",
+   "category": "formaggi",
+   "subcategory": "Latte di pecora",
+   "variants": [
+    {
+     "code": "NQTR1720PP",
+     "size": "1,2–3,0 kg",
+     "sourcePage": 22
+    }
+   ],
+   "ingredients": {
+    "it": "Latte fresco di pecora, sale, caglio naturale, prugne e prugnolo."
+   },
+   "details": [],
+   "images": [
+    {
+     "key": "p22-g2",
+     "page": 22,
+     "scope": "exact",
+     "alt": {
+      "it": "Formaggio il fruttato"
+     }
+    }
+   ],
+   "id": "nqtr1720pp",
+   "slug": "il-fruttato",
+   "catalogOrder": 109,
+   "sourcePages": [
+    22
+   ],
+   "verification": "verified",
+   "displayName": "Il Fruttato"
+  },
+  {
+   "sourceName": "CACIOTTA DI PECORA SUPERLATIVO",
+   "category": "formaggi",
+   "subcategory": "Latte di pecora",
+   "variants": [
+    {
+     "code": "GLQ009",
+     "size": "1,5–1,8 kg",
+     "sourcePage": 23
+    }
+   ],
+   "description": {
+    "it": "Realizzato con latte fresco di pecora e lavorato con cura per preservare tutto il sapore e la qualità delle materie prime. In bocca offre un gusto equilibrato e armonico, con una piacevole nota sapida e una lieve persistenza aromatica che valorizza la dolcezza naturale del latte di pecora."
+   },
+   "ingredients": {
+    "it": "Latte ovino pastorizzato, caglio, fermenti lattici, sale"
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Stagionatura"
+     },
+     "value": {
+      "it": "5 mesi"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p23-glq009",
+     "page": 23,
+     "scope": "exact",
+     "alt": {
+      "it": "Caciotta di pecora Superlativo confezionata"
+     }
+    }
+   ],
+   "id": "glq009",
+   "slug": "caciotta-di-pecora-superlativo",
+   "catalogOrder": 110,
+   "sourcePages": [
+    23
+   ],
+   "verification": "verified",
+   "displayName": "Caciotta di pecora Superlativo"
+  },
+  {
+   "sourceName": "CACIOTTA DI PECORA “IL MAXI SUPERLATIVO”",
+   "displayName": "Caciotta di pecora “Il Maxi Superlativo”",
+   "category": "formaggi",
+   "subcategory": "Latte di pecora",
+   "variants": [
+    {
+     "code": "GLQ010",
+     "size": "2,5–3,0 kg",
+     "sourcePage": 23
+    }
+   ],
+   "description": {
+    "it": "La prolungata stagionatura di nove mesi ne esalta il carattere, regalando un gusto più intenso e strutturato rispetto alla versione semistagionata. Al palato si distingue per una sapidità più pronunciata e una persistenza aromatica avvolgente, che valorizzano tutta la ricchezza e la complessità del latte di pecora, mantenendo un piacevole equilibrio gustativo."
+   },
+   "ingredients": {
+    "it": "Latte ovino pastorizzato, caglio, fermenti lattici, sale"
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Stagionatura"
+     },
+     "value": {
+      "it": "9 mesi"
+     }
+    }
+   ],
+   "images": [
+    {
+     "key": "p23-glq010",
+     "page": 23,
+     "scope": "exact",
+     "alt": {
+      "it": "Caciotta di pecora Il Maxi Superlativo confezionata"
+     }
+    }
+   ],
+   "id": "glq010",
+   "slug": "caciotta-di-pecora-il-maxi-superlativo",
+   "catalogOrder": 111,
+   "sourcePages": [
+    23
+   ],
+   "verification": "verified"
+  },
+  {
+   "sourceName": "MIELE DI AILANTO ITALIA",
+   "displayName": "Miele di ailanto Italia",
+   "category": "miele",
+   "variants": [
+    {
+     "code": "NQAF001",
+     "size": "45 g",
+     "sourcePage": 23
+    },
+    {
+     "code": "NQAF002",
+     "size": "500 g",
+     "sourcePage": 23
+    },
+    {
+     "code": "NQAF003",
+     "size": "1000 g",
+     "sourcePage": 23
+    }
+   ],
+   "origin": {
+    "it": "Italia (indicato nel nome di catalogo)"
+   },
+   "images": [
+    {
+     "key": "p23-honey",
+     "page": 23,
+     "scope": "range",
+     "alt": {
+      "it": "Vasetti della linea miele (immagine di gamma) — miele di ailanto italia"
+     }
+    }
+   ],
+   "notes": [
+    "Il catalogo mostra un’unica fotografia per tutta la linea miele: l’immagine non identifica il singolo vasetto."
+   ],
+   "id": "nqaf001",
+   "slug": "miele-di-ailanto-italia",
+   "catalogOrder": 112,
+   "sourcePages": [
+    23
+   ],
+   "verification": "verified"
+  },
+  {
+   "sourceName": "MIELE DI CASTAGNO ITALIA",
+   "displayName": "Miele di castagno Italia",
+   "category": "miele",
+   "variants": [
+    {
+     "code": "NQAF004",
+     "size": "500 g",
+     "sourcePage": 23
+    },
+    {
+     "code": "NQAF005",
+     "size": "1000 g",
+     "sourcePage": 23
+    }
+   ],
+   "origin": {
+    "it": "Italia (indicato nel nome di catalogo)"
+   },
+   "images": [
+    {
+     "key": "p23-honey",
+     "page": 23,
+     "scope": "range",
+     "alt": {
+      "it": "Vasetti della linea miele (immagine di gamma) — miele di castagno italia"
+     }
+    }
+   ],
+   "notes": [
+    "Il catalogo mostra un’unica fotografia per tutta la linea miele: l’immagine non identifica il singolo vasetto."
+   ],
+   "id": "nqaf004",
+   "slug": "miele-di-castagno-italia",
+   "catalogOrder": 113,
+   "sourcePages": [
+    23
+   ],
+   "verification": "verified"
+  },
+  {
+   "sourceName": "MIELE DI ERICA ITALIA",
+   "displayName": "Miele di erica Italia",
+   "category": "miele",
+   "variants": [
+    {
+     "code": "NQAF006",
+     "size": "500 g",
+     "sourcePage": 23
+    }
+   ],
+   "origin": {
+    "it": "Italia (indicato nel nome di catalogo)"
+   },
+   "images": [
+    {
+     "key": "p23-honey",
+     "page": 23,
+     "scope": "range",
+     "alt": {
+      "it": "Vasetti della linea miele (immagine di gamma) — miele di erica italia"
+     }
+    }
+   ],
+   "notes": [
+    "Il catalogo mostra un’unica fotografia per tutta la linea miele: l’immagine non identifica il singolo vasetto."
+   ],
+   "id": "nqaf006",
+   "slug": "miele-di-erica-italia",
+   "catalogOrder": 114,
+   "sourcePages": [
+    23
+   ],
+   "verification": "verified"
+  },
+  {
+   "sourceName": "MIELE MILLEFIORI ITALIA",
+   "displayName": "Miele millefiori Italia",
+   "category": "miele",
+   "variants": [
+    {
+     "code": "NQAF008",
+     "size": "500 g",
+     "sourcePage": 23
+    },
+    {
+     "code": "NQAF009",
+     "size": "1000 g",
+     "sourcePage": 23
+    }
+   ],
+   "origin": {
+    "it": "Italia (indicato nel nome di catalogo)"
+   },
+   "images": [
+    {
+     "key": "p23-honey",
+     "page": 23,
+     "scope": "range",
+     "alt": {
+      "it": "Vasetti della linea miele (immagine di gamma) — miele millefiori italia"
+     }
+    }
+   ],
+   "notes": [
+    "Il catalogo mostra un’unica fotografia per tutta la linea miele: l’immagine non identifica il singolo vasetto."
+   ],
+   "id": "nqaf008",
+   "slug": "miele-millefiori-italia",
+   "catalogOrder": 115,
+   "sourcePages": [
+    23
+   ],
+   "verification": "verified"
+  },
+  {
+   "sourceName": "MIELE SULLA BIO ITALIA",
+   "displayName": "Miele di Sulla BIO Italia",
+   "category": "miele",
+   "variants": [
+    {
+     "code": "NQAF010",
+     "size": "500 g",
+     "sourcePage": 23
+    },
+    {
+     "code": "NQAF011",
+     "size": "1000 g",
+     "sourcePage": 23
+    }
+   ],
+   "origin": {
+    "it": "Italia (indicato nel nome di catalogo)"
+   },
+   "images": [
+    {
+     "key": "p23-honey",
+     "page": 23,
+     "scope": "range",
+     "alt": {
+      "it": "Vasetti della linea miele (immagine di gamma) — miele sulla bio italia"
+     }
+    }
+   ],
+   "notes": [
+    "Il catalogo mostra un’unica fotografia per tutta la linea miele: l’immagine non identifica il singolo vasetto.",
+    "Il nome stampato è \"MIELE SULLA BIO ITALIA\"; la dicitura di visualizzazione aggiunge \"di\"."
+   ],
+   "id": "nqaf010",
+   "slug": "miele-di-sulla-bio-italia",
+   "catalogOrder": 116,
+   "sourcePages": [
+    23
+   ],
+   "verification": "verified"
+  },
+  {
+   "sourceName": "MIELE DI MACCHIA ITALIA MEDITERRANEO",
+   "displayName": "Miele di macchia Italia Mediterraneo",
+   "category": "miele",
+   "variants": [
+    {
+     "code": "NQAF007",
+     "size": "1000 g",
+     "sourcePage": 23
+    }
+   ],
+   "origin": {
+    "it": "Italia (indicato nel nome di catalogo)"
+   },
+   "images": [
+    {
+     "key": "p23-honey",
+     "page": 23,
+     "scope": "range",
+     "alt": {
+      "it": "Vasetti della linea miele (immagine di gamma) — miele di macchia italia mediterraneo"
+     }
+    }
+   ],
+   "notes": [
+    "Il catalogo mostra un’unica fotografia per tutta la linea miele: l’immagine non identifica il singolo vasetto."
+   ],
+   "id": "nqaf007",
+   "slug": "miele-di-macchia-italia-mediterraneo",
+   "catalogOrder": 117,
+   "sourcePages": [
+    23
+   ],
+   "verification": "verified"
+  },
+  {
+   "sourceName": "CARCIOFI ARROSTITI ALL’OLIO",
+   "category": "conserve",
+   "subcategory": "Sottoli",
+   "variants": [
+    {
+     "code": "NQC1404",
+     "size": "580 g",
+     "sourcePage": 24
+    },
+    {
+     "code": "NQC1405",
+     "size": "1062 g",
+     "sourcePage": 24
+    },
+    {
+     "code": "NQC1406",
+     "size": "3100 g",
+     "sourcePage": 24
+    }
+   ],
+   "images": [
+    {
+     "key": "p24-g0",
+     "page": 24,
+     "scope": "family",
+     "alt": {
+      "it": "Vasetto carciofi arrostiti all’olio"
+     }
+    }
+   ],
+   "id": "nqc1404",
+   "slug": "carciofi-arrostiti-all-olio",
+   "catalogOrder": 118,
+   "sourcePages": [
+    24
+   ],
+   "verification": "verified",
+   "displayName": "Carciofi arrostiti all’olio"
+  },
+  {
+   "sourceName": "CARCIOFI INTERI ALL’OLIO",
+   "category": "conserve",
+   "subcategory": "Sottoli",
+   "variants": [
+    {
+     "code": "NQC1401",
+     "size": "500 g",
+     "sourcePage": 24
+    },
+    {
+     "code": "NQC1402",
+     "size": "1062 g",
+     "sourcePage": 24
+    },
+    {
+     "code": "NQC1403",
+     "size": "3100 g",
+     "sourcePage": 24
+    }
+   ],
+   "images": [
+    {
+     "key": "p24-g1",
+     "page": 24,
+     "scope": "family",
+     "alt": {
+      "it": "Vasetto carciofi interi all’olio"
+     }
+    }
+   ],
+   "id": "nqc1401",
+   "slug": "carciofi-interi-all-olio",
+   "catalogOrder": 119,
+   "sourcePages": [
+    24
+   ],
+   "verification": "verified",
+   "displayName": "Carciofi interi all’olio"
+  },
+  {
+   "sourceName": "FRIARELLI ALL’OLIO",
+   "category": "conserve",
+   "subcategory": "Sottoli",
+   "variants": [
+    {
+     "code": "NQC1429",
+     "size": "580 g",
+     "sourcePage": 24
+    },
+    {
+     "code": "NQC1430",
+     "size": "1062 g",
+     "sourcePage": 24
+    },
+    {
+     "code": "NQC1431",
+     "size": "3100 g",
+     "sourcePage": 24
+    }
+   ],
+   "images": [
+    {
+     "key": "p24-g2",
+     "page": 24,
+     "scope": "family",
+     "alt": {
+      "it": "Vasetto friarelli all’olio"
+     }
+    }
+   ],
+   "id": "nqc1429",
+   "slug": "friarelli-all-olio",
+   "catalogOrder": 120,
+   "sourcePages": [
+    24
+   ],
+   "verification": "verified",
+   "displayName": "Friarelli all’olio"
+  },
+  {
+   "sourceName": "FUNGHI DI MUSCHIO ALL’OLIO",
+   "category": "conserve",
+   "subcategory": "Sottoli",
+   "variants": [
+    {
+     "code": "NQC1415",
+     "size": "580 g",
+     "sourcePage": 24
+    },
+    {
+     "code": "NQC1416",
+     "size": "1062 g",
+     "sourcePage": 24
+    },
+    {
+     "code": "NQC1417",
+     "size": "3100 g",
+     "sourcePage": 24
+    }
+   ],
+   "images": [
+    {
+     "key": "p24-g3",
+     "page": 24,
+     "scope": "family",
+     "alt": {
+      "it": "Vasetto funghi di muschio all’olio"
+     }
+    }
+   ],
+   "id": "nqc1415",
+   "slug": "funghi-di-muschio-all-olio",
+   "catalogOrder": 121,
+   "sourcePages": [
+    24
+   ],
+   "verification": "verified",
+   "displayName": "Funghi di muschio all’olio"
+  },
+  {
+   "sourceName": "FUNGHI ORECCHIETTE ARROSTITE ALL’OLIO",
+   "category": "conserve",
+   "subcategory": "Sottoli",
+   "variants": [
+    {
+     "code": "NQC1412",
+     "size": "580 g",
+     "sourcePage": 24
+    },
+    {
+     "code": "NQC1411",
+     "size": "580 g",
+     "sourcePage": 24,
+     "label": "Orcio"
+    },
+    {
+     "code": "NQC1413",
+     "size": "1062 g",
+     "sourcePage": 24
+    },
+    {
+     "code": "NQC1414",
+     "size": "3100 g",
+     "sourcePage": 24
+    }
+   ],
+   "images": [
+    {
+     "key": "p24-g4",
+     "page": 24,
+     "scope": "family",
+     "alt": {
+      "it": "Vasetto funghi orecchiette arrostite all’olio"
+     }
+    }
+   ],
+   "id": "nqc1412",
+   "slug": "funghi-orecchiette-arrostite-all-olio",
+   "catalogOrder": 122,
+   "sourcePages": [
+    24
+   ],
+   "verification": "verified",
+   "displayName": "Funghi orecchiette arrostite all’olio"
+  },
+  {
+   "sourceName": "FUNGHI PIOPPINI AL NATURALE",
+   "category": "conserve",
+   "subcategory": "Sottoli",
+   "variants": [
+    {
+     "code": "NQC1410",
+     "size": "580 g",
+     "sourcePage": 24
+    }
+   ],
+   "images": [
+    {
+     "key": "p24-g5",
+     "page": 24,
+     "scope": "range",
+     "alt": {
+      "it": "Vasetto funghi pioppini al naturale"
+     }
+    }
+   ],
+   "notes": [
+    "Il catalogo usa la stessa fotografia per i funghi pioppini al naturale e all’olio."
+   ],
+   "id": "nqc1410",
+   "slug": "funghi-pioppini-al-naturale",
+   "catalogOrder": 123,
+   "sourcePages": [
+    24
+   ],
+   "verification": "verified",
+   "displayName": "Funghi pioppini al naturale"
+  },
+  {
+   "sourceName": "FUNGHI PIOPPINI ALL’OLIO",
+   "category": "conserve",
+   "subcategory": "Sottoli",
+   "variants": [
+    {
+     "code": "NQC1407",
+     "size": "580 g",
+     "sourcePage": 24
+    },
+    {
+     "code": "NQC1408",
+     "size": "1062 g",
+     "sourcePage": 24
+    },
+    {
+     "code": "NQC1409",
+     "size": "3100 g",
+     "sourcePage": 24
+    }
+   ],
+   "images": [
+    {
+     "key": "p24-g5",
+     "page": 24,
+     "scope": "family",
+     "alt": {
+      "it": "Vasetto funghi pioppini all’olio"
+     }
+    }
+   ],
+   "id": "nqc1407",
+   "slug": "funghi-pioppini-all-olio",
+   "catalogOrder": 124,
+   "sourcePages": [
+    24
+   ],
+   "verification": "verified",
+   "displayName": "Funghi pioppini all’olio"
+  },
+  {
+   "sourceName": "MELANZANE A FETTE ALL’OLIO",
+   "category": "conserve",
+   "subcategory": "Sottoli",
+   "variants": [
+    {
+     "code": "NQC1421",
+     "size": "580 g",
+     "sourcePage": 24
+    },
+    {
+     "code": "NQC1422",
+     "size": "3100 g",
+     "sourcePage": 24
+    }
+   ],
+   "images": [
+    {
+     "key": "p24-g6",
+     "page": 24,
+     "scope": "family",
+     "alt": {
+      "it": "Vasetto melanzane a fette all’olio"
+     }
+    }
+   ],
+   "id": "nqc1421",
+   "slug": "melanzane-a-fette-all-olio",
+   "catalogOrder": 125,
+   "sourcePages": [
+    24
+   ],
+   "verification": "verified",
+   "displayName": "Melanzane a fette all’olio"
+  },
+  {
+   "sourceName": "MELANZANE A INVOLTINI ALL’OLIO",
+   "category": "conserve",
+   "subcategory": "Sottoli",
+   "variants": [
+    {
+     "code": "NQC1423",
+     "size": "580 g",
+     "sourcePage": 25
+    },
+    {
+     "code": "NQC1424",
+     "size": "3100 g",
+     "sourcePage": 25
+    }
+   ],
+   "images": [
+    {
+     "key": "p25-g0",
+     "page": 25,
+     "scope": "family",
+     "alt": {
+      "it": "Vasetto melanzane a involtini all’olio"
+     }
+    }
+   ],
+   "id": "nqc1423",
+   "slug": "melanzane-a-involtini-all-olio",
+   "catalogOrder": 126,
+   "sourcePages": [
+    25
+   ],
+   "verification": "verified",
+   "displayName": "Melanzane a involtini all’olio"
+  },
+  {
+   "sourceName": "MELANZANE A FILETTI ALL’OLIO",
+   "category": "conserve",
+   "subcategory": "Sottoli",
+   "variants": [
+    {
+     "code": "NQC1418",
+     "size": "580 g",
+     "sourcePage": 25
+    },
+    {
+     "code": "NQC1419",
+     "size": "1062 g",
+     "sourcePage": 25
+    },
+    {
+     "code": "NQC1420",
+     "size": "3100 g",
+     "sourcePage": 25
+    }
+   ],
+   "images": [
+    {
+     "key": "p25-g1",
+     "page": 25,
+     "scope": "family",
+     "alt": {
+      "it": "Vasetto melanzane a filetti all’olio"
+     }
+    }
+   ],
+   "id": "nqc1418",
+   "slug": "melanzane-a-filetti-all-olio",
+   "catalogOrder": 127,
+   "sourcePages": [
+    25
+   ],
+   "verification": "verified",
+   "displayName": "Melanzane a filetti all’olio"
+  },
+  {
+   "sourceName": "PEPERONATA ALLA CONTADINA ALL’OLIO",
+   "category": "conserve",
+   "subcategory": "Sottoli",
+   "variants": [
+    {
+     "code": "NQC1426",
+     "size": "580 g",
+     "sourcePage": 25
+    },
+    {
+     "code": "NQC1427",
+     "size": "1062 g",
+     "sourcePage": 25
+    },
+    {
+     "code": "NQC1428",
+     "size": "3100 g",
+     "sourcePage": 25
+    }
+   ],
+   "images": [
+    {
+     "key": "p25-g2",
+     "page": 25,
+     "scope": "family",
+     "alt": {
+      "it": "Vasetto peperonata alla contadina all’olio"
+     }
+    }
+   ],
+   "id": "nqc1426",
+   "slug": "peperonata-alla-contadina-all-olio",
+   "catalogOrder": 128,
+   "sourcePages": [
+    25
+   ],
+   "verification": "verified",
+   "displayName": "Peperonata alla contadina all’olio"
+  },
+  {
+   "sourceName": "SCAROLE CON OLIVE E CAPPERI",
+   "category": "conserve",
+   "subcategory": "Sottoli",
+   "variants": [
+    {
+     "code": "NQC1432",
+     "size": "580 g",
+     "sourcePage": 25
+    },
+    {
+     "code": "NQC1433",
+     "size": "1062 g",
+     "sourcePage": 25
+    },
+    {
+     "code": "NQC1434",
+     "size": "3100 g",
+     "sourcePage": 25
+    }
+   ],
+   "images": [
+    {
+     "key": "p25-g3",
+     "page": 25,
+     "scope": "family",
+     "alt": {
+      "it": "Vasetto scarole con olive e capperi"
+     }
+    }
+   ],
+   "id": "nqc1432",
+   "slug": "scarole-con-olive-e-capperi",
+   "catalogOrder": 129,
+   "sourcePages": [
+    25
+   ],
+   "verification": "verified",
+   "displayName": "Scarole con olive e capperi"
+  },
+  {
+   "sourceName": "PEPERONI ARROSTITI ORCIO",
+   "category": "conserve",
+   "subcategory": "Sottoli",
+   "variants": [
+    {
+     "code": "NQC1425",
+     "size": "580 g",
+     "sourcePage": 25
+    }
+   ],
+   "images": [
+    {
+     "key": "p25-g4",
+     "page": 25,
+     "scope": "exact",
+     "alt": {
+      "it": "Vasetto peperoni arrostiti orcio"
+     }
+    }
+   ],
+   "notes": [
+    "Testo di catalogo: \"PEPERONI ARROSTITI ORCIO DA 580 g\"."
+   ],
+   "id": "nqc1425",
+   "slug": "peperoni-arrostiti-orcio",
+   "catalogOrder": 130,
+   "sourcePages": [
+    25
+   ],
+   "verification": "verified",
+   "displayName": "Peperoni arrostiti orcio"
+  },
+  {
+   "sourceName": "PESCHE ALLO SCIROPPO ORCIO",
+   "category": "conserve",
+   "subcategory": "Frutta sciroppata",
+   "variants": [
+    {
+     "code": "NQC1435",
+     "size": "580 g",
+     "sourcePage": 25
+    }
+   ],
+   "images": [
+    {
+     "key": "p25-g5",
+     "page": 25,
+     "scope": "exact",
+     "alt": {
+      "it": "Orcio di pesche allo sciroppo"
+     }
+    }
+   ],
+   "id": "nqc1435",
+   "slug": "pesche-allo-sciroppo-orcio",
+   "catalogOrder": 131,
+   "sourcePages": [
+    25
+   ],
+   "verification": "verified",
+   "displayName": "Pesche allo sciroppo orcio"
+  },
+  {
+   "sourceName": "POMODORI PELATI SAN MARZANO",
+   "category": "conserve",
+   "subcategory": "Pomodoro",
+   "variants": [
+    {
+     "code": "GLQ006",
+     "size": "2,5 kg",
+     "sourcePage": 25,
+     "label": "Scatola 6 x 2,5 kg"
+    }
+   ],
+   "images": [
+    {
+     "key": "p25-glq006",
+     "page": 25,
+     "scope": "exact",
+     "alt": {
+      "it": "Latta di pomodori pelati Golosaqualità"
+     }
+    }
+   ],
+   "notes": [
+    "Codice stampato \"GLQ 006\" (con spazio), normalizzato in GLQ006."
+   ],
+   "id": "glq006",
+   "slug": "pomodori-pelati-san-marzano",
+   "catalogOrder": 132,
+   "sourcePages": [
+    25
+   ],
+   "verification": "verified",
+   "displayName": "Pomodori pelati San Marzano"
+  },
+  {
+   "sourceName": "PASSATA DI POMODORO",
+   "category": "conserve",
+   "subcategory": "Pomodoro",
+   "variants": [
+    {
+     "code": "GLQ007",
+     "size": "690 g",
+     "sourcePage": 25,
+     "label": "Scatola 12 bottiglie da 690 g"
+    }
+   ],
+   "images": [
+    {
+     "key": "p25-glq007",
+     "page": 25,
+     "scope": "exact",
+     "alt": {
+      "it": "Bottiglia di passata di pomodoro Golosaqualità"
+     }
+    }
+   ],
+   "notes": [
+    "Codice stampato \"GLQ 007\" (con spazio), normalizzato in GLQ007."
+   ],
+   "id": "glq007",
+   "slug": "passata-di-pomodoro",
+   "catalogOrder": 133,
+   "sourcePages": [
+    25
+   ],
+   "verification": "verified",
+   "displayName": "Passata di pomodoro"
+  },
+  {
+   "sourceName": "COLATURA ALICI",
+   "category": "tonno",
+   "subcategory": "Alici",
+   "variants": [
+    {
+     "code": "NQG304",
+     "size": "100 ml",
+     "sourcePage": 26
+    }
+   ],
+   "description": {
+    "it": "Dalle alici sapientemente lavorate e alternate, in botti di castagno, a strati di sale marino grosso, si giunge alla spillatura di un’essenza unica. Prodotto raro e prezioso, la colatura di alici è un condimento sapido e corposo, noto già in epoca romana e sempre più apprezzato e ricercato oggi sulle nostre tavole."
+   },
+   "images": [
+    {
+     "key": "p26-g0",
+     "page": 26,
+     "scope": "exact",
+     "alt": {
+      "it": "Bottiglia di colatura di alici"
+     }
+    }
+   ],
+   "id": "nqg304",
+   "slug": "colatura-alici",
+   "catalogOrder": 134,
+   "sourcePages": [
+    26
+   ],
+   "verification": "verified",
+   "displayName": "Colatura alici"
+  },
+  {
+   "sourceName": "TOCCHETTI TONNO ROSSO",
+   "category": "tonno",
+   "subcategory": "Tonno",
+   "variants": [
+    {
+     "code": "NQG312",
+     "size": "220 g",
+     "sourcePage": 26
+    }
+   ],
+   "description": {
+    "it": "Utilizzando solo tonni interi tagliati manualmente in tocchetti per insalate, primi piatti, ed aperitivi originali. I tocchetti di tonno rosso sono tagliati esclusivamente a mano, solo da tonni interi e nel rispetto dei tempi della tradizionale cottura in pentola con acqua e sale marino. Conservati in pregiato olio di oliva sono un prodotto…"
+   },
+   "images": [
+    {
+     "key": "p26-g1",
+     "page": 26,
+     "scope": "exact",
+     "alt": {
+      "it": "Vasetto di tocchetti di tonno rosso"
+     }
+    }
+   ],
+   "notes": [
+    "La descrizione nel catalogo è troncata (\"…sono un prodotto\")."
+   ],
+   "verification": "partial",
+   "id": "nqg312",
+   "slug": "tocchetti-tonno-rosso",
+   "catalogOrder": 135,
+   "sourcePages": [
+    26
+   ],
+   "displayName": "Tocchetti tonno rosso"
+  },
+  {
+   "sourceName": "TONNO ROSSO",
+   "category": "tonno",
+   "subcategory": "Tonno",
+   "variants": [
+    {
+     "code": "NQG301",
+     "size": "310 g",
+     "sourcePage": 26
+    },
+    {
+     "code": "NQG302",
+     "size": "575 g",
+     "sourcePage": 26
+    }
+   ],
+   "description": {
+    "it": "Il Tonno Rosso, la varietà più pregiata tra i pesci pelagici, ha carne tonica e morbida grazie alla sua dieta ricca di pesci azzurri e alla sua abilità di nuotare per lunghi tratti. Ricco di proteine, omega 3 e grassi essenziali, è ideale per contrastare colesterolo, invecchiamento cellulare e anemia. Pescato nel Mar Mediterraneo viene cotto esclusivamente in acqua bollente e sale marino, conservato in pregiato olio di oliva e tagliato artigianalmente in filetti."
+   },
+   "origin": {
+    "it": "Pescato nel Mar Mediterraneo (come indicato nel catalogo)"
+   },
+   "images": [
+    {
+     "key": "p26-g2",
+     "page": 26,
+     "scope": "family",
+     "alt": {
+      "it": "Vasetti di tonno rosso in due formati"
+     }
+    }
+   ],
+   "notes": [
+    "La descrizione contiene indicazioni salutistiche (\"ideale per contrastare colesterolo…\"): riportate come da fonte, da verificare per conformità normativa prima della pubblicazione."
+   ],
+   "verification": "partial",
+   "id": "nqg301",
+   "slug": "tonno-rosso",
+   "catalogOrder": 136,
+   "sourcePages": [
+    26
+   ],
+   "displayName": "Tonno rosso"
+  },
+  {
+   "sourceName": "TONNETTO ALLETTERATO",
+   "category": "tonno",
+   "subcategory": "Tonno",
+   "variants": [
+    {
+     "code": "NQG310",
+     "size": "220 g",
+     "sourcePage": 26
+    },
+    {
+     "code": "NQG311",
+     "size": "310 g",
+     "sourcePage": 26
+    }
+   ],
+   "description": {
+    "it": "Il Tonnetto o Alletterato si distingue dagli altri tonni principalmente per i particolari disegni neri irregolari sul dorso, che sembrano delle scritture fatte da lettere e simboli (da qui il nome alletterato). Dal sapore intenso e selvaggio, con dimensioni che non superano i 15kg, le sue carni sono molto apprezzate dagli intenditori del gusto e ricche di proprietà organolettiche come lipidi semi-essenziali e omega 3"
+   },
+   "images": [
+    {
+     "key": "p26-g3",
+     "page": 26,
+     "scope": "family",
+     "alt": {
+      "it": "Vasetti di tonnetto alletterato in due formati"
+     }
+    }
+   ],
+   "id": "nqg310",
+   "slug": "tonnetto-alletterato",
+   "catalogOrder": 137,
+   "sourcePages": [
+    26
+   ],
+   "verification": "verified",
+   "displayName": "Tonnetto alletterato"
+  },
+  {
+   "sourceName": "FILETTI DI TONNO ALALUNGA",
+   "category": "tonno",
+   "subcategory": "Tonno",
+   "variants": [
+    {
+     "code": "NQG309",
+     "size": "220 g",
+     "sourcePage": 26
+    },
+    {
+     "code": "NQG307",
+     "size": "310 g",
+     "sourcePage": 26
+    },
+    {
+     "code": "NQG303",
+     "size": "575 g",
+     "sourcePage": 26
+    }
+   ],
+   "description": {
+    "it": "L’alalunga o tonno bianco (per il colore della sua carne) è un pesce pregiato, noto per la delicatezza delle sue carni che, oltre ad essere squisite e sode, sono povere di grassi e in definitiva ottime dal punto di vista nutrizionale. Il tonno bianco viene cotto esclusivamente in acqua e sale marino, vero sinonimo di qualità e tradizione, contrariamente alle industrializzate cotture…"
+   },
+   "images": [
+    {
+     "key": "p26-g4",
+     "page": 26,
+     "scope": "family",
+     "alt": {
+      "it": "Vasetti di filetti di tonno alalunga in tre formati"
+     }
+    }
+   ],
+   "notes": [
+    "La descrizione nel catalogo è troncata (\"…contrariamente alle industrializzate cotture\")."
+   ],
+   "verification": "partial",
+   "id": "nqg309",
+   "slug": "filetti-di-tonno-alalunga",
+   "catalogOrder": 138,
+   "sourcePages": [
+    26
+   ],
+   "displayName": "Filetti di tonno alalunga"
+  },
+  {
+   "sourceName": "CREMOSA AL TARTUFO",
+   "category": "tartufi",
+   "subcategory": "Creme e condimenti",
+   "variants": [
+    {
+     "code": "NQMT1301",
+     "size": "90 g",
+     "sourcePage": 27
+    },
+    {
+     "code": "NQMT1302",
+     "size": "180 g",
+     "sourcePage": 27
+    },
+    {
+     "code": "NQMT1303",
+     "size": "500 g",
+     "sourcePage": 27
+    }
+   ],
+   "description": {
+    "it": "CONDIMENTO A BASE DI FORMAGGI E TARTUFI"
+   },
+   "ingredients": {
+    "it": "Besciamella (LATTE intero, PANNA, farina di FRUMENTO, amido di mais, sale), PANNA, mascarpone (crema di LATTE pastorizzato, LATTE pastorizzato, correttore di acidità: E330), Parmigiano Reggiano (LATTE, sale, …"
+   },
+   "images": [
+    {
+     "key": "p27-g0",
+     "page": 27,
+     "scope": "family",
+     "alt": {
+      "it": "Vasetto di cremosa al tartufo"
+     }
+    }
+   ],
+   "notes": [
+    "L’elenco ingredienti nel catalogo è troncato dopo \"Parmigiano Reggiano (LATTE, sale,\"."
+   ],
+   "verification": "partial",
+   "id": "nqmt1301",
+   "slug": "cremosa-al-tartufo",
+   "catalogOrder": 139,
+   "sourcePages": [
+    27
+   ],
+   "displayName": "Cremosa al tartufo"
+  },
+  {
+   "sourceName": "CREMA REGINA AL TARTUFO BIANCO",
+   "category": "tartufi",
+   "subcategory": "Creme e condimenti",
+   "variants": [
+    {
+     "code": "NQMT1310",
+     "size": "90 g",
+     "sourcePage": 27
+    },
+    {
+     "code": "NQMT1311",
+     "size": "180 g",
+     "sourcePage": 27
+    },
+    {
+     "code": "NQMT1312",
+     "size": "500 g",
+     "sourcePage": 27
+    }
+   ],
+   "description": {
+    "it": "CONDIMENTO A BASE DI FORMAGGI E TARTUFO"
+   },
+   "ingredients": {
+    "it": "Besciamella (LATTE intero, PANNA, farina di FRUMENTO, amido di mais, sale), PANNA, mascarpone (crema di LATTE, LATTE fresco pastorizzato 24%, correttore di acidità: E330), Parmigiano Reggiano (LATTE, sale, …"
+   },
+   "images": [
+    {
+     "key": "p27-g1",
+     "page": 27,
+     "scope": "family",
+     "alt": {
+      "it": "Vasetto di crema regina al tartufo bianco"
+     }
+    }
+   ],
+   "notes": [
+    "L’elenco ingredienti nel catalogo è troncato dopo \"Parmigiano Reggiano (LATTE, sale,\"."
+   ],
+   "verification": "partial",
+   "id": "nqmt1310",
+   "slug": "crema-regina-al-tartufo-bianco",
+   "catalogOrder": 140,
+   "sourcePages": [
+    27
+   ],
+   "displayName": "Crema Regina al tartufo bianco"
+  },
+  {
+   "sourceName": "CONDIMENTO A BASE DI BURRO E TARTUFO",
+   "category": "tartufi",
+   "subcategory": "Creme e condimenti",
+   "variants": [
+    {
+     "code": "NQMT1313",
+     "size": "90 g",
+     "sourcePage": 27
+    },
+    {
+     "code": "NQMT1314",
+     "size": "180 g",
+     "sourcePage": 27
+    },
+    {
+     "code": "NQMT1316",
+     "size": "500 g",
+     "sourcePage": 27
+    }
+   ],
+   "ingredients": {
+    "it": "BURRO 95%, tartufo bianchetto (Tuber borchii Vitt.) 2% (ORIGINE: ITALIA), tartufo estivo (Tuber aestivum Vitt.) 2% (ORIGINE: ITALIA), aroma, sale. Può contenere tracce o spore del genere tuber spp."
+   },
+   "origin": {
+    "it": "Tartufo: origine Italia (come indicato negli ingredienti)"
+   },
+   "images": [
+    {
+     "key": "p27-g2",
+     "page": 27,
+     "scope": "family",
+     "alt": {
+      "it": "Vasetto di condimento a base di burro e tartufo"
+     }
+    }
+   ],
+   "id": "nqmt1313",
+   "slug": "condimento-a-base-di-burro-e-tartufo",
+   "catalogOrder": 141,
+   "sourcePages": [
+    27
+   ],
+   "verification": "verified",
+   "displayName": "Condimento a base di burro e tartufo"
+  },
+  {
+   "sourceName": "CONDIMENTO A BASE DI BURRO E TARTUFO ESTIVO",
+   "category": "tartufi",
+   "subcategory": "Creme e condimenti",
+   "variants": [
+    {
+     "code": "NQMT1315",
+     "size": "500 g",
+     "sourcePage": 27
+    }
+   ],
+   "ingredients": {
+    "it": "BURRO 95%, tartufo estivo (Tuber aestivum Vitt.) 4% (ORIGINE: UE), aroma, sale. Può contenere tracce o spore del genere tuber spp."
+   },
+   "origin": {
+    "it": "Tartufo: origine UE (come indicato negli ingredienti)"
+   },
+   "images": [
+    {
+     "key": "p27-g3",
+     "page": 27,
+     "scope": "exact",
+     "alt": {
+      "it": "Vasetto di condimento a base di burro e tartufo estivo"
+     }
+    }
+   ],
+   "id": "nqmt1315",
+   "slug": "condimento-a-base-di-burro-e-tartufo-estivo",
+   "catalogOrder": 142,
+   "sourcePages": [
+    27
+   ],
+   "verification": "verified",
+   "displayName": "Condimento a base di burro e tartufo estivo"
+  },
+  {
+   "sourceName": "CONDIMENTO AROMATIZZATO AL TARTUFO BIANCO",
+   "category": "tartufi",
+   "subcategory": "Creme e condimenti",
+   "variants": [
+    {
+     "code": "NQMT1317",
+     "size": "250 ml",
+     "sourcePage": 27
+    },
+    {
+     "code": "NQMT1318",
+     "size": "500 ml",
+     "sourcePage": 27
+    },
+    {
+     "code": "NQMT1319",
+     "size": "5000 ml",
+     "sourcePage": 27
+    }
+   ],
+   "ingredients": {
+    "it": "OLIO 95%, tartufo bianchetto (Tuber borchii Vitt.) 2% (ORIGINE: ITALIA), tartufo estivo (Tuber aestivum Vitt.) 2% (ORIGINE: ITALIA), aroma, sale."
+   },
+   "origin": {
+    "it": "Tartufo: origine Italia (come indicato negli ingredienti)"
+   },
+   "images": [
+    {
+     "key": "p27-g4",
+     "page": 27,
+     "scope": "family",
+     "alt": {
+      "it": "Bottiglia di condimento aromatizzato al tartufo bianco"
+     }
+    }
+   ],
+   "id": "nqmt1317",
+   "slug": "condimento-aromatizzato-al-tartufo-bianco",
+   "catalogOrder": 143,
+   "sourcePages": [
+    27
+   ],
+   "verification": "verified",
+   "displayName": "Condimento aromatizzato al tartufo bianco"
+  },
+  {
+   "sourceName": "BRICIOLA AL TARTUFO ESTIVO CONGELATO",
+   "category": "tartufi",
+   "subcategory": "Tartufo",
+   "variants": [
+    {
+     "code": "NQMT1324",
+     "size": "70 g",
+     "sourcePage": 27
+    }
+   ],
+   "ingredients": {
+    "it": "Tartufo estivo (Tuber Aestivum Vitt.), intero, spezzato, a fette o brisura."
+   },
+   "images": [
+    {
+     "key": "p27-g5",
+     "page": 27,
+     "scope": "exact",
+     "alt": {
+      "it": "Tartufo estivo intero e a fette"
+     }
+    }
+   ],
+   "id": "nqmt1324",
+   "slug": "briciola-al-tartufo-estivo-congelato",
+   "catalogOrder": 144,
+   "sourcePages": [
+    27
+   ],
+   "verification": "verified",
+   "displayName": "Briciola al tartufo estivo congelato"
+  },
+  {
+   "sourceName": "DOPPIO SENSO",
+   "displayName": "Doppio Senso",
+   "category": "doppio-senso",
+   "variants": [
+    {
+     "code": "GLQ008",
+     "size": "0,1 l",
+     "sourcePage": 28,
+     "label": "Baby"
+    },
+    {
+     "code": "GLQ004",
+     "size": "0,7 l",
+     "sourcePage": 28,
+     "label": "Standard"
+    },
+    {
+     "code": "GLQ003",
+     "size": "0,7 l",
+     "sourcePage": 28,
+     "label": "Special Edition"
+    },
+    {
+     "code": "GLQ005",
+     "size": "1,5 l",
+     "sourcePage": 28,
+     "label": "Slim"
+    },
+    {
+     "code": "GLQ002",
+     "size": "1,5 l",
+     "sourcePage": 28,
+     "label": "Bombolo"
+    },
+    {
+     "code": "GLQ001",
+     "size": "4,5 l",
+     "sourcePage": 28,
+     "label": "Maxi"
+    }
+   ],
+   "description": {
+    "it": "Doppio senso nasce dalla collaborazione tra Noi, la Qualità e la rinomata Distilleria Morelli, realtà artigianale italiana che produce alcolici dal 1911. L’obbiettivo era quello di creare un prodotto unico nel suo genere che unisca il gusto tradizionale del rum con l’innovazione del caramello salato."
+   },
+   "details": [
+    {
+     "label": {
+      "it": "Gradazione"
+     },
+     "value": {
+      "it": "35% vol"
+     }
+    },
+    {
+     "label": {
+      "it": "In etichetta"
+     },
+     "value": {
+      "it": "Liquore a base di rum & caramello salato"
+     }
+    }
+   ],
+   "producer": "Distilleria Morelli",
+   "images": [
+    {
+     "key": "editorial/pdf-doppio-senso",
+     "page": 28,
+     "scope": "range",
+     "alt": {
+      "it": "Bottiglia Doppio Senso su un tavolo in legno affacciato su un porto ligure"
+     }
+    }
+   ],
+   "notes": [
+    "Il catalogo mostra le diverse bottiglie solo come sagome grafiche; l’unica fotografia raffigura il formato standard.",
+    "\"In etichetta\" è trascritto dall’etichetta visibile nella fotografia del catalogo."
+   ],
+   "id": "glq008",
+   "slug": "doppio-senso",
+   "catalogOrder": 145,
+   "sourcePages": [
+    28
+   ],
+   "verification": "verified"
+  },
+  {
+   "sourceName": "GRAPPA TOSCANA",
+   "category": "alcolici",
+   "subcategory": "Grappe",
+   "variants": [
+    {
+     "code": "NQM002",
+     "size": "0,70 l",
+     "sourcePage": 31
+    },
+    {
+     "code": "NQM004",
+     "size": "1,50 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm002",
+   "slug": "grappa-toscana",
+   "catalogOrder": 146,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Grappa Toscana"
+  },
+  {
+   "sourceName": "GRAPPA TOSCANA INVECCHIATA",
+   "category": "alcolici",
+   "subcategory": "Grappe",
+   "variants": [
+    {
+     "code": "NQM006",
+     "size": "0,70 l",
+     "sourcePage": 31
+    },
+    {
+     "code": "NQM008",
+     "size": "1,5 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm006",
+   "slug": "grappa-toscana-invecchiata",
+   "catalogOrder": 147,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Grappa Toscana invecchiata"
+  },
+  {
+   "sourceName": "GRAPPA 40% BIANCA",
+   "category": "alcolici",
+   "subcategory": "Grappe",
+   "variants": [
+    {
+     "code": "NQM011",
+     "size": "1,00 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm011",
+   "slug": "grappa-40-bianca",
+   "catalogOrder": 148,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Grappa 40% bianca"
+  },
+  {
+   "sourceName": "GRAPPA 98 INVECCHIATA",
+   "category": "alcolici",
+   "subcategory": "Grappe",
+   "variants": [
+    {
+     "code": "NQM016",
+     "size": "0,70 l",
+     "sourcePage": 31
+    },
+    {
+     "code": "NQM018",
+     "size": "1,50 l",
+     "sourcePage": 31,
+     "label": "Magnum"
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm016",
+   "slug": "grappa-98-invecchiata",
+   "catalogOrder": 149,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Grappa 98 invecchiata"
+  },
+  {
+   "sourceName": "GRAPPA DI MOSCATO",
+   "category": "alcolici",
+   "subcategory": "Grappe",
+   "variants": [
+    {
+     "code": "NQM020",
+     "size": "0,70 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm020",
+   "slug": "grappa-di-moscato",
+   "catalogOrder": 150,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Grappa di Moscato"
+  },
+  {
+   "sourceName": "GRAPPA MOSCATO RISERVA",
+   "category": "alcolici",
+   "subcategory": "Grappe",
+   "variants": [
+    {
+     "code": "NQM021",
+     "size": "0,10 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm021",
+   "slug": "grappa-moscato-riserva",
+   "catalogOrder": 151,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Grappa Moscato Riserva"
+  },
+  {
+   "sourceName": "GRAPPA DI MOSCATO RISERVA",
+   "category": "alcolici",
+   "subcategory": "Grappe",
+   "variants": [
+    {
+     "code": "NQM047",
+     "size": "4,50 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm047",
+   "slug": "grappa-di-moscato-riserva",
+   "catalogOrder": 152,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Grappa di Moscato Riserva"
+  },
+  {
+   "sourceName": "DECANTER GRAPPA MOSCATO RISERVA",
+   "category": "alcolici",
+   "subcategory": "Grappe",
+   "variants": [
+    {
+     "code": "NQM138",
+     "size": "0,70 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm138",
+   "slug": "decanter-grappa-moscato-riserva",
+   "catalogOrder": 153,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Decanter grappa Moscato Riserva"
+  },
+  {
+   "sourceName": "GRAPPA CHIANTI",
+   "category": "alcolici",
+   "subcategory": "Grappe",
+   "variants": [
+    {
+     "code": "NQM024",
+     "size": "0,70 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm024",
+   "slug": "grappa-chianti",
+   "catalogOrder": 154,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Grappa Chianti"
+  },
+  {
+   "sourceName": "GRAPPA CHIANTI RISERVA",
+   "category": "alcolici",
+   "subcategory": "Grappe",
+   "variants": [
+    {
+     "code": "NQM026",
+     "size": "0,70 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm026",
+   "slug": "grappa-chianti-riserva",
+   "catalogOrder": 155,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Grappa Chianti Riserva"
+  },
+  {
+   "sourceName": "GRAPPA DI CHIANTI RISERVA",
+   "category": "alcolici",
+   "subcategory": "Grappe",
+   "variants": [
+    {
+     "code": "NQM139",
+     "size": "4,50 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm139",
+   "slug": "grappa-di-chianti-riserva",
+   "catalogOrder": 156,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Grappa di Chianti Riserva"
+  },
+  {
+   "sourceName": "GRAPPA DI BRUNELLO",
+   "category": "alcolici",
+   "subcategory": "Grappe",
+   "variants": [
+    {
+     "code": "NQM031",
+     "size": "0,70 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm031",
+   "slug": "grappa-di-brunello",
+   "catalogOrder": 157,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Grappa di Brunello"
+  },
+  {
+   "sourceName": "GRAPPA DI BRUNELLO RISERVA",
+   "category": "alcolici",
+   "subcategory": "Grappe",
+   "variants": [
+    {
+     "code": "NQM056",
+     "size": "4,50 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm056",
+   "slug": "grappa-di-brunello-riserva",
+   "catalogOrder": 158,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Grappa di Brunello Riserva"
+  },
+  {
+   "sourceName": "GRAPPA DI MORELLINO",
+   "category": "alcolici",
+   "subcategory": "Grappe",
+   "variants": [
+    {
+     "code": "NQM046",
+     "size": "4,50 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm046",
+   "slug": "grappa-di-morellino",
+   "catalogOrder": 159,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Grappa di Morellino"
+  },
+  {
+   "sourceName": "GRAPPA MIELE",
+   "category": "alcolici",
+   "subcategory": "Grappe",
+   "variants": [
+    {
+     "code": "NQM033",
+     "size": "0,70 l",
+     "sourcePage": 31
+    },
+    {
+     "code": "NQM140",
+     "size": "0,50 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm033",
+   "slug": "grappa-miele",
+   "catalogOrder": 160,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Grappa miele"
+  },
+  {
+   "sourceName": "GRAPPA 50 E 50 RISERVA",
+   "category": "alcolici",
+   "subcategory": "Grappe",
+   "variants": [
+    {
+     "code": "NQM034",
+     "size": "0,70 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm034",
+   "slug": "grappa-50-e-50-riserva",
+   "catalogOrder": 161,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Grappa 50 e 50 Riserva"
+  },
+  {
+   "sourceName": "GRAPPA STRAVECCHIA",
+   "category": "alcolici",
+   "subcategory": "Grappe",
+   "variants": [
+    {
+     "code": "NQM035",
+     "size": "1,00 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm035",
+   "slug": "grappa-stravecchia",
+   "catalogOrder": 162,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Grappa stravecchia"
+  },
+  {
+   "sourceName": "GRAPPA CRU 98",
+   "category": "alcolici",
+   "subcategory": "Grappe",
+   "variants": [
+    {
+     "code": "NQM038",
+     "size": "0,70 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm038",
+   "slug": "grappa-cru-98",
+   "catalogOrder": 163,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Grappa CRU 98"
+  },
+  {
+   "sourceName": "GRAPPA CENTENARIO VS",
+   "category": "alcolici",
+   "subcategory": "Grappe",
+   "variants": [
+    {
+     "code": "NQM041",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile.",
+    "Formato non indicato nel catalogo."
+   ],
+   "verification": "partial",
+   "id": "nqm041",
+   "slug": "grappa-centenario-vs",
+   "catalogOrder": 164,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Grappa Centenario VS"
+  },
+  {
+   "sourceName": "AMARO ALL’ARANCIA",
+   "category": "alcolici",
+   "subcategory": "Amari e liquori",
+   "variants": [
+    {
+     "code": "NQM057",
+     "size": "0,70 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm057",
+   "slug": "amaro-all-arancia",
+   "catalogOrder": 165,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Amaro all’arancia"
+  },
+  {
+   "sourceName": "AMARETTO DELLA TORRE",
+   "category": "alcolici",
+   "subcategory": "Amari e liquori",
+   "variants": [
+    {
+     "code": "NQM059",
+     "size": "0,70 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm059",
+   "slug": "amaretto-della-torre",
+   "catalogOrder": 166,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Amaretto della Torre"
+  },
+  {
+   "sourceName": "AMARO ETRUSCO",
+   "category": "alcolici",
+   "subcategory": "Amari e liquori",
+   "variants": [
+    {
+     "code": "NQM062",
+     "size": "0,70 l",
+     "sourcePage": 31
+    },
+    {
+     "code": "NQM063",
+     "size": "1,00 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm062",
+   "slug": "amaro-etrusco",
+   "catalogOrder": 167,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Amaro Etrusco"
+  },
+  {
+   "sourceName": "AMARO V ERA",
+   "category": "alcolici",
+   "subcategory": "Amari e liquori",
+   "variants": [
+    {
+     "code": "NQM064",
+     "size": "0,70 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile.",
+    "Nome stampato \"AMARO V ERA\": possibile spaziatura errata, conservato come da fonte."
+   ],
+   "verification": "partial",
+   "id": "nqm064",
+   "slug": "amaro-v-era",
+   "catalogOrder": 168,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Amaro V era"
+  },
+  {
+   "sourceName": "ARANCINO",
+   "category": "alcolici",
+   "subcategory": "Amari e liquori",
+   "variants": [
+    {
+     "code": "NQM068",
+     "size": "0,50 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm068",
+   "slug": "arancino",
+   "catalogOrder": 169,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Arancino"
+  },
+  {
+   "sourceName": "LIMONCINO",
+   "category": "alcolici",
+   "subcategory": "Amari e liquori",
+   "variants": [
+    {
+     "code": "NQM072",
+     "size": "0,50 l",
+     "sourcePage": 31
+    },
+    {
+     "code": "NQM073",
+     "size": "1,00 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm072",
+   "slug": "limoncino",
+   "catalogOrder": 170,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Limoncino"
+  },
+  {
+   "sourceName": "LIQUORE RABARBARO",
+   "category": "alcolici",
+   "subcategory": "Amari e liquori",
+   "variants": [
+    {
+     "code": "NQM075",
+     "size": "0,70 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm075",
+   "slug": "liquore-rabarbaro",
+   "catalogOrder": 171,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Liquore rabarbaro"
+  },
+  {
+   "sourceName": "LIQUORE PINOLO",
+   "category": "alcolici",
+   "subcategory": "Amari e liquori",
+   "variants": [
+    {
+     "code": "NQM092",
+     "size": "0,50 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm092",
+   "slug": "liquore-pinolo",
+   "catalogOrder": 172,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Liquore pinolo"
+  },
+  {
+   "sourceName": "LIQUORE PISTACCHIO",
+   "category": "alcolici",
+   "subcategory": "Amari e liquori",
+   "variants": [
+    {
+     "code": "NQM093",
+     "size": "0,50 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm093",
+   "slug": "liquore-pistacchio",
+   "catalogOrder": 173,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Liquore pistacchio"
+  },
+  {
+   "sourceName": "LIQUORE MELONCINO",
+   "category": "alcolici",
+   "subcategory": "Amari e liquori",
+   "variants": [
+    {
+     "code": "NQM142",
+     "size": "0,50 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile.",
+    "Formato stampato come \"50CL\"."
+   ],
+   "verification": "partial",
+   "id": "nqm142",
+   "slug": "liquore-meloncino",
+   "catalogOrder": 174,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Liquore meloncino"
+  },
+  {
+   "sourceName": "LIQUORE RHUM E MIELE 25%",
+   "category": "alcolici",
+   "subcategory": "Amari e liquori",
+   "variants": [
+    {
+     "code": "NQM091",
+     "size": "0,70 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm091",
+   "slug": "liquore-rhum-e-miele-25",
+   "catalogOrder": 175,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Liquore rhum e miele 25%"
+  },
+  {
+   "sourceName": "SAMBUCA",
+   "category": "alcolici",
+   "subcategory": "Amari e liquori",
+   "variants": [
+    {
+     "code": "NQM122",
+     "size": "0,70 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm122",
+   "slug": "sambuca",
+   "catalogOrder": 176,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Sambuca"
+  },
+  {
+   "sourceName": "SAMBUCA AL CAFFE",
+   "category": "alcolici",
+   "subcategory": "Amari e liquori",
+   "variants": [
+    {
+     "code": "NQM125",
+     "size": "0,70 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm125",
+   "slug": "sambuca-al-caffe",
+   "catalogOrder": 177,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Sambuca al caffe"
+  },
+  {
+   "sourceName": "SPIRITO DI CAFFE",
+   "category": "alcolici",
+   "subcategory": "Spiriti",
+   "variants": [
+    {
+     "code": "NQM079",
+     "size": "0,70 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm079",
+   "slug": "spirito-di-caffe",
+   "catalogOrder": 178,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Spirito di caffe"
+  },
+  {
+   "sourceName": "SPIRITO DI MIRTILLO",
+   "category": "alcolici",
+   "subcategory": "Spiriti",
+   "variants": [
+    {
+     "code": "NQM080",
+     "size": "0,70 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm080",
+   "slug": "spirito-di-mirtillo",
+   "catalogOrder": 179,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Spirito di mirtillo"
+  },
+  {
+   "sourceName": "SPIRITO DI LIQUIRIZIA",
+   "category": "alcolici",
+   "subcategory": "Spiriti",
+   "variants": [
+    {
+     "code": "NQM081",
+     "size": "0,70 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm081",
+   "slug": "spirito-di-liquirizia",
+   "catalogOrder": 180,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Spirito di liquirizia"
+  },
+  {
+   "sourceName": "SPIRITO DI FRAGOLA",
+   "category": "alcolici",
+   "subcategory": "Spiriti",
+   "variants": [
+    {
+     "code": "NQM082",
+     "size": "0,70 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm082",
+   "slug": "spirito-di-fragola",
+   "catalogOrder": 181,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Spirito di fragola"
+  },
+  {
+   "sourceName": "SPIRITO DI CILIEGIA",
+   "category": "alcolici",
+   "subcategory": "Spiriti",
+   "variants": [
+    {
+     "code": "NQM083",
+     "size": "0,70 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm083",
+   "slug": "spirito-di-ciliegia",
+   "catalogOrder": 182,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Spirito di ciliegia"
+  },
+  {
+   "sourceName": "SPIRITO DI CACAO",
+   "category": "alcolici",
+   "subcategory": "Spiriti",
+   "variants": [
+    {
+     "code": "NQM084",
+     "size": "0,70 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm084",
+   "slug": "spirito-di-cacao",
+   "catalogOrder": 183,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Spirito di cacao"
+  },
+  {
+   "sourceName": "SPIRITO DI NOCE",
+   "category": "alcolici",
+   "subcategory": "Spiriti",
+   "variants": [
+    {
+     "code": "NQM085",
+     "size": "0,70 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm085",
+   "slug": "spirito-di-noce",
+   "catalogOrder": 184,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Spirito di noce"
+  },
+  {
+   "sourceName": "RHUM INVECCHIATO 40%",
+   "category": "alcolici",
+   "subcategory": "Rhum e gin",
+   "variants": [
+    {
+     "code": "NQM089",
+     "size": "0,70 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm089",
+   "slug": "rhum-invecchiato-40",
+   "catalogOrder": 185,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Rhum invecchiato 40%"
+  },
+  {
+   "sourceName": "RHUM AL PONCE ALLA TOSCANA 40%",
+   "category": "alcolici",
+   "subcategory": "Rhum e gin",
+   "variants": [
+    {
+     "code": "NQM090",
+     "size": "0,70 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm090",
+   "slug": "rhum-al-ponce-alla-toscana-40",
+   "catalogOrder": 186,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Rhum al ponce alla Toscana 40%"
+  },
+  {
+   "sourceName": "GIN BOTANICO",
+   "category": "alcolici",
+   "subcategory": "Rhum e gin",
+   "variants": [
+    {
+     "code": "NQM094",
+     "size": "0,70 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm094",
+   "slug": "gin-botanico",
+   "catalogOrder": 187,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Gin botanico"
+  },
+  {
+   "sourceName": "GIN BOTANICO TIMO E CAMOMILLA",
+   "category": "alcolici",
+   "subcategory": "Rhum e gin",
+   "variants": [
+    {
+     "code": "NQM143",
+     "size": "0,70 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm143",
+   "slug": "gin-botanico-timo-e-camomilla",
+   "catalogOrder": 188,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Gin botanico timo e camomilla"
+  },
+  {
+   "sourceName": "GIN FONDATORE",
+   "category": "alcolici",
+   "subcategory": "Rhum e gin",
+   "variants": [
+    {
+     "code": "NQM095",
+     "size": "1,00 l",
+     "sourcePage": 31
+    },
+    {
+     "code": "NQM096",
+     "size": "1,50 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm095",
+   "slug": "gin-fondatore",
+   "catalogOrder": 189,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Gin Fondatore"
+  },
+  {
+   "sourceName": "GIN ZAFFERANO",
+   "category": "alcolici",
+   "subcategory": "Rhum e gin",
+   "variants": [
+    {
+     "code": "NQM097",
+     "size": "0,70 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm097",
+   "slug": "gin-zafferano",
+   "catalogOrder": 190,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Gin zafferano"
+  },
+  {
+   "sourceName": "CREME VARIO GENERE ARANCINO",
+   "category": "alcolici",
+   "subcategory": "Creme",
+   "variants": [
+    {
+     "code": "NQM099",
+     "size": "0,50 l",
+     "sourcePage": 31
+    },
+    {
+     "code": "NQM100",
+     "size": "1,00 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm099",
+   "slug": "creme-vario-genere-arancino",
+   "catalogOrder": 191,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Creme Vario Genere arancino"
+  },
+  {
+   "sourceName": "CREME VARIO GENERE IRIS",
+   "category": "alcolici",
+   "subcategory": "Creme",
+   "variants": [
+    {
+     "code": "NQM102",
+     "size": "0,50 l",
+     "sourcePage": 31
+    },
+    {
+     "code": "NQM103",
+     "size": "1,00 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm102",
+   "slug": "creme-vario-genere-iris",
+   "catalogOrder": 192,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Creme Vario Genere Iris"
+  },
+  {
+   "sourceName": "CREME VARIO GENERE CAFFE",
+   "category": "alcolici",
+   "subcategory": "Creme",
+   "variants": [
+    {
+     "code": "NQM105",
+     "size": "0,50 l",
+     "sourcePage": 31
+    },
+    {
+     "code": "NQM106",
+     "size": "1,00 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm105",
+   "slug": "creme-vario-genere-caffe",
+   "catalogOrder": 193,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Creme Vario Genere caffe"
+  },
+  {
+   "sourceName": "CREME VARIO GENERE FRAGOLA",
+   "category": "alcolici",
+   "subcategory": "Creme",
+   "variants": [
+    {
+     "code": "NQM107",
+     "size": "0,50 l",
+     "sourcePage": 31
+    },
+    {
+     "code": "NQM108",
+     "size": "1,00 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm107",
+   "slug": "creme-vario-genere-fragola",
+   "catalogOrder": 194,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Creme Vario Genere fragola"
+  },
+  {
+   "sourceName": "CREME VARIO GENERE FIOR DI LATTE",
+   "category": "alcolici",
+   "subcategory": "Creme",
+   "variants": [
+    {
+     "code": "NQM110",
+     "size": "0,50 l",
+     "sourcePage": 31
+    },
+    {
+     "code": "NQM111",
+     "size": "1,00 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm110",
+   "slug": "creme-vario-genere-fior-di-latte",
+   "catalogOrder": 195,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Creme Vario Genere fior di latte"
+  },
+  {
+   "sourceName": "CREME VARIO GENERE GIANDUIA",
+   "category": "alcolici",
+   "subcategory": "Creme",
+   "variants": [
+    {
+     "code": "NQM113",
+     "size": "0,50 l",
+     "sourcePage": 31
+    },
+    {
+     "code": "NQM114",
+     "size": "1,00 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm113",
+   "slug": "creme-vario-genere-gianduia",
+   "catalogOrder": 196,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Creme Vario Genere gianduia"
+  },
+  {
+   "sourceName": "CREME VARIO GENERE CARAIBI",
+   "category": "alcolici",
+   "subcategory": "Creme",
+   "variants": [
+    {
+     "code": "NQM116",
+     "size": "0,50 l",
+     "sourcePage": 31
+    },
+    {
+     "code": "NQM117",
+     "size": "1,00 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm116",
+   "slug": "creme-vario-genere-caraibi",
+   "catalogOrder": 197,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Creme Vario Genere Caraibi"
+  },
+  {
+   "sourceName": "CREME VARIO GENERE PISTACCHIO",
+   "category": "alcolici",
+   "subcategory": "Creme",
+   "variants": [
+    {
+     "code": "NQM120",
+     "size": "0,50 l",
+     "sourcePage": 31
+    },
+    {
+     "code": "NQM118",
+     "size": "1,00 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm120",
+   "slug": "creme-vario-genere-pistacchio",
+   "catalogOrder": 198,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Creme Vario Genere pistacchio"
+  },
+  {
+   "sourceName": "CREME VARIO GENERE CIOCCOLATO",
+   "category": "alcolici",
+   "subcategory": "Creme",
+   "variants": [
+    {
+     "code": "NQM144",
+     "size": "0,50 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm144",
+   "slug": "creme-vario-genere-cioccolato",
+   "catalogOrder": 199,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Creme Vario Genere cioccolato"
+  },
+  {
+   "sourceName": "CREME VARIO GENERE MELONCELLO",
+   "category": "alcolici",
+   "subcategory": "Creme",
+   "variants": [
+    {
+     "code": "NQM145",
+     "size": "0,50 l",
+     "sourcePage": 31
+    },
+    {
+     "code": "NQM146",
+     "size": "1,00 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm145",
+   "slug": "creme-vario-genere-meloncello",
+   "catalogOrder": 200,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Creme Vario Genere meloncello"
+  },
+  {
+   "sourceName": "CREME VARIO GENERE BANANA",
+   "category": "alcolici",
+   "subcategory": "Creme",
+   "variants": [
+    {
+     "code": "NQM147",
+     "size": "0,50 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm147",
+   "slug": "creme-vario-genere-banana",
+   "catalogOrder": 201,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Creme Vario Genere banana"
+  },
+  {
+   "sourceName": "CREME VARIO GENERE MENTA",
+   "category": "alcolici",
+   "subcategory": "Creme",
+   "variants": [
+    {
+     "code": "NQM148",
+     "size": "0,50 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm148",
+   "slug": "creme-vario-genere-menta",
+   "catalogOrder": 202,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Creme Vario Genere menta"
+  },
+  {
+   "sourceName": "BITTER",
+   "category": "alcolici",
+   "subcategory": "Aperitivi e bitter",
+   "variants": [
+    {
+     "code": "NQM127",
+     "size": "1,00 l",
+     "sourcePage": 31
+    },
+    {
+     "code": "NQM128",
+     "size": "1,50 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm127",
+   "slug": "bitter",
+   "catalogOrder": 203,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Bitter"
+  },
+  {
+   "sourceName": "APERITIVO DI TOSCANA",
+   "category": "alcolici",
+   "subcategory": "Aperitivi e bitter",
+   "variants": [
+    {
+     "code": "NQM129",
+     "size": "1,00 l",
+     "sourcePage": 31
+    },
+    {
+     "code": "NQM130",
+     "size": "1,50 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm129",
+   "slug": "aperitivo-di-toscana",
+   "catalogOrder": 204,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Aperitivo di Toscana"
+  },
+  {
+   "sourceName": "APRICOT",
+   "category": "alcolici",
+   "subcategory": "Aperitivi e bitter",
+   "variants": [
+    {
+     "code": "NQM131",
+     "size": "1,00 l",
+     "sourcePage": 31
+    },
+    {
+     "code": "NQM132",
+     "size": "1,50 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm131",
+   "slug": "apricot",
+   "catalogOrder": 205,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Apricot"
+  },
+  {
+   "sourceName": "TRIPLESEC",
+   "category": "alcolici",
+   "subcategory": "Aperitivi e bitter",
+   "variants": [
+    {
+     "code": "NQM133",
+     "size": "1,00 l",
+     "sourcePage": 31
+    }
+   ],
+   "images": [],
+   "notes": [
+    "Il catalogo riporta per gli alcolici solo codice, nome e formato (senza unità di misura: il litro è dedotto dal contesto, p. 31). Nessuna fotografia individuale disponibile."
+   ],
+   "verification": "partial",
+   "id": "nqm133",
+   "slug": "triplesec",
+   "catalogOrder": 206,
+   "sourcePages": [
+    31
+   ],
+   "displayName": "Triplesec"
+  }
+ ]
+}

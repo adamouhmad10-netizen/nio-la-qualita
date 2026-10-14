@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <!--ssr-title--><title>Noi, la qualità — Autentici sapori d’Italia</title>
+    <meta name="description" content="Noi, la qualità seleziona eccellenze gastronomiche italiane: pasta, riso, salumi, formaggi, miele, conserve, specialità di mare, tartufi e liquori. Catalogo prodotti 2026." /><!--/ssr-title-->
+    <meta name="theme-color" content="#25416d" />
+    <link rel="icon" type="image/png" sizes="64x64" href="/brand/favicon-64.png" />
+    <link rel="apple-touch-icon" href="/brand/favicon-180.png" />
+    <link rel="preload" as="image" type="image/webp" href="/images/editorial/hero-table-1280.webp" imagesrcset="/images/editorial/hero-table-640.webp 640w, /images/editorial/hero-table-960.webp 960w, /images/editorial/hero-table-1280.webp 1280w, /images/editorial/hero-table-2000.webp 2000w" imagesizes="(max-width: 900px) 100vw, 46vw" fetchpriority="high" />
+    <meta property="og:site_name" content="Noi, la qualità" />
+    <script>
+      // Allow motion-dependent initial states only when the user accepts motion (set before first paint).
+      if (!matchMedia('(prefers-reduced-motion: reduce)').matches) document.documentElement.classList.add('motion-ok')
+      // Lite mode for low-end devices / data saver: keep transitions, drop decorative extras.
+      var n = navigator, c = n.connection
+      if ((n.hardwareConcurrency && n.hardwareConcurrency <= 2) || (n.deviceMemory && n.deviceMemory <= 2) || (c && c.saveData)) document.documentElement.classList.add('lite')
+    </script>
+    <!--ssr-head-->
+    <meta property="og:locale" content="it_IT" />
+  </head>
+  <body>
+    <div id="root"><!--ssr-outlet--></div>
+    <noscript>Per consultare il catalogo è necessario abilitare JavaScript. Catalogo PDF: /catalogo/Catalogo-Noi-la-qualita-2026.pdf</noscript>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
